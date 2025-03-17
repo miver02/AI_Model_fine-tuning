@@ -1,0 +1,1294 @@
+[
+    {
+        "input": "Antminer L7 (9500 MH/s) Antminer L7 (9500 MH/s)",
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
+    },
+    {
+        "input": "Antminer L7 (9500 MH/s) Antminer L7 (9050 MH/s)",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Antminer L7 (9500 MH/s) Antminer L7 (8800 MH/s)",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "Antminer L7 (9500 MH/s) Antminer L7 (8050 MH/s)",
+        "output": "Bitmain Antminer L7 - 8.05Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1 Litecoin & Dogecoin Miner 17G 15.15G April. (with PSU.)",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "Elphapex DG Hydro 1 January",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "IceRiver ALEO AE0 Aleo Coin Miner 50Mh/s 100W pre-order",
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21e XP Hyd 3U (Antminer U3S21EXPH) 860Th/s 11180W Bitcoin Hydro Cooling Miner 2025-q2",
+        "output": "Bitmain Antminer S21e XP Hyd 3U - 860Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer L9 16G Litecoin Dogecoin Miner 16G mix May(with PSU)",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1 Hydro 30.4Gh/s 7600W LTC + DOGE +BEL Miner d1-hydro",
+        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1 Litecoin & Dogecoin Miner 17G 15.15G Spot (with PSU.)",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "Elphapex DG Hydro 1 April",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L9 16G Litecoin Dogecoin Miner 15G Spot (with PSU)",
+        "output": "Bitmain Antminer L9 - 15Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L9 16G Litecoin Dogecoin Miner 16G Spot (with PSU)",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "ICERIVER AE0 50Mh 100W Aleo ALEO Miner with PSU Free Shipping 50Mh 100W | Mar. Batch",
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
+    },
+    {
+        "input": "Cooldragon Antminer L9 17.6G 16.2G Scrypt LTC Miner 15g-stock",
+        "output": "Bitmain Antminer L9 - 15Gh/s"
+    },
+    {
+        "input": "Volcminer D1 15.15 GHUSA",
+        "output": "Volc Miner D1 - 15.15Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 Hydro 30.4Gh 7600W Litecoin Dogecoin Miner apr-order",
+        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L9 16G Litecoin Dogecoin Miner 17G Spot (with PSU)",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Cooldragon Antminer L9 17.6G 16.2G Scrypt LTC Miner 17g-stock",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Volcminer D1 15.15 GHHong Kong/China",
+        "output": "Volc Miner D1 - 15.15Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Delivery | Hosting Free Shipping 16Gh | Delivery | In Stock",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1 Lite 14Gh/s 4000W LTC + DOGE +BEL Miner d1-lite",
+        "output": "Volc Miner D1 Lite - 14Gh/s"
+    },
+    {
+        "input": "Cooldragon Antminer L9 17.6G 16.2G Scrypt LTC Miner 16g-stock",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "IceRiver ALEO AE0 50M/H 100W/H zkSNARK algorithm ALEO miner March batch",
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
+    },
+    {
+        "input": "Volcminer D1 Hydro 30.4Gh/s 7600W Litecoin Dogecoin Bells Miner april-batch",
+        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+    },
+    {
+        "input": "Volcminer D1 17 GHUSA",
+        "output": "Volc Miner D1 - 17Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Delivery | Hosting Free Shipping 16Gh | Hosted in USA | $0.074-$0.08/kWh",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "Cooldragon Antminer L9 17.6G 16.2G Scrypt LTC Miner 16g-apr-2025-batch",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "Elphapex DG1+ Elphapex DG1+",
+        "output": "Elphapex DG1+ - 9.5Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 Hydro 30.4Gh 7600W Scrypt algorithm DOGE and LTC april batch",
+        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1 Lite 14Gh/s 4000W Litecoin Dogecoin Bells Miner april-batch",
+        "output": "Volc Miner D1 Lite - 14Gh/s"
+    },
+    {
+        "input": "IceRiver ALEO AE0 50Mh/s 100W ALEO Miner march-batch",
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
+    },
+    {
+        "input": "Volcminer D1 17 GHHong Kong/China",
+        "output": "Volc Miner D1 - 17Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Delivery | Hosting Free Shipping 17Gh | Delivery | In Stock",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21e XP Hyd 3U Bitcoin Miner 860TH/S | BT-MINERS  / 860T / January Batch / ",
+        "output": "Bitmain Antminer S21e XP Hyd 3U - 860Th/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Delivery | Hosting Free Shipping 17Gh | Hosted in USA | $0.074-$0.08/kWh",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Cooldragon VolcMiner D1 Hydro 30.4G 7600W Scrypt LTC DOGE Miner d1-hydro-apr-batch",
+        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+    },
+    {
+        "input": "Cooldragon Elphapex DG HYD 1 20Gh/s 6200W Scrypt DOGE LTC Miner dg-hyd-1-mar-2025-batch",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 17G Litecoin Dogecoin Miner 15.15G In Stock",
+        "output": "Volc Miner D1 Lite - 15.5Gh/s"
+    },
+    {
+        "input": "Elphapex DG1+ Litecoin Dogecoin Miner 14G April 2025",
+        "output": "Elphapex DG1+ - 14Gh/s"
+    },
+    {
+        "input": "Cooldragon VolcMiner D1 Lite 14G 4000W Scrypt LTC DOGE Miner d1-lite-feb-batch",
+        "output": "Volc Miner D1 Lite - 14Gh/s"
+    },
+    {
+        "input": "Iceriver ALEO AE0 Aleo Miner May",
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21e XP Hyd 3U 860T Bitcoin Miner s21e-xp-hyd-3u-860t",
+        "output": "Bitmain Antminer S21e XP Hyd 3U - 860Th/s"
+    },
+    {
+        "input": "VOLCMINER D1 15G / 17G 3900W LTC + DOGE + BEL Miner d1-15-5g",
+        "output": "Volc Miner D1 - 15.15Gh/s"
+    },
+    {
+        "input": "Elphapex DG1+ Litecoin Dogecoin Miner 9.5G",
+        "output": "Elphapex DG1+ - 9.5Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30.4Gh/s | BT-MINERS 170-300V / 30.4G / April Batch / ",
+        "output": "Volc Miner D1 Hyd Lite - 30.4Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1  15.15Gh/s 17Gh/s3900W Litecoin Dogecoin Bells Miner 15-15g-in-stock",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "ElphaPex DG Hydro 1 20Gh/s 6200W Litcoin Dogecoin Bells Miner march-2025",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "Cooldragon IceRiver ALEO AE0 50Mh/s 100W zkSNARK ALEO Miner aleo-ae0-mar-batch",
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
+    },
+    {
+        "input": "Antminer S21e XP Hydro 3U Bitcoin Miner USA",
+        "output": "Bitmain Antminer S21e XP Hyd 3U - 860Th/s"
+    },
+    {
+        "input": "VOLCMINER D1  15.15Gh/s 17Gh/s3900W Litecoin Dogecoin Bells Miner 15-15g-april-batch",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 16G 3360W Litecoin Dogecoin Bells Miner Bitmain Antminer L9 16G 3360W Litecoin Dogecoin Bells Miner",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "Antminer S21e XP Hydro 3U Bitcoin Miner Hong Kong/China",
+        "output": "Bitmain Antminer S21e XP Hyd 3U - 860Th/s"
+    },
+    {
+        "input": "Elphapex DG1+ Litecoin Dogecoin Miner 13G",
+        "output": "Elphapex DG1+ - 13Gh/s"
+    },
+    {
+        "input": "ElphaPex DG Hydro 1 20Gh/s 6200W Litcoin Dogecoin Bells Miner feb-2025",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "Elphapex DG1+ Litecoin Dogecoin Miner 14G",
+        "output": "Elphapex DG1+ - 14Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21e XP Hyd 3U (860Th) Dec. BatchTh",
+        "output": "Bitmain Antminer S21e XP Hyd 3U - 860Th/s"
+    },
+    {
+        "input": "IceRiver ALEO AE0 ALEO Miner 50Mh/s 100W SPOT",
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
+    },
+    {
+        "input": "ElphaPex DG Hydro 1 Litecoin & Dogecoin Miner 20GH/s | BT-MINERS  / 20G / Q1 2025 / ",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 16G 3360W Litecoin Dogecoin Miner SPOTBitmain LTC Miner L9 15Gh",
+        "output": "Bitmain Antminer L9 - 15Gh/s"
+    },
+    {
+        "input": "Elphapex DG 1+ Litcoin Dogecoin Bells Miner 14.4G 3950W Elphapex DG1 9.5Gh",
+        "output": "Elphapex DG1+ - 9.5Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1 17Gh 3900W Litecoin Dogecoin Miner 15gh-s",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 16G 3360W Litecoin Dogecoin Miner SPOTBitmain LTC Miner L9 16Gh",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "ElphaPex DG Hydro 1 20G 6200W DOGE / LTC / BEL Coin Home Miner DG Hydro 1 (Mar Pre-order)",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "ElphaPex DG Hydro 1 20G 6200W DOGE / LTC / BEL Coin Home Miner DG Hydro 1",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 16G 3360W Litecoin Dogecoin Miner SPOTBitmain LTC Miner L9 17Gh",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 16G 3360W Litecoin Dogecoin Miner 2025 April. BatchBitmain LTC Miner L9 16Gh",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "ElphaPex DG Hydro 1 is an asicminer with 20Gh/s LTC and DOGE Miner with 6200W PSU March batch",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "IceRiver AE0 ALEO Miner 50Mh/s | BT-MINERS  / 50Mh/s / Mar Batch / ",
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21e XP Hydro 3U Bitcoin Miner (860 Th/s) BITMAIN Antminer S21e XP Hydro 3U Bitcoin Miner (860 Th/s)",
+        "output": "Bitmain Antminer S21e XP Hyd 3U - 860Th/s"
+    },
+    {
+        "input": "Elphapex DG 1+ Litcoin Dogecoin Bells Miner 14.4G 3950W Elphapex DG1 Plus 13Gh",
+        "output": "Elphapex DG1+ - 13Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Dogecoin Miner L9 17GH - In Stock",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1 Litecoin and Dogecoin Miner 17G  / 15.5G April. (with PSU.)",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 16G 3360W Litecoin Dogecoin Miner 2025 May. BatchBitmain LTC Miner L9 16Gh",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Dogecoin Miner L9 16GH - In Stock",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1 Litecoin and Dogecoin Miner 17G  / 17G Dec. (with PSU.)",
+        "output": "Volc Miner D1 Lite - 17Gh/s"
+    },
+    {
+        "input": "Elphapex DG 1+ Litcoin Dogecoin Bells Miner 14.4G 3950W Elphapex DG1 Plus 14Gh",
+        "output": "Elphapex DG1+ - 14Gh/s"
+    },
+    {
+        "input": "Volcminer D1 Lite Ready Stock",
+        "output": "Volc Miner D1 Lite - 14Gh/s"
+    },
+    {
+        "input": "ElphaPex DG Hydro 1 Dogecoin + Litecoin Miner (20 GH/S) ElphaPex DG Hydro 1 Dogecoin + Litecoin Miner (20 GH/S)",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "Elphapex DG 1+ Litcoin Dogecoin Bells Miner 14.4G 3950W Elphapex DG1 Plus 13.5Gh",
+        "output": "Elphapex DG1+ - 13.5Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1 Litecoin and Dogecoin Miner 17G  / 15.5G Spot. (with PSU.)",
+        "output": "Volc Miner D1 Lite - 15.5Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Dogecoin Miner L9 15GH - In Stock",
+        "output": "Bitmain Antminer L9 - 15Gh/s"
+    },
+    {
+        "input": "Iceriver AE0 Aleo Miner (50Mh) March Delivery 2025",
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
+    },
+    {
+        "input": "Elphapex DG 1+ Litcoin Dogecoin Bells Miner 14.4G 3950W Elphapex DG1 Plus 14.4Gh",
+        "output": "Elphapex DG1+ - 14.4Gh/s"
+    },
+    {
+        "input": "Antminer L9 (15G-16G-17G) Antminer L9 (17G)",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 Lite Dogecoin Miner April Delivery 2025",
+        "output": "Volc Miner D1 Lite - 14Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Dogecoin Miner L9 16GH - April Delivery 2025",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "Antminer L9 (15G-16G-17G) Antminer L9 (16G)",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "ElphaPex DG Hydro 1 Dogecoin Miner January Delivery 2025",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "ICERIVER ALEO AE0 Miner (50 Mh/s) ICERIVER ALEO AE0 Miner (50 Mh/s)",
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
+    },
+    {
+        "input": "ElphaPex DG Hydro 1 Dogecoin Miner April Delivery 2025",
+        "output": "Elphapex DG Hydro 1 - 20Gh/s"
+    },
+    {
+        "input": "Antminer L9 (15G-16G-17G) Antminer L9 (15G-16G-17G)",
+        "output": "Bitmain Antminer L9 - 15Gh/s"
+    },
+    {
+        "input": "Cooldragon VolcMiner D1 17G 3900W Batch Scrypt LTC DOGE Miner d1-17g-may-batch",
+        "output": "Volc Miner D1 - 17Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 Hydro Dogecoin Miner April Delivery 2025",
+        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+    },
+    {
+        "input": "Cooldragon VolcMiner D1 17G 3900W Batch Scrypt LTC DOGE Miner d1-15-15g-stock",
+        "output": "Volc Miner D1 - 15.15Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 Dogecoin Miner 15.15 GH/s - In Stock",
+        "output": "Volc Miner D1 - 15.15Gh/s"
+    },
+    {
+        "input": "Elphapex DG1+ 14.4G 3950W Litcoin Dogecoin Bells Miner Elphapex DG1+ 14.4G 3950W Litcoin Dogecoin Bells Miner",
+        "output": "Elphapex DG1+ - 14.4Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21e XP Hydro 3U BTC Miner November - December Delivery",
+        "output": "Bitmain Antminer S21e XP Hyd 3U - 860Th/s"
+    },
+    {
+        "input": "VOLCMINER D1 17Gh/s 3900W Litecoin Dogecoin Bells Miner 17g stocks",
+        "output": "Volc Miner D1 Lite - 17Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 Litecoin & Dogecoin Miner 15.15Gh/s | BT-MINERS  / 15.15Gh / April Batch / ",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1 17Gh/s 3900W Litecoin Dogecoin Bells Miner 15.15g Jan batch",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 Litecoin & Dogecoin Miner 15.15Gh/s | BT-MINERS  / 15.15Gh / Late Jan Batch / ",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "VOLCMINER D1 17Gh/s 3900W Litecoin Dogecoin Bells Miner 15.15G stocks",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1+ Dogecoin Miner 14 GH/s - April Delivery",
+        "output": "Elphapex DG1+ - 14Gh/s"
+    },
+    {
+        "input": "Elphapex DG1 Litcoin Dogecoin Bells Miner 11G 3420W Elphapex DG1 9.5Gh",
+        "output": "Elphapex DG1 - 9.5Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1+ Dogecoin Miner 14 GH/s - In Stock",
+        "output": "Elphapex DG1+ - 14Gh/s"
+    },
+    {
+        "input": "Elphapex DG1 Litcoin Dogecoin Bells Miner 11G 3420W Elphapex DG1 11Gh",
+        "output": "Elphapex DG1 - 11Gh/s"
+    },
+    {
+        "input": "Volcminer D1 17Gh 3900W LTC Litecoin DOGE Dogecoin Bellscoin BEL Miner Free Shipping 15.15Gh 3469W | Delivery | In Stock",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "Volcminer D1 17Gh 3900W LTC Litecoin DOGE Dogecoin Bellscoin BEL Miner Free Shipping 15.15Gh 3469W | Hosted in USA | $0.074-$0.08/kWh",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 Litecoin + Dogecoin Miner 15.15 Gh/s VolcMiner D1 Litecoin + Dogecoin Miner 15.15 Gh/s",
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1+ Dogecoin / Litecoin Miner (13-14.4 GH/s) ElphaPex DG1+ Dogecoin / Litecoin Miner (13-14.4 GH/s)",
+        "output": "Elphapex DG1+ - 13Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 17.0Gh/s ( LTC/DOGE ) Miner spot-in-stock",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Antminer S21 XP Hyd 473Th/s 5676W Bitcoin Miner s21-xp-hyd-473t",
+        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 17.0Gh/s ( LTC/DOGE ) Miner jan-2025",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Elphapex DG1 Litcoin Dogecoin Bells Miner 11G 3420W Elphapex DG1 11.8Gh",
+        "output": "Elphapex DG1 - 11.8Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer Dogecoin L9 (15/16/17Gh) 15GhTh",
+        "output": "Bitmain Antminer L9 - 15Gh/s"
+    },
+    {
+        "input": "Elphapex DG1+14G 3920W Litcoin Mining Dogecoin Miners with psu DG1+ 14G Stock",
+        "output": "Elphapex DG1+ - 14Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP Hydro 473th / new",
+        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+    },
+    {
+        "input": "Goldshell AE Box 37Mh 360W Aleo ALEO Miner Free Shipping 37Mh 360W | In Stock",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L9 Litecoin + Dogecoin Miner (15 - 17 Gh/s) 15 GH/S",
+        "output": "Bitmain Antminer L9 - 15Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1 Litecoin & Dogecoin Miner 11GH/s | BT-MINERS  / 11.8G /  / ",
+        "output": "Elphapex DG1 - 11.8Gh/s"
+    },
+    {
+        "input": "Volcminer D1 17Gh 3900W LTC Litecoin DOGE Dogecoin Bellscoin BEL Miner Free Shipping 17Gh 3900W | Jul. Batch",
+        "output": "Volc Miner D1 Lite - 17Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 8550 8300 8800 9050 9300 9500M Litecoin Dogecoin Bells Miner Bitmain Antminer L7 8550 8300 8800 9050 9300 9500M Litecoin Dogecoin Bells Miner",
+        "output": "Bitmain Antminer L7 - 9.3Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1 Litecoin & Dogecoin Miner 11GH/s | BT-MINERS  / 11G /  / ",
+        "output": "Elphapex DG1 - 11Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP Hydro BTC Miner In Stock",
+        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+    },
+    {
+        "input": "Bitmain Antminer Dogecoin L9 (15/16/17Gh) 16GhTh",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "Elphapex DG1+14G 3920W Litcoin Mining Dogecoin Miners with psu DG1+ 13.6G Stock",
+        "output": "Elphapex DG1+ - 13.6Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1 Litecoin & Dogecoin Miner 11GH/s | BT-MINERS  / 10G /  / ",
+        "output": "Elphapex DG1 - 10Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer Dogecoin L9 (15/16/17Gh) 17GhTh",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Elphapex DG1+14G 3920W Litcoin Mining Dogecoin Miners with psu DG1+ 13.5G Stock",
+        "output": "Elphapex DG1+ - 13.5Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1 Litecoin & Dogecoin Miner 11GH/s | BT-MINERS  / 9.5G /  / ",
+        "output": "Elphapex DG1 - 9.5Gh/s"
+    },
+    {
+        "input": "Cooldragon Goldshell AE-BOX 37Mh/s 360 zkSNARK ALEO Miner ae-box-stock",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Bitmain Antminer Dogecoin L9 (15/16/17Gh) 16Gh mix(Apr)Th",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 Litecoin Dogecoin Bells Miner 15.15Gh/s 17Gh/s3900W April. Futures",
+        "output": "Volc Miner D1 Lite - 17Gh/s"
+    },
+    {
+        "input": "Elphapex DG1+14G 3920W Litcoin Mining Dogecoin Miners with psu DG1+ 13G Stock",
+        "output": "Elphapex DG1+ - 13Gh/s"
+    },
+    {
+        "input": "Cooldragon Goldshell AE-BOX 37Mh/s 360 zkSNARK ALEO Miner ae-box-feb-batch",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Litecoin & Dogecoin Miner | BT-MINERS  / 16Gh / April 2025 / ",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "VolcMiner D1 Litecoin Dogecoin Bells Miner 15.15Gh/s 17Gh/s3900W SPOT",
+        "output": "Volc Miner D1 Lite - 17Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Litecoin & Dogecoin Miner | BT-MINERS  / 15Gh / Instock / ",
+        "output": "Bitmain Antminer L9 - 15Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP Hyd(473Th) 473ThTh",
+        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+    },
+    {
+        "input": "ElphaPex DG1 Plus 14.4Gh 3950W LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Hosting  | Delivery Free Shipping 14Gh | Delivery | In Stock",
+        "output": "Elphapex DG1 - 14Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1 Dogecoin + Litecoin Miner (9.5-11 GH/s) ElphaPex DG1 Dogecoin + Litecoin Miner (9.5-11 GH/s)",
+        "output": "Elphapex DG1 - 11Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L9 15G / 16G / 17G LTC DOGE Miner l9-16g-spot",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "Jasminer X44-P 23.4Gh/s 2340W ETC Miner ASIC Miner x44-p",
+        "output": "Jasminer X44-P 23.4Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1 Plus 14.4Gh 3950W LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Hosting  | Delivery Free Shipping 14Gh | Hosted in USA | $0.074-$0.08/kWh",
+        "output": "Elphapex DG1 - 14Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1 Plus 14.4Gh 3950W LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Hosting  | Delivery Free Shipping 14.4Gh | Delivery  | In Stock",
+        "output": "Elphapex DG1 - 14.4Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1 Plus 14.4Gh 3950W LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Hosting  | Delivery Free Shipping 14.4Gh | Hosted in USA | $0.074-$0.08/kWh",
+        "output": "Elphapex DG1 - 14.4Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1+ Litecoin & Dogecoin Miner 14.4GH/s | BT-MINERS  / 14.4G / In stock / ",
+        "output": "Elphapex DG1+ - 14.4Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1+ Litecoin & Dogecoin Miner 14.4GH/s | BT-MINERS  / 14G / In stock / ",
+        "output": "Elphapex DG1+ - 14Gh/s"
+    },
+    {
+        "input": "Jasminer X44-P 23.4Gh/s 2340W ETC Miner ASIC Mining Machine JAN 2025 Bctch",
+        "output": "Jasminer X44-P 23.4Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Litecoin & Dogecoin Miner | BT-MINERS  / 16Gh / Instock / ",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP Hydro 473Th/s 5670W BTC Mining q3-batch",
+        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+    },
+    {
+        "input": "Elphapex DG1 10G 9.5G LTC+DOGE + BEL 3420W with psu DG1 10G stock",
+        "output": "Elphapex DG1 - 10Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1+ Litecoin & Dogecoin Miner 14.4GH/s | BT-MINERS  / 13.6G / In stock / ",
+        "output": "Elphapex DG1+ - 13.6Gh/s"
+    },
+    {
+        "input": "Goldshell AE-BOX ALEO Miner (37 MH/s) Goldshell AE-BOX ALEO Miner (37 MH/s)",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP Hydro 473Th/s 5670W BTC Mining q2-batch",
+        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Litecoin & Dogecoin Miner | BT-MINERS  / 17Gh / Instock / ",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Elphapex DG1 10G 9.5G LTC+DOGE + BEL 3420W with psu DG1 9.5G stock",
+        "output": "Elphapex DG1 - 9.5Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1+ Litecoin & Dogecoin Miner 14.4GH/s | BT-MINERS  / 13.5G / In stock / ",
+        "output": "Elphapex DG1+ - 13.5Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Litecoin & Dogecoin Miner | BT-MINERS  / 16Gh / Jan 2025 / ",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1+ Litecoin & Dogecoin Miner 14.4GH/s | BT-MINERS  / 13G / In stock / ",
+        "output": "Elphapex DG1+ - 13Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Litecoin & Dogecoin Miner | BT-MINERS  / 15Gh / Jan 2025 / ",
+        "output": "Bitmain Antminer L9 - 15Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Litecoin & Dogecoin Miner | BT-MINERS  / 17Gh / Jan 2025 / ",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21 XP Hyd 473T BTC Miner  / Spot.(with PSU)",
+        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+    },
+    {
+        "input": "Elphapex DG1+ 14G 3920W Litcoin Dogecoin Miner 14g-april",
+        "output": "Elphapex DG1+ - 14Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 8300-9500M Litecoin Dogecoin Miner 8800M (with PSU)",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "Goldshell AE-BOX ALEO Miner 37M  / 37M May(with PSU)",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Litecoin Dogecoin Miner 17G In Stock",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Cooldragon Bitmain Antminer S21 XP Hyd 473Th 5676W SHA-256 BTC Miner s21xp-hyd-473t-stock",
+        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+    },
+    {
+        "input": "Goldshell AE-BOX ALEO Miner 37M  / 37M Spot (with PSU)",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Litecoin Dogecoin Miner 16G April 2025",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "Cooldragon Elphapex DG1+ 13.6G 13.8G 14G 14.4G 3950W LTC+DOGE Scrypt Miner dg1-13g-stock",
+        "output": "Elphapex DG1+ - 13Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 8300-9500M Litecoin Dogecoin Miner 9500M (with PSU)",
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 8300-9500M Litecoin Dogecoin Miner 9050M (with PSU)",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP Hydro 473Th/s 5670W Bitcoin Mining Machine SPOT",
+        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+    },
+    {
+        "input": "Elphapex DG1 Miner 11.8G 3640W Litcoin Dogecoin Mining Machine 11g",
+        "output": "Elphapex DG1 - 11Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21 XP Hyd 473T BTC Miner 473T (with PSU)",
+        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 LTC Litecoin DOGE Dogecoin Miner 9050 Mix Jun 2025",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Litecoin Dogecoin Miner 16G In Stock",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 8300-9500M Litecoin Dogecoin Miner 9050M Mix Jun (with PSU)",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "April batch Bitmain Antminer L9 17G 3570W LTC Miner Dogecoin Mining Machine L9 17G April batch",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "GoldShell Miner AE-BOX 37Mh / s 360W ALEO Miner AE BOX（Pre-order）",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Cooldragon Elphapex DG1+ 13.6G 13.8G 14G 14.4G 3950W LTC+DOGE Scrypt Miner dg1-13-6g-stock",
+        "output": "Elphapex DG1+ - 13.6Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 LTC Litecoin DOGE Dogecoin Miner 8050",
+        "output": "Bitmain Antminer L7 - 9.16Gh/s"
+    },
+    {
+        "input": "Cooldragon Elphapex DG1+ 13.6G 13.8G 14G 14.4G 3950W LTC+DOGE Scrypt Miner dg1-14g-stock",
+        "output": "Elphapex DG1+ - 14Gh/s"
+    },
+    {
+        "input": "GoldShell Miner AE-BOX 37Mh / s 360W ALEO Miner AE BOX",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Litecoin Dogecoin Miner 15G In Stock",
+        "output": "Bitmain Antminer L9 - 15Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP Hyd Bitcoin Miner 473TH/s | BT-MINERS  / 473T / In Stock / ",
+        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 LTC Litecoin DOGE Dogecoin Miner 8800",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "Cooldragon Elphapex DG1+ 13.6G 13.8G 14G 14.4G 3950W LTC+DOGE Scrypt Miner dg1-14-4g-stock",
+        "output": "Elphapex DG1+ - 14.4Gh/s"
+    },
+    {
+        "input": "ElphaPex DG1 Dogecoin Miner 10GH/s - In Stock",
+        "output": "Elphapex DG1 - 10Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 LTC Litecoin DOGE Dogecoin Miner 9050",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Goldshell AE-BOX  37M/H 360W/H zkSNARK algorithm ALEO miner Feb batch",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Cooldragon Elphapex DG1+ 13.6G 13.8G 14G 14.4G 3950W LTC+DOGE Scrypt Miner dg1-14g-apr-batch",
+        "output": "Elphapex DG1+ - 14Gh/s"
+    },
+    {
+        "input": "April batch Bitmain Antminer L9 16G 3360W LTC Miner Dogecoin Mining Machine L9 16G April batch",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L9 15/16G Litecoin Dogecoin Miner  / 15G Spot (with PSU)",
+        "output": "Bitmain Antminer L9 - 15Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 LTC Litecoin DOGE Dogecoin Miner 9500",
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L9 15/16G Litecoin Dogecoin Miner  / 17G Spot (with PSU)",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21e XP Hyd 430Th 5590WW Bitcoin Miner Hydro Cooling q1-and-q2-2025",
+        "output": "Bitmain Antminer S21e XP Hyd - 430Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 9050M / 9300M / 9500M LTC Miner l7-8050m-spot",
+        "output": "Bitmain Antminer L7 - 8.05Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L9 15/16G Litecoin Dogecoin Miner  / 16G Spot. (with PSU)",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 9050M / 9300M / 9500M LTC Miner l7-8300m-spot",
+        "output": "Bitmain Antminer L7 - 8.3Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 8050 8300 8550 8800 9050 9300 9500M Litecoin Dogecoin Miner SPOTBitmain Antminer L7 9500Mh/s",
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L9 Miner 16G 3260W 0.21J/M For Sale （Litecoin Dogecoin Bells） apr-order",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L9 15/16G Litecoin Dogecoin Miner  / 16G mix April (with PSU)",
+        "output": "Bitmain Antminer L9 - 16Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 9050M / 9300M / 9500M LTC Miner l7-8550m-spot",
+        "output": "Bitmain Antminer L7 - 8.55Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin & DogeCoin Miner with Power Supply | BT-MINERS  / 9050M / Used / ",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 9050M / 9300M / 9500M LTC Miner l7-8800m-spot",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 8050 8300 8550 8800 9050 9300 9500M Litecoin Dogecoin Miner SPOTBitmain Antminer L7 9300Mh/s",
+        "output": "Bitmain Antminer L7 - 9.3Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21e XP Hydro Bitcoin Miner Q1 Delivery 2025",
+        "output": "Bitmain Antminer S21e XP Hyd - 473Th/s"
+    },
+    {
+        "input": "Elphapex DG1+14G / 13.6G / 13.5G  LTC+DOGE MINER Elphapex DG1+14G / 13.6G / 13.5G  LTC+DOGE MINER",
+        "output": "Elphapex DG1+ - 13.5Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin & DogeCoin Miner with Power Supply | BT-MINERS  / 8300M / June Batch / ",
+        "output": "Bitmain Antminer L7 - 8.3Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 9050M / 9300M / 9500M LTC Miner l7-9050m-spot",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 8050 8300 8550 8800 9050 9300 9500M Litecoin Dogecoin Miner SPOTBitmain Antminer L7 8800Mh/s",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin & DogeCoin Miner with Power Supply | BT-MINERS  / 8550M / June Batch / ",
+        "output": "Bitmain Antminer L7 - 8.55Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 9050M / 9300M / 9500M LTC Miner l7-9300m-spot",
+        "output": "Bitmain Antminer L7 - 9.3Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 9050M / 9300M / 9500M LTC Miner l7-9500m-spot",
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 8050 8300 8550 8800 9050 9300 9500M Litecoin Dogecoin Miner USED Arrive in 7 daysBitmain Antminer L7 9050Mh/s",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin & DogeCoin Miner with Power Supply | BT-MINERS  / 8800M / June Batch / ",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 9050M / 9300M / 9500M LTC Miner l7-9050m-used-5-days-pre-order",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Goldshell AE BOX ALEO Miner 37Mh/s | BT-MINERS  / 37Mh/s / February Batch / ",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Antminer Bitmain L9 17G 3570W Litecoin Dogecoin Bells Miner apr-order",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Bombax Miner EZ100 12500M / EZ100-C 3800M ETC+ETH MINER ez100-c-3800m-spot",
+        "output": "Bombax Miner EZ100-C - 3800MH/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 8050 8300 8550 8800 9050 9300 9500M Litecoin Dogecoin Miner USED Arrive in 7 daysBitmain Antminer L7 8800Mh/s",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin & DogeCoin Miner with Power Supply | BT-MINERS  / 9050M / June Batch / ",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Goldshell AE BOX ALEO Miner 37Mh/s | BT-MINERS  / 37Mh/s / In Stock / ",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Fluminer L1 January",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 9050M / 9300M / 9500M LTC Miner l7-8800m-used-5-days-pre-order",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "Bombax Miner EZ100 12500M / EZ100-C 3800M ETC+ETH MINER ez100-12500m-spot",
+        "output": "Bombax Miner EZ100 - 12500MH/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 8050 8300 8550 8800 9050 9300 9500M Litecoin Dogecoin Miner SPOTBitmain Antminer L7 8300Mh/s",
+        "output": "Bitmain Antminer L7 - 8.3Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin & DogeCoin Miner with Power Supply | BT-MINERS  / 9300M / June Batch / ",
+        "output": "Bitmain Antminer L7 - 9.3Gh/s"
+    },
+    {
+        "input": "Fluminer L1 April",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer L9 17G LTC+DOGE Mining Machine l9-17g-spot",
+        "output": "Bitmain Antminer L9 - 17Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 8050 8300 8550 8800 9050 9300 9500M Litecoin Dogecoin Miner SPOTBitmain Antminer L7 8050Mh/s",
+        "output": "Bitmain Antminer L7 - 8.05Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin & DogeCoin Miner with Power Supply | BT-MINERS  / 9500M / June Batch / ",
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
+    },
+    {
+        "input": "Fluminer L1 5.3G 1200W DOGE / LTC / BEL Coin Home Miner Fluminer L1 (Mar Pre-Order)",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "Fluminer L1 5.3G 1200W DOGE / LTC / BEL Coin Home Miner Fluminer L1 (Apr Pre-Order)",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "Goldshell AE BOX 37Mh/s 360W ALEO Miner in-stock",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "BOMBAX EZ100 PRO 15500MH/s 3100W ETC Miner ZIL Mining ez100-pro-15000m-jan-batch",
+        "output": "Bombax Miner EZ100 Pro - 15000MH/s"
+    },
+    {
+        "input": "Goldshell AE BOX 37Mh/s 360W ALEO Miner february-batch",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Bitdeer SEALMINER A2Hyd 446Th/s 7360W Bitcoin Miner 2024-q4",
+        "output": "Bitdeer SealMiner A2 Hyd - 446Th/s"
+    },
+    {
+        "input": "Fluminer L1 5.3G 1200W DOGE / LTC / BEL Coin Home Miner Fluminer L1 (Jan Pre-Order)",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "Cooldragon Antminer L7 8050M 8300M 8550M 8800M 9050M 9300M 9500M Scrypt Litecoin LTC Miner 8300m-stock",
+        "output": "Bitmain Antminer L7 - 8.3Gh/s"
+    },
+    {
+        "input": "BOMBAX EZ100 PRO 15500MH/s 3100W ETC Miner ZIL Mining ez100-pro-15000m-in-stock",
+        "output": "Bombax Miner EZ100 Pro - 15000MH/s"
+    },
+    {
+        "input": "Cooldragon Antminer L7 8050M 8300M 8550M 8800M 9050M 9300M 9500M Scrypt Litecoin LTC Miner 8550m-stock",
+        "output": "Bitmain Antminer L7 - 8.55Gh/s"
+    },
+    {
+        "input": "Cooldragon Antminer L7 8050M 8300M 8550M 8800M 9050M 9300M 9500M Scrypt Litecoin LTC Miner 8800m-stock",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "Cooldragon Antminer L7 8050M 8300M 8550M 8800M 9050M 9300M 9500M Scrypt Litecoin LTC Miner 9050m-stock",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Goldshell AE-BOX (37 Mh/s) Goldshell AE-BOX (37 Mh/s)",
+        "output": "Goldshell AE BOX - 37Mh/s"
+    },
+    {
+        "input": "Cooldragon Antminer L7 8050M 8300M 8550M 8800M 9050M 9300M 9500M Scrypt Litecoin LTC Miner 9300m-stock",
+        "output": "Bitmain Antminer L7 - 9.3Gh/s"
+    },
+    {
+        "input": "Cooldragon Antminer L7 8050M 8300M 8550M 8800M 9050M 9300M 9500M Scrypt Litecoin LTC Miner 9500m-stock",
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP Immersion 300T Bitcoin Miner s21-xp-immersion-300toct-batch",
+        "output": "Bitmain Antminer S21 XP Immersion - 300Th/s"
+    },
+    {
+        "input": "Cooldragon Fluminer L1 5.30GH/s 1200W Scrypt LTC Doge Miner l1-jan-2025-batch",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "Bitdeer SealMiner A2 Hyd Bitcoin Miner 446TH/S 16.5J/TH Mar. Futures",
+        "output": "Bitdeer SealMiner A2 Hyd - 446Th/s"
+    },
+    {
+        "input": "Cooldragon Antminer L7 8050M 8300M 8550M 8800M 9050M 9300M 9500M Scrypt Litecoin LTC Miner 8050m-stock",
+        "output": "Bitmain Antminer L7 - 8.05Gh/s"
+    },
+    {
+        "input": "Cooldragon Fluminer L1 5.30GH/s 1200W Scrypt LTC Doge Miner l1-apr-2025-batch",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "New Antminer l7 9500mh/s Best Price, Bitmain Antminer l7 For Sale Mine LTC Mining Dogecoin Litecoin used-8800m",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "Antminer S21 XP Immersion 215 TH",
+        "output": "Bitmain Antminer S21 XP Immersion - 215Th/s"
+    },
+    {
+        "input": "Cooldragon Fluminer L1 5.30GH/s 1200W Scrypt LTC Doge Miner l1-mar-2025-batch",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "Antminer S21 XP Immersion 300 TH",
+        "output": "Bitmain Antminer S21 XP Immersion - 300Th/s"
+    },
+    {
+        "input": "Cooldragon Fluminer L1 5.30GH/s 1200W Scrypt LTC Doge Miner l1-may-2025-batch",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "New Antminer l7 9500mh/s Best Price, Bitmain Antminer l7 For Sale Mine LTC Mining Dogecoin Litecoin used-9050m",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 (9.16Gh) 9050 Mh/s - June Delivery",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Bitdeer SEALMINER A2Hyd 446TH/S 16.5J/TH Bitcoin Miner 2024-q4",
+        "output": "Bitdeer SealMiner A2 Hyd - 446Th/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP IMM 300Th/s 4050W Immersion Bitcoin Miner one-week",
+        "output": "Bitmain Antminer S21 XP Immersion - 300Th/s"
+    },
+    {
+        "input": "Bitdeer SealMiner A2 Hyd Bitcoin Miner 446TH/S | BT-MINERS  / 446T / March 2025 / ",
+        "output": "Bitdeer SealMiner A2 Hyd - 446Th/s"
+    },
+    {
+        "input": "Bitmain Antminer S21+ Hydro 319T 4785W Bitcoin Miner Hydro Cooling 2025-q1",
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer BTC Miner S21 XP Imm. 300T  / 300T 10Days (with PSU)",
+        "output": "Bitmain Antminer S21 XP Immersion - 300Th/s"
+    },
+    {
+        "input": "Antminer L7 All Models 8300 to 9500 MH/s 9050MH",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Bitdeer SealMiner A2 Hydro March",
+        "output": "Bitdeer SealMiner A2 Hyd - 446Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21 XP 270T 3645W BTC Miner s21-xp-270t-spot",
+        "output": "Bitmain Antminer S21 XP - 270Th/s"
+    },
+    {
+        "input": "Antminer L7 All Models 8300 to 9500 MH/s 8050 MH",
+        "output": "Bitmain Antminer L7 - 8.05Gh/s"
+    },
+    {
+        "input": "iPollo V2 ETC Miner Coming Soon",
+        "output": "iPollo V2 - 10Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21+ Hydro 319T 4785W Bitcoin Miner Hydro Cooling 2025-q2",
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21 XP 270T 3645W BTC Miner s21xp-270t-jan-pre-order",
+        "output": "Bitmain Antminer S21 XP - 270Th/s"
+    },
+    {
+        "input": "Antminer L7 All Models 8300 to 9500 MH/s 9500 MH",
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin Dogecoin Miner 8300-9500M  / 8550M Spot. (with PSU)",
+        "output": "Bitmain Antminer L7 - 8.55Gh/s"
+    },
+    {
+        "input": "Antminer L7 All Models 8300 to 9500 MH/s 9300 MH",
+        "output": "Bitmain Antminer L7 - 9.3Gh/s"
+    },
+    {
+        "input": "Fluminer L1 Dogecoin Miner January Delivery 2025",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin Dogecoin Miner 8300-9500M  / 9050M MIX June. (with PSU)",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 Hydro 319th / new",
+        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin Dogecoin Miner 8300-9500M  / 8800M Used. (with PSU)",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "Antminer L7 All Models 8300 to 9500 MH/s 8800 MH",
+        "output": "Bitmain Antminer L7 - 8.8Gh/s"
+    },
+    {
+        "input": "GoldShell Miner DG MAX 6.5 Gh / s DOGE LTC BEL Miner GoldShell Miner DG MAX 6.5 Gh / s DOGE LTC BEL Miner",
+        "output": "Goldshell DG Max - 6.5Gh/s"
+    },
+    {
+        "input": "MicroBT Whatsminer M63S 406-412T 18w 408T",
+        "output": "MicroBT WhatsMiner M63S - 408Th/s"
+    },
+    {
+        "input": "Fluminer L1 Dogecoin Miner April Delivery 2025",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "Antminer L7 All Models 8300 to 9500 MH/s 8550 MH",
+        "output": "Bitmain Antminer L7 - 8.55Gh/s"
+    },
+    {
+        "input": "FLUMINER-L1 Litecoin & Dogecoin Miner 5.3GH/s | BT-MINERS  / 5.3G / April Batch / ",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "FLUMINER-L1 Litecoin & Dogecoin Miner 5.3GH/s | BT-MINERS  / 5.3G / Jan Batch / ",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin Dogecoin Miner 8300-9500M  / 9500M Spot. (with PSU)",
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP 270th / new",
+        "output": "Bitmain Antminer S21 XP - 270Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner  / 319T Spot.（with PSU）",
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21 Hyd 335T 319T 302T Bitcoin Miner s21-hydro-335t-spot",
+        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+    },
+    {
+        "input": "Bitmain Antminer L7 Litecoin Dogecoin Miner 8300-9500M  / 9050M Spot. (with PSU)",
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP Imm Bitcoin Miner 300TH/S | BT-MINERS  / 300T / Jan Batch / ",
+        "output": "Bitmain Antminer S21 XP Immersion - 300Th/s"
+    },
+    {
+        "input": "MicroBT Whatsminer M63S 406-412T 18w 406T",
+        "output": "MicroBT WhatsMiner M63S - 406Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner  / 319T Mix Feb.（with PSU）",
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21 Hyd 335T 319T 302T Bitcoin Miner s21-hydro-319t-spot",
+        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21 Hyd 335T 319T 302T Bitcoin Miner s21-hydro-302t-spot",
+        "output": "Bitmain Antminer S21 Hyd - 302Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner 358T Spot (with PSU)",
+        "output": "Bitmain Antminer S21+ Hyd - 358Th/s"
+    },
+    {
+        "input": "MicroBT Whatsminer M63S 406-412T 18.5w 390T",
+        "output": "MicroBT WhatsMiner M63S - 390Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner 319T Mix Feb (with PSU)",
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
+    },
+    {
+        "input": "MicroBT Whatsminer M63S 406-412T 18.5w 386T",
+        "output": "MicroBT WhatsMiner M63S - 386Th/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP IMM 300Th/s 4050W Immersion Btc Miner October batch",
+        "output": "Bitmain Antminer S21 XP Immersion - 300Th/s"
+    },
+    {
+        "input": "Goldshell DG Max Bellscoin Litecoin Dogecoin Miner In Stock",
+        "output": "Goldshell DG Max - 6.5Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21 Hyd 335T BTC Miner 319T Spot (with PSU)",
+        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+    },
+    {
+        "input": "Fluminer L1 5.3Gh/s 1200W Litecoin Dogecoin Home Miner may-order",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S19 XP Hyd 3U 430Th 5590W Bitcoin Miner Hydro Cooling q1-batch",
+        "output": "Bitmain Antminer S19 XP Hyd - 430Th/s"
+    },
+    {
+        "input": "Goldshell DG Max Bellscoin Litecoin Dogecoin Miner January 2025",
+        "output": "Goldshell DG Max - 6.5Gh/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21 Hyd 335T BTC Miner 335T 3Days (with PSU)",
+        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer S21 Hyd 335T BTC Miner 302T 7Days (with PSU)",
+        "output": "Bitmain Antminer S21 Hyd - 302Th/s"
+    },
+    {
+        "input": "Fluminer L1 5.3Gh/s 1200W Litecoin Dogecoin Belcoin Home Miner April 1-30th",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 XP Bitcoin Miner In Stock",
+        "output": "Bitmain Antminer S21 XP - 270Th/s"
+    },
+    {
+        "input": "BITMAIN Antminer L7 9.5Gh/S for a power consumption of 3425w with PSU Litecoin Dogecoin Miner 9500M Sport",
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 Pro 234th / new",
+        "output": "Bitmain Antminer S21 Pro - 234Th/s"
+    },
+    {
+        "input": "Fluminer L1 5.3Gh/s 1200W Litecoin Dogecoin Belcoin Home Miner May 1-30th",
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
+    },
+    {
+        "input": "Antminer S21 Hydro 335 TH/sUSA",
+        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 Pro 220th / new",
+        "output": "Bitmain Antminer S21 Pro - 220Th/s"
+    },
+    {
+        "input": "Antminer S21 Hydro 335 TH/sHong Kong/China",
+        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+    },
+    {
+        "input": "Bitmain Antminer S21 Pro 245th / new",
+        "output": "Bitmain Antminer S21 Pro - 245Th/s"
+    },
+    {
+        "input": "Bitman Antminer S21+ Hyd 319T 4785W With PSU Bitman Antminer S21+ Hyd 319T 4785W With PSU",
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
+    },
+    {
+        "input": "MicroBT Whatsminer M63S Hydro BTC Bitcoin Miner 360t",
+        "output": "MicroBT Whatsminer M63S - 360Th/s"
+    },
+    {
+        "input": "Antminer S21 Hydro 319 TH/sUSA",
+        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+    }
+]

@@ -1,0 +1,26 @@
+﻿# 模型和缓存文件
+dataset/model/
+dataset/save_model/
+*.safetensors
+*.bin
+*.pt
+*.pth
+test_results.json
+
+# 日志和结果
+logs/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db

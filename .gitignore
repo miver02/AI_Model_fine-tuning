@@ -1,6 +1,6 @@
 ﻿# 模型和缓存文件
-# dataset/model/
-# dataset/save_model/
+dataset/model/
+dataset/save_model/
 *.safetensors
 *.bin
 *.pt
@@ -8,8 +8,8 @@
 test_results.json
 
 # 日志和结果
-# logs/
-# results/
+logs/
+results/
 
 # Python
 __pycache__/

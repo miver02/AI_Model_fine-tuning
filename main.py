@@ -1,71 +1,132 @@
 from transformers import DistilBertTokenizer
 import torch
 import json
-from train import SimilarityModel
+from train import ModelNameMatcher
 
-def predict_single(text, model, tokenizer, threshold=0.5):
+def predict_single(input_text, model, tokenizer, candidate_names):
     """
-    预测函数：
-    - 输入：任意文本
-    - 输出：从model_info中选择最相似的文本（如果相似度超过阈值）
+    预测单个输入文本的最相似模型名称
+    返回：预测的模型名称和相似度分数
     """
-    # 对输入文本进行编码
-    inputs = tokenizer(text, padding='max_length', truncation=True, 
-                      return_tensors='pt', max_length=128)
+    # 将模型移动到与输入相同的设备
+    device = next(model.parameters()).device
     
-    # 获取模型预测
+    # 将输入文本转换为向量
+    inputs = tokenizer(
+        input_text,
+        padding='max_length',
+        truncation=True,
+        max_length=128,
+        return_tensors='pt'
+    )
+    
+    # 将输入移动到正确的设备
+    inputs = {k: v.to(device) for k, v in inputs.items()}
+    
+    # 获取预测结果
+    most_similar = model.find_most_similar(input_text, candidate_names, tokenizer)
+    
+    # 计算相似度分数
     with torch.no_grad():
-        outputs = model(inputs['input_ids'], inputs['attention_mask'])
-        similarities = outputs['similarities']
+        input_embed = model.encode_text(inputs['input_ids'], inputs['attention_mask'])
+        target_inputs = tokenizer(
+            most_similar,
+            padding='max_length',
+            truncation=True,
+            max_length=128,
+            return_tensors='pt'
+        ).to(device)
+        target_embed = model.encode_text(target_inputs['input_ids'], 
+                                       target_inputs['attention_mask'])
         
-    # 获取最大相似度及其索引
-    best_match_score = similarities[0].max().item()
-    best_match_idx = similarities[0].argmax().item()
+        similarity = torch.nn.functional.cosine_similarity(input_embed, target_embed).item()
     
-    # 打印所有候选项的相似度（用于调试）
-    # for idx, (info, score) in enumerate(zip(model.model_info, similarities[0])):
-    #     print(f"候选 {idx}: {info}... 相似度: {score:.4f}")
-    
-    # 只有当相似度超过阈值时才返回匹配结果
-    if best_match_score >= threshold:
-        return model.model_info[best_match_idx], best_match_score
-    else:
-        return "未找到足够相似的匹配", best_match_score
+    return most_similar, similarity
 
-def main():
-    # 加载模型和tokenizer
-    model_path = './dataset/save_model/distilbert-miner-model'
-    tokenizer = DistilBertTokenizer.from_pretrained(model_path)
-    model = SimilarityModel.load_model(model_path, tokenizer)
+def evaluate_model(test_data_path, model_path, model_info_path):
+    """评估模型性能"""
+    # 修改tokenizer的加载方式
+    tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased', 
+                                                   cache_dir='./dataset/model/distilbert-base-uncased')
+    
+    # 加载模型
+    model = ModelNameMatcher()
+    model.load_state_dict(torch.load(model_path))
     model.eval()
     
-    # 加载测试数据
-    test_data = json.load(open('./dataset/train_data/train_test1.json', 'r', encoding='utf-8'))
+    # 如果有GPU则使用GPU
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    model = model.to(device)
     
-    print("\n开始测试...")
-    print("-" * 50)
-    print(f"model_info 包含 {len(model.model_info)} 个标准答案")
-    print("-" * 50)
+    # 加载测试数据和候选名称列表
+    with open(test_data_path, 'r', encoding='utf-8') as f:
+        test_data = json.load(f)
+    with open(model_info_path, 'r', encoding='utf-8') as f:
+        candidate_names = json.load(f)
     
-    for i, item in enumerate(test_data):
-        # 获取输入文本
-        input_text = item['input'] if isinstance(item, dict) else item
+    # 统计信息
+    total = len(test_data)
+    correct = 0
+    
+    print("\n开始模型评估...")
+    print("-" * 60)
+    
+    for i, item in enumerate(test_data, 1):
+        input_text = item['input']
+        expected_output = item['output']
         
-        # 从model_info中预测最匹配的答案
-        predicted_text, confidence = predict_single(input_text, model, tokenizer)
+        # 获取预测结果
+        predicted_output, similarity = predict_single(input_text, model, tokenizer, candidate_names)
         
-        print(f"\n测试样例 {i+1}:")
-        print(f"输入文本: {input_text}")
-        print(f"预测答案: {predicted_text}")
-        print(f"相似度得分: {confidence:.4f}")
-        print("-" * 50)
-        
-        # 如果是字典格式，比较预测结果和期望输出
-        if isinstance(item, dict):
-            is_correct = predicted_text == item['output']
-            print(f"期望输出: {item['output']}")
-            print(f"预测正确: {'✓' if is_correct else '✗'}")
-        print("-" * 50)
+        # 检查预测是否正确
+        is_correct = predicted_output == expected_output
+        if is_correct:
+            correct += 1
+            
+        # 打印详细信息
+        print(f"测试样例 {i}:")
+        print(f"输入: {input_text}")
+        print(f"预期输出: {expected_output}")
+        print(f"预测输出: {predicted_output}")
+        print(f"相似度分数: {similarity:.4f}")
+        print(f"预测结果: {'✓ 正确' if is_correct else '✗ 错误'}")
+        print("-" * 60)
+    
+    # 打印总体评估结果
+    accuracy = correct / total * 100
+    print(f"\n评估结果:")
+    print(f"总样本数: {total}")
+    print(f"正确预测数: {correct}")
+    print(f"准确率: {accuracy:.2f}%")
+
+def main():
+    # 设置路径
+    test_data_path = './dataset/train_data/train1.json'
+    model_path = './dataset/save_model/distilbert-miner-model'
+    model_info_path = './dataset/train_data/model_info.json'
+    
+    # 评估模型
+    evaluate_model(test_data_path, model_path, model_info_path)
+    
+    # 交互式测试部分也需要修改tokenizer的加载方式
+    print("\n开始交互式测试 (输入 'q' 退出):")
+    tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased', 
+                                                   cache_dir='./dataset/model/distilbert-base-uncased')
+    model = ModelNameMatcher()
+    model.load_state_dict(torch.load(model_path))
+    model.eval()
+    
+    with open(model_info_path, 'r', encoding='utf-8') as f:
+        candidate_names = json.load(f)
+    
+    while True:
+        user_input = input("\n请输入模型名称: ")
+        if user_input.lower() == 'q':
+            break
+            
+        predicted_output, similarity = predict_single(user_input, model, tokenizer, candidate_names)
+        print(f"预测的标准名称: {predicted_output}")
+        print(f"相似度分数: {similarity:.4f}")
 
 if __name__ == "__main__":
     main()

@@ -6,159 +6,209 @@ from transformers import Trainer, TrainingArguments
 import json
 from sklearn.model_selection import train_test_split
 import os
+from transformers import AdamW
+from torch.utils.data import DataLoader
 
 # 自定义数据集类
-class MinerDataset(Dataset):
-    def __init__(self, tokenizer, train_data, model_info):
+class ModelNameDataset(Dataset):
+    def __init__(self, tokenizer, data_path, max_length=128):
         self.tokenizer = tokenizer
-        self.train_data = train_data
-        self.model_info = model_info
+        self.max_length = max_length
         
-        # 创建输出到索引的映射
-        self.output_to_idx = {str(info): idx for idx, info in enumerate(model_info)}
-        
+        # 加载训练数据
+        with open(data_path, 'r', encoding='utf-8') as f:
+            self.data = json.load(f)
+            
     def __len__(self):
-        return len(self.train_data)
+        return len(self.data)
     
     def __getitem__(self, idx):
-        item = self.train_data[idx]
-        # 对输入文本进行编码
-        inputs = self.tokenizer(item['input'], padding='max_length', truncation=True, 
-                              return_tensors='pt', max_length=128)
+        item = self.data[idx]
+        input_text = item['input']
+        target_text = item['output']
         
-        # 找到目标输出在 model_info 中的索引
-        target_idx = self.output_to_idx.get(str(item['output']))
-        if target_idx is None:
-            # 如果输出不在 model_info 中，找到最相似的
-            target_encoding = self.tokenizer(str(item['output']), padding='max_length', 
-                                           truncation=True, return_tensors='pt', max_length=128)
-            # 使用原始输出
-            return {
-                'input_ids': inputs['input_ids'].squeeze(),
-                'attention_mask': inputs['attention_mask'].squeeze(),
-                'target_ids': target_encoding['input_ids'].squeeze(),
-                'target_mask': target_encoding['attention_mask'].squeeze(),
-            }
+        # 编码输入文本
+        input_encoding = self.tokenizer(
+            input_text,
+            padding='max_length',
+            truncation=True,
+            max_length=self.max_length,
+            return_tensors='pt'
+        )
         
-        # 使用 model_info 中的标准答案
-        target_text = self.model_info[target_idx]
-        target_encoding = self.tokenizer(str(target_text), padding='max_length', 
-                                       truncation=True, return_tensors='pt', max_length=128)
+        # 编码目标文本
+        target_encoding = self.tokenizer(
+            target_text,
+            padding='max_length',
+            truncation=True,
+            max_length=self.max_length,
+            return_tensors='pt'
+        )
         
         return {
-            'input_ids': inputs['input_ids'].squeeze(),
-            'attention_mask': inputs['attention_mask'].squeeze(),
+            'input_ids': input_encoding['input_ids'].squeeze(),
+            'input_mask': input_encoding['attention_mask'].squeeze(),
             'target_ids': target_encoding['input_ids'].squeeze(),
             'target_mask': target_encoding['attention_mask'].squeeze(),
         }
 
 # 自定义模型类
-class SimilarityModel(nn.Module):
-    def __init__(self, model_name, model_info, tokenizer):
+class ModelNameMatcher(nn.Module):
+    def __init__(self, model_name='distilbert-base-uncased', dir='./dataset/model/distilbert-base-uncased'):
         super().__init__()
-        self.bert = DistilBertModel.from_pretrained(model_name)
-        self.tokenizer = tokenizer
-        self.model_info = model_info
+        self.bert = DistilBertModel.from_pretrained(model_name, cache_dir=dir)
         
-        # 预计算所有model_info的编码
-        self.info_encodings = []
-        with torch.no_grad():
-            for info in model_info:
-                inputs = tokenizer(str(info), padding='max_length', truncation=True, 
-                                 return_tensors='pt', max_length=128)
-                encoding = self.bert(**inputs).last_hidden_state.mean(dim=1)
-                # 归一化编码向量
-                encoding = torch.nn.functional.normalize(encoding, p=2, dim=1)
-                self.info_encodings.append(encoding)
-        self.info_encodings = torch.cat(self.info_encodings, dim=0)
-        
-    def forward(self, input_ids, attention_mask, target_ids=None, target_mask=None):
-        # 获取输入文本的编码
-        input_encoding = self.bert(input_ids, attention_mask=attention_mask).last_hidden_state.mean(dim=1)
-        # 归一化输入编码
-        input_encoding = torch.nn.functional.normalize(input_encoding, p=2, dim=1)
-        
-        # 计算余弦相似度
-        similarities = torch.matmul(input_encoding, self.info_encodings.T)
-        # similarities 现在的范围是 [-1, 1]，转换到 [0, 1]
-        similarities = (similarities + 1) / 2
+    def encode_text(self, input_ids, attention_mask):
+        outputs = self.bert(input_ids, attention_mask=attention_mask)
+        # 使用[CLS]标记的输出作为文本表示
+        return outputs.last_hidden_state[:, 0, :]
+    
+    def forward(self, input_ids, input_mask, target_ids=None, target_mask=None):
+        # 编码输入文本
+        input_embed = self.encode_text(input_ids, input_mask)
         
         if target_ids is not None:
-            target_encoding = self.bert(target_ids, attention_mask=target_mask).last_hidden_state.mean(dim=1)
-            target_encoding = torch.nn.functional.normalize(target_encoding, p=2, dim=1)
-            loss = 1 - torch.cosine_similarity(input_encoding, target_encoding)
-            return {'loss': loss.mean(), 'similarities': similarities}
+            # 训练模式：计算输入和目标之间的相似度
+            target_embed = self.encode_text(target_ids, target_mask)
+            # 计算余弦相似度损失
+            cos_sim = nn.CosineSimilarity(dim=1)
+            loss = 1 - cos_sim(input_embed, target_embed)
+            return {'loss': loss.mean()}
         
-        return {'similarities': similarities}
+        return {'embeddings': input_embed}
+    
+    def find_most_similar(self, input_text, candidate_names, tokenizer):
+        # 将输入文本转换为向量
+        inputs = tokenizer(
+            input_text,
+            padding='max_length',
+            truncation=True,
+            max_length=128,
+            return_tensors='pt'
+        )
+        
+        with torch.no_grad():
+            input_embed = self.encode_text(inputs['input_ids'], inputs['attention_mask'])
+            
+            # 计算与所有候选名称的相似度
+            max_sim = -1
+            most_similar = None
+            
+            for name in candidate_names:
+                name_inputs = tokenizer(
+                    name,
+                    padding='max_length',
+                    truncation=True,
+                    max_length=128,
+                    return_tensors='pt'
+                )
+                name_embed = self.encode_text(name_inputs['input_ids'], 
+                                            name_inputs['attention_mask'])
+                
+                similarity = nn.CosineSimilarity(dim=1)(input_embed, name_embed).item()
+                
+                if similarity > max_sim:
+                    max_sim = similarity
+                    most_similar = name
+                    
+            return most_similar
 
-    def save_model(self, save_path):
-        """保存模型和相关数据"""
-        os.makedirs(save_path, exist_ok=True)
-        # 保存 BERT 模型
-        self.bert.save_pretrained(save_path)
-        # 保存 model_info
-        with open(os.path.join(save_path, 'model_info.json'), 'w', encoding='utf-8') as f:
-            json.dump(self.model_info, f, ensure_ascii=False, indent=2)
-        # 保存 info_encodings
-        torch.save(self.info_encodings, os.path.join(save_path, 'info_encodings.pt'))
+def train_model(train_data_path, model_info_path, save_path, epochs=5):
+    # 初始化tokenizer和模型
+    tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased', cache_dir='./dataset/model/distilbert-base-uncased')
+    model = ModelNameMatcher()
+    
+    # 准备数据集
+    dataset = ModelNameDataset(tokenizer, train_data_path)
+    train_size = int(0.8 * len(dataset))
+    val_size = len(dataset) - train_size
+    train_dataset, val_dataset = torch.utils.data.random_split(dataset, [train_size, val_size])
+    
+    train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True)
+    val_loader = DataLoader(val_dataset, batch_size=16)
+    
+    # 优化器
+    optimizer = AdamW(model.parameters(), lr=2e-5)
+    
+    # 训练循环
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    model.to(device)
+    
+    best_val_loss = float('inf')
+    
+    for epoch in range(epochs):
+        # 训练阶段
+        model.train()
+        total_train_loss = 0
+        
+        for batch in train_loader:
+            optimizer.zero_grad()
+            
+            input_ids = batch['input_ids'].to(device)
+            input_mask = batch['input_mask'].to(device)
+            target_ids = batch['target_ids'].to(device)
+            target_mask = batch['target_mask'].to(device)
+            
+            outputs = model(input_ids, input_mask, target_ids, target_mask)
+            loss = outputs['loss']
+            
+            loss.backward()
+            optimizer.step()
+            
+            total_train_loss += loss.item()
+        
+        avg_train_loss = total_train_loss / len(train_loader)
+        
+        # 验证阶段
+        model.eval()
+        total_val_loss = 0
+        
+        with torch.no_grad():
+            for batch in val_loader:
+                input_ids = batch['input_ids'].to(device)
+                input_mask = batch['input_mask'].to(device)
+                target_ids = batch['target_ids'].to(device)
+                target_mask = batch['target_mask'].to(device)
+                
+                outputs = model(input_ids, input_mask, target_ids, target_mask)
+                loss = outputs['loss']
+                
+                total_val_loss += loss.item()
+        
+        avg_val_loss = total_val_loss / len(val_loader)
+        
+        print(f'Epoch {epoch+1}/{epochs}:')
+        print(f'  Training Loss: {avg_train_loss:.4f}')
+        print(f'  Validation Loss: {avg_val_loss:.4f}')
+        
+        # 保存最佳模型
+        if avg_val_loss < best_val_loss:
+            best_val_loss = avg_val_loss
+            torch.save(model.state_dict(), save_path)
+            print(f'  Saved new best model with validation loss: {best_val_loss:.4f}')
+        
+        print('---')
+    
+    return model, tokenizer
 
-    @classmethod
-    def load_model(cls, load_path, tokenizer):
-        """加载保存的模型"""
-        # 加载 model_info
-        with open(os.path.join(load_path, 'model_info.json'), 'r', encoding='utf-8') as f:
-            model_info = json.load(f)
-        # 创建模型实例
-        model = cls(load_path, model_info, tokenizer)
-        # 加载保存的 info_encodings
-        model.info_encodings = torch.load(os.path.join(load_path, 'info_encodings.pt'))
-        return model
-
-# 主要训练代码
+# 使用示例
 def main():
-    # 加载数据
-    model_info = json.load(open('./dataset/train_data/model_info.json', 'r', encoding='utf-8'))
-    train_data = json.load(open('./dataset/train_data/train1.json', 'r', encoding='utf-8'))
-    
-    # 分割训练集和验证集
-    train_data, eval_data = train_test_split(train_data, test_size=0.2, random_state=42)
-    
-    # 初始化tokenizer
-    tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased', 
-                                                   cache_dir='./dataset/model/distilbert-base-uncased')
-    
-    # 创建训练集和验证集
-    train_dataset = MinerDataset(tokenizer, train_data, model_info)
-    eval_dataset = MinerDataset(tokenizer, eval_data, model_info)
-    
-    # 创建模型
-    model = SimilarityModel('distilbert-base-uncased', model_info, tokenizer)
-    
-    # 训练参数
-    training_args = TrainingArguments(
-        output_dir='./dataset/results',          # 模型训练过程中的输出目录，保存检查点和中间结果
-        num_train_epochs=5,              # 训练轮数，表示整个数据集要被训练5遍
-        per_device_train_batch_size=20,  # 每个批次的样本数量，这里每次处理16个样本
-        logging_dir='./dataset/logs',            # 训练日志保存的目录
-        logging_steps=10,                # 每10步记录一次训练状态
-        save_total_limit=5,              # 最多保存2个检查点，旧的会被新的覆盖以节省空间
+    # 训练模型
+    model, tokenizer = train_model(
+        train_data_path='./dataset/train_data/train1.json',
+        model_info_path='./dataset/train_data/model_info.json',
+        save_path='./dataset/save_model/distilbert-miner-model'
     )
     
-    # 定义Trainer
-    trainer = Trainer(
-        model=model,
-        args=training_args,
-        train_dataset=train_dataset,
-        eval_dataset=eval_dataset,
-    )
+    # 加载候选模型名称列表
+    with open('./dataset/train_data/model_info.json', 'r') as f:
+        candidate_names = json.load(f)
     
-    # 开始训练
-    trainer.train()
-    
-    # 保存模型
-    save_path = './dataset/save_model/distilbert-miner-model'
-    model.save_model(save_path)
-    tokenizer.save_pretrained(save_path)
+    # 使用示例
+    input_name = "bert base uncased"
+    most_similar = model.find_most_similar(input_name, candidate_names, tokenizer)
+    print(f"Input: {input_name}")
+    print(f"Most similar model name: {most_similar}")
 
 if __name__ == "__main__":
     main()

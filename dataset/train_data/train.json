@@ -2429,7 +2429,7 @@
     },
     {
         "input": "Jasminer X16-Q Series 1.65GH",
-        "output": "Jasminer X16-QE - 1.65Gh/s"
+        "output": "Jasminer X16-Q - 1.65Gh/s"
     },
     {
         "input": "Bitmain Antminer S19 XP 134T 141T 3010W Bitcoin Miner Bitmain Antminer S19 XP 134T 141T 3010W Bitcoin Miner",
@@ -2445,7 +2445,7 @@
     },
     {
         "input": "Jasminer X16-Q Series 1.75GH",
-        "output": "Jasminer X16-QE - 1.75Gh/s"
+        "output": "Jasminer X16-Q - 1.75Gh/s"
     },
     {
         "input": "iPollo V2X 1200Mh/s 165W Ethereum Classic Miner v2x%ef%bc%88feb-pre-order%ef%bc%89",
@@ -2469,11 +2469,11 @@
     },
     {
         "input": "Jasminer X16-Q Series 1.85GH",
-        "output": "Jasminer X16-QE - 1.85Gh/s"
+        "output": "Jasminer X16-Q - 1.85Gh/s"
     },
     {
         "input": "Bitmain Antminer AL1 15.6TH/s 16.6TH/s 3510W Alephium Miner ALPH Mining Bitmain Antminer AL1 15.6TH/s 16.6TH/s 3510W Alephium Miner ALPH Mining",
-        "output": "Bitmain Antminer AL1 Pro - 16.6Th/s"
+        "output": "Bitmain Antminer AL1 - 16.6Th/s"
     },
     {
         "input": "ICERIVER AL3 Alephium Miner ALPH Mining 15Th/s 3500W Feb Batch",
@@ -2485,7 +2485,7 @@
     },
     {
         "input": "Jasminer X16-Q Series 2.05GH",
-        "output": "Jasminer X16-Q Pro - 2.05Gh/s"
+        "output": "Jasminer X16-Q - 2.05Gh/s"
     },
     {
         "input": "Jasminer X16-Q Series 1.95GH",
@@ -2501,7 +2501,7 @@
     },
     {
         "input": "Antminer AL116.6Th/s ( Kaspa ) Miner spot-in-stock",
-        "output": "Bitmain Antminer K7 - 58Th/s"
+        "output": "Bitmain Antminer AL1 - 16.6Th/s"
     },
     {
         "input": "iPollo V2X ETC Miner End January Delivery 2025",
@@ -2529,11 +2529,11 @@
     },
     {
         "input": "Jasminer X16-Q ETC Miner 8GB In Stock",
-        "output": "Jasminer X16-P - 5.8Gh/s"
+        "output": "Jasminer X16-Q - 1.65Gh/s"
     },
     {
         "input": "ICERIVER AL3 Alephium Miner (15 TH/s) ICERIVER AL3 Alephium Miner (15 TH/s)",
-        "output": "Iceriver AL2 Lite - 2Th/s"
+        "output": "Iceriver AL3 - 15Th/s"
     },
     {
         "input": "BITMAIN Antminer XMR Miner X5 (212kh/s) BITMAIN Antminer XMR Miner X5 (212kh/s)",
@@ -2621,11 +2621,11 @@
     },
     {
         "input": "Goldshell MINI-DOGE III Plus Litecoin + Dogecoin Miner (810 MH/s) Goldshell MINI-DOGE III Plus Litecoin + Dogecoin Miner (810 MH/s)",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III Plus - 810Mh/s"
     },
     {
         "input": "MicroBT Whatsminer M60 152th / new",
-        "output": "MicroBT WhatsMiner M60 - 154Th/s"
+        "output": "MicroBT WhatsMiner M60 - 152Th/s"
     },
     {
         "input": "Bitmain Antminer S19K Pro 115th / new",
@@ -2633,7 +2633,7 @@
     },
     {
         "input": "Jasminer X16-Q Pro ETC Miner 8GB In Stock",
-        "output": "Jasminer X16-P - 5.8Gh/s"
+        "output": "Jasminer X16-Q Pro - 2.05Gh/s"
     },
     {
         "input": "IceRiver ALPH AL3 (15TH/S) ALPH Miner spot-in-stock",
@@ -2677,11 +2677,11 @@
     },
     {
         "input": "Antminer AL1 (16.6 th/s) Antminer AL1",
-        "output": "Bitmain Antminer AL1 - 15.6Th/s"
+        "output": "Bitmain Antminer AL1 - 16.6Th/s"
     },
     {
         "input": "Bitmain Antminer S19k Pro Bitcoin Miner 120TH/s | BT-MINERS  / 110T / In Stock / ",
-        "output": "Bitmain Antminer S19 Pro - 110Th/s"
+        "output": "Bitmain Antminer S19k Pro - 110Th/s"
     },
     {
         "input": "Goldshell MINI DOGE III 700M with PSU Doge Coin Miner Litecoin Mining without psu in stock",
@@ -2749,7 +2749,7 @@
     },
     {
         "input": "JASMINER X16-Q Ethereum Classic Miner (1950MH/s) JASMINER X16-Q Ethereum Classic Miner (1950MH/s)",
-        "output": "Jasminer X16-Q - 1.95Gh/s"
+        "output": "Jasminer X16-QE - 1.95Gh/s"
     },
     {
         "input": "ICERIVER AL3 15Th 3500W Alephium ALPH Miner with PSU Delivery | Hosting Free Shipping 15Th 3500W | Hosted in USA | $0.074-$0.08/kWh",
@@ -2793,15 +2793,15 @@
     },
     {
         "input": "Canaan Avalon Made A1366 Bitcoin Miner 130TH/s | BT-MINERS  /  / New / ",
-        "output": "Canaan Avalon Miner A1466 - 147Th/s"
+        "output": "Canaan Avalon Miner A1366 - 130Th/s"
     },
     {
         "input": "GOLDSHELL – MINI DOGE III PLUS GOLDSHELL – MINI DOGE III PLUS",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III Plus - 810Mh/s"
     },
     {
         "input": "Canaan Avalon Mini3 37.5T（SHA256 | BTC）-ASICARK Canaan Avalon Mini3 37.5T（SHA256 | BTC）-ASICARK",
-        "output": "Canaan Avalon Miner A1047 - 37Th/s"
+        "output": "Canaan Avalon Miner A1047 - 37.5Th/s"
     },
     {
         "input": "Cooldragon IceRiver AL3 15T 3500W Blake3 ALPH Miner al3-stock",
@@ -2845,7 +2845,7 @@
     },
     {
         "input": "Goldshell MINI DOGE Ⅲ PLUS Litecoin & Dogecoin Miner 810M 810M WiFi Spot (with PSU.)",
-        "output": "Goldshell Mini Doge - 185Mh/s"
+        "output": "Goldshell Mini Doge Ⅲ PLUS - 810Mh/s"
     },
     {
         "input": "Canaan Avalon Mini 3 37.5Th/s 800W Home Bitcoin Miner march-batch",
@@ -2853,7 +2853,7 @@
     },
     {
         "input": "Antminer S19k Pro Sale Online, Bitmain S19k Pro 120Th/s 2760W 110th-s",
-        "output": "Bitmain Antminer S19 Pro - 110Th/s"
+        "output": "Bitmain Antminer S19k Pro - 110Th/s"
     },
     {
         "input": "ICERIVER RX0 RXD Miner 260GH/s 100W Cost ICERIVER RX0 RXD Miner 260GH/s 100W Cost",
@@ -2873,7 +2873,7 @@
     },
     {
         "input": "Goldshell MINI DOGE Ⅲ PLUS Litecoin and Dogecoin Miner 810M  / 810M After 3 Days.(with PSU.)",
-        "output": "Goldshell Mini Doge - 185Mh/s"
+        "output": "Goldshell Mini Doge Ⅲ PLUS - 810Mh/s"
     },
     {
         "input": "Bitmain Antminer S19K Pro 115T 120T 2760W Bitcoin Miner BTC BCH Bitmain Antminer S19K Pro 115T 120T 2760W Bitcoin Miner BTC BCH",
@@ -2889,11 +2889,11 @@
     },
     {
         "input": "Goldshell MINI DOGE Ⅲ PLUS Litecoin and Dogecoin Miner 810M  / 810M Spot. (with PSU.)",
-        "output": "Goldshell Mini Doge - 185Mh/s"
+        "output": "Goldshell Mini Doge Ⅲ PLUS - 810Mh/s"
     },
     {
         "input": "GOLDSHELL – MINI DOGE III GOLDSHELL – MINI DOGE III",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge Ⅲ PLUS - 810Mh/s"
     },
     {
         "input": "iBeLink BM-L3 Wire transferTh",
@@ -2925,15 +2925,15 @@
     },
     {
         "input": "Jasminer X16-Q Ethereum Classic Miner 1950Mh/s | BT-MINERS  /  / 1950M / ",
-        "output": "Jasminer X16-Q - 1.95Gh/s"
+        "output": "Jasminer X16-QE - 1.95Gh/s"
     },
     {
         "input": "Goldshell Mini DOGE III Plus Litecoin Dogecoin 810Mh/s 500W Goldshell Mini DOGE III Plus Litecoin Dogecoin 810Mh/s 500W",
-        "output": "Goldshell Mini Doge III Plus - 810Mh/s"
+        "output": "Goldshell Mini Doge III Plus - 810Mh/s"  
     },
     {
-        "input": "Goldshell MINI-DOGE III Litecoin + Dogecoin Miner (650 MH/s) (CMC VERSION - WI-FI) Goldshell MINI-DOGE III Litecoin + Dogecoin Miner (650 MH/s) (CMC VERSION - WI-FI)",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "input": "Goldshell MINI-DOGE III Litecoin + Dogecoin Miner (650 MH/s) (CMC VERSION - WI-FI)",
+        "output": "Goldshell Mini Doge III Plus - 650MH/s"
     },
     {
         "input": "Bitmain Antminer S19k Pro 120Th/s ( BTC/BCH ) Miner spot-in-stock",
@@ -2941,7 +2941,7 @@
     },
     {
         "input": "Iceriver KS5M 15TH/s Sedra Kaspa Miner used",
-        "output": "Iceriver AL3 - 15Th/s"
+        "output": "Iceriver KS5M - 15Th/s"
     },
     {
         "input": "IceRiver RXD RX0 260GH/S 100W Radiant Miner RXD Mining Sep20-30. batch (with PSU)",
@@ -2965,7 +2965,7 @@
     },
     {
         "input": "JASMiner X16-Q ETCHASH ETHHASH Miner 1950M  / 1950M Spot. (with PSU)",
-        "output": "Jasminer X16-Q - 1.95Gh/s"
+        "output": "Jasminer X16-QE - 1.95Gh/s"
     },
     {
         "input": "BITMAIN Antminer S19kpro 110T / 115T / 120T BTC Miners used-s19k-pro",
@@ -2977,15 +2977,15 @@
     },
     {
         "input": "Goldshell Mini Doge III+ Hong Kong/China",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III Plus - 810Mh/s"
     },
     {
         "input": "BITMAIN Antminer S19kpro 110T / 115T / 120T BTC Miners s19kpro-110t",
-        "output": "Bitmain Antminer S19k Pro - 115Th/s"
+        "output": "Bitmain Antminer S19k Pro - 110Th/s"
     },
     {
         "input": "IceRiver KS5M Kaspa Miner kaspa coin mining 15Th/s 3400W Arrive in Hong Kong 7 Days",
-        "output": "Iceriver AL3 - 15Th/s"
+        "output": "Iceriver KS5M - 15Th/s"
     },
     {
         "input": "BITMAIN Antminer K7 58T / 60.5T / 63.5T CKB Miner Nervos Mining Machine k7-66t",
@@ -2993,7 +2993,7 @@
     },
     {
         "input": "Goldshell Mini Doge III+ USA",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III Plus - 810Mh/s"
     },
     {
         "input": "Used Jasminer X4-1U 520Mh/s Ethereum Miner ETC ETHW Mining Used Jasminer X4-1U 520Mh/s Ethereum Miner ETC ETHW Mining",
@@ -3005,19 +3005,19 @@
     },
     {
         "input": "BITMAIN Antminer K7 58T / 60.5T / 63.5T CKB Miner Nervos Mining Machine k7-60-5t",
-        "output": "Bitmain Antminer K7 - 58Th/s"
+        "output": "Bitmain Antminer K7 - 60.5Th/s"
     },
     {
         "input": "JASMINER X16Q1950M/620W 8G High Throughput Quiet Server etc mining machine with psu Jasminer X16Q 1950M-8G-Stocks",
-        "output": "Jasminer X16-QE - 1.85Gh/s"
+        "output": "Jasminer X16-QE - 1.95Gh/s"
     },
     {
         "input": "BITMAIN Antminer S19kpro 110T / 115T / 120T BTC Miners s19kpro-120t",
-        "output": "Bitmain Antminer S19k Pro - 115Th/s"
+        "output": "Bitmain Antminer S19k Pro - 120Th/s"
     },
     {
         "input": "BITMAIN Antminer K7 58T / 60.5T / 63.5T CKB Miner Nervos Mining Machine k7-63-5t",
-        "output": "Bitmain Antminer K7 - 58Th/s"
+        "output": "Bitmain Antminer K7 - 63.5Th/s"
     },
     {
         "input": "Iceriver AL2 Lite ALPH Alephium Miner In Stock",
@@ -3029,7 +3029,7 @@
     },
     {
         "input": "Goldshell MINI DOGE Ⅲ Plus 810Mh 500W | 620Mh 300W LTC Litecoin DOGE BEL Bellscoin Dogecoin Miner Free Shipping 810Mh 500W | In Stock",
-        "output": "Goldshell Mini Doge - 185Mh/s"
+        "output": "Goldshell Mini Doge III Plus - 810Mh/s"
     },
     {
         "input": "BITMAIN Antminer K7 58T / 60.5T / 63.5T CKB Miner Nervos Mining Machine k7-58t",
@@ -3041,11 +3041,11 @@
     },
     {
         "input": "Bitaxe Touch Bitcoin Solo Miner 1.6 TH/s 22W Bitaxe Touch Bitcoin Solo Miner 1.6 TH/s 22W",
-        "output": "FusionSilicon X1 Miner - 12.96Gh/s"
+        "output": "FusionSilicon X1 Miner - 1.6Gh/s"
     },
     {
         "input": "Antminer S19k Pro (120 th/s) Antminer S19k Pro (120 th/s)",
-        "output": "Bitmain Antminer S19 Pro Hyd - 170Th/s"
+        "output": "Bitmain Antminer S19k Pro - 120Th/s"
     },
     {
         "input": "Profitable New Jasminer X4 1U For Sale, Jasminer X4-1U 520Mh/S Blockchain ETH/ETC Mining Machine Profitable New Jasminer X4 1U For Sale, Jasminer X4-1U 520Mh/S Blockchain ETH/ETC Mining Machine",
@@ -3061,7 +3061,7 @@
     },
     {
         "input": "Antminer S19k Pro (120 th/s) Antminer S19k Pro (115 th/s)",
-        "output": "Bitmain Antminer S19 Pro Hyd - 170Th/s"
+        "output": "Bitmain Antminer S19k Pro - 115Th/s"
     },
     {
         "input": "Bitmain Antminer K7 Nervos Miner (58 - 66 TH/s) Bitmain Antminer K7 Nervos Miner (58 - 66 TH/s)",
@@ -3069,7 +3069,7 @@
     },
     {
         "input": "Antminer K7 (63.5 th/s) Antminer K7 (63.5 th/s)",
-        "output": "Bitmain Antminer K7 - 60.5Th/s"
+        "output": "Bitmain Antminer K7 - 63.5Th/s"
     },
     {
         "input": "Canaan Avalon Nano 3S Home Miner (6Th) March Delivery 2025",
@@ -3077,7 +3077,7 @@
     },
     {
         "input": "Goldshell MINI DOGE III plus 810M 500W with PSU Doge Coin Miner Litecoin Mining MINI DOGE III 700M without psu Stocks",
-        "output": "Goldshell Mini Doge III - 700Mh/s"
+        "output": "Goldshell Mini Doge III Plus - 700Mh/s"
     },
     {
         "input": "Iceriver KS5M 15T 3400W  KAS Kaspa Mining Machine ks5m-15t%ef%bc%88spot%ef%bc%89",
@@ -3085,7 +3085,7 @@
     },
     {
         "input": "Antminer K7 (63.5 th/s) Antminer K7 (58 th/s)",
-        "output": "Bitmain Antminer K7 - 60.5Th/s"
+        "output": "Bitmain Antminer K7 - 58Th/s"
     },
     {
         "input": "Iceriver AL0 400G ALPH Alephium Miner Iceriver AL0 400G ALPH Alephium Miner",
@@ -3097,7 +3097,7 @@
     },
     {
         "input": "IceRiver KS5M 15 Th/s Hong Kong/China",
-        "output": "Iceriver AL3 - 15Th/s"
+        "output": "Iceriver KS5M - 15Th/s"
     },
     {
         "input": "Goldshell SC Lite Siacoin Miner 4.4TH/s | BT-MINERS  /  / New / ",
@@ -3105,7 +3105,7 @@
     },
     {
         "input": "Bitcoin Merch® - Bitaxe Gamma 601 SOLO Miner + Power Supply Upto 1.2TH/s Bitcoin Merch® - Bitaxe Gamma 601 SOLO Miner + Power Supply Upto 1.2TH/s",
-        "output": "FusionSilicon X1 Miner - 12.96Gh/s"
+        "output": "FusionSilicon X1 Miner - 1.2Gh/s"
     },
     {
         "input": "Bitaxe Supra Bitaxe Supra",
@@ -3129,7 +3129,7 @@
     },
     {
         "input": "ICERIVER KS5M Kaspa Miner 15TH/s | BT-MINERS  /  / Jan Batch / ",
-        "output": "Iceriver AL3 - 15Th/s"
+        "output": "Iceriver KS5M - 15Th/s"
     },
     {
         "input": "Antminer K7 CKB Miner 63.5Th/s | BT-MINERS  / 63.5T / In Stock / ",
@@ -3141,7 +3141,7 @@
     },
     {
         "input": "GOLDSHELL – SC LITE GOLDSHELL – SC LITE",
-        "output": "Goldshell SC Lite - 4Th/s"
+        "output": "Goldshell SC Lite - 4.4Th/s"
     },
     {
         "input": "ICERIVER AL2 LITE Alephium Miner (2 TH/s) ICERIVER AL2 LITE Alephium Miner (2 TH/s)",
@@ -3305,7 +3305,7 @@
     },
     {
         "input": "Bitmain Antminer S19 Pro++ 125Th/s 3250W Bitcoin Miner BTC Mining antminer-s19pro-125t-mix-sep-batch",
-        "output": "Bitmain Antminer S19 Pro Hyd - 191Th/s"
+        "output": "Bitmain Antminer S19 Pro - 191Th/s"
     },
     {
         "input": "New Iceriver AL2 Lite Alephium Miner 2Th/s 500W apr-order",
@@ -3333,7 +3333,7 @@
     },
     {
         "input": "iPollo V1 Mini ETH Miner (300Mh) 260 MH/s - In Stock",
-        "output": "iPollo V1 Mini - 300Mh/s"
+        "output": "iPollo V1 Mini - 260Mh/s"
     },
     {
         "input": "MicroBT Whatsminer M50S (126Th) 148 TH/s - In Stock",
@@ -3357,7 +3357,7 @@
     },
     {
         "input": "ICERIVER AL0 Alephium Miner 400GH/s | BT-MINERS  /  / 15th-30th Jan Batch / Including",
-        "output": "Iceriver AL3 - 15Th/s"
+        "output": "Iceriver AL0 - 400Gh/s"
     },
     {
         "input": "Goldshell AL Box Alephium Miner 360GH/s | BT-MINERS  / 360G / In Stock / Excluding",
@@ -3373,7 +3373,7 @@
     },
     {
         "input": "MicroBT Whatsminer M50S 118~134T 3380W BTC Miner Bitcoin Mining MicroBT Whatsminer M50S 118~134T 3380W BTC Miner Bitcoin Mining",
-        "output": "MicroBT Whatsminer M50 - 128Th/s"
+        "output": "MicroBT Whatsminer M50S - 128Th/s"
     },
     {
         "input": "BITMAIN Antminer Z15 Pro 840K ZEC Zcash Miner BITMAIN Antminer Z15 Pro 840K ZEC Zcash Miner",
@@ -3481,7 +3481,7 @@
     },
     {
         "input": "MicroBT Whatsminer M56S++ Immersion Bitcoin Miner  (254-262 Th/s) MicroBT Whatsminer M56S++ Immersion Bitcoin Miner  (254-262 Th/s)",
-        "output": "MicroBT WhatsMiner M56 - 172Th/s"
+        "output": "MicroBT WhatsMiner M56S+ - 212Th/s"
     },
     {
         "input": "Goldshell KA BOX PRO Kaspa Miner (1.6 TH/s) Goldshell KA BOX PRO Kaspa Miner (1.6 TH/s)",
@@ -3489,7 +3489,7 @@
     },
     {
         "input": "MicroBT Whatsminer M50S Bitcoin Miner (122-134 TH/s) MicroBT Whatsminer M50S Bitcoin Miner (122-134 TH/s)",
-        "output": "MicroBT Whatsminer M50 - 128Th/s"
+        "output": "MicroBT Whatsminer M50S - 128Th/s"
     },
     {
         "input": "Iceriver KS2 Lite Kaspa Miner (2Th) 5-7 Days Delivery",
@@ -3533,7 +3533,7 @@
     },
     {
         "input": "Bitmain Antminer Z15 Pro 820 840ksol/s 2560W Zcash Miner Equihash Algorithm Bitmain Antminer Z15 Pro 820 840ksol/s 2560W Zcash Miner Equihash Algorithm",
-        "output": "Bitmain Antminer Z9 Mini - 10ksol/s"
+        "output": "Bitmain Antminer Z15 Pro - 840KSol/s"
     },
     {
         "input": "Goldshell AL Box II Pro Alephium Miner 950G 460W with-psu",
@@ -3541,11 +3541,11 @@
     },
     {
         "input": "Bitmain Antminer S19j Pro+ 117T 120T 3355W Bitcoin Miner Bitmain Antminer S19j Pro+ 117T 120T 3355W Bitcoin Miner",
-        "output": "Bitmain Antminer S19j Pro - 120Th/s"
+        "output": "Bitmain Antminer S19j Pro+ - 120Th/s"
     },
     {
         "input": "Goldshell KD BOX Ⅱ(Without Wi-Fi) Goldshell KD BOX Ⅱ(Without Wi-Fi)",
-        "output": "Goldshell KD Box - 1.6Th/s"
+        "output": "Goldshell KD Box II"
     },
     {
         "input": "Goldshell AL-BOX II 720G/S Alephium ALPH Miner WIFI SUPPORT AL BOX ii 720G 360w without PSU Stocks",
@@ -3553,7 +3553,7 @@
     },
     {
         "input": "GOLDSHELL – KA BOX PRO GOLDSHELL – KA BOX PRO",
-        "output": "Goldshell KA Box Pro - 1.6Th/s"
+        "output": "Goldshell KA Box Pro"
     },
     {
         "input": "iPollo V1H ETC Miner 850 MH/s - In Stock",
@@ -3589,7 +3589,7 @@
     },
     {
         "input": "Goldshell AL Box II Plus Goldshell AL Box II Plus",
-        "output": "Goldshell AL Box II Plus - 1Th/s"
+        "output": "Goldshell AL Box II Plus"
     },
     {
         "input": "Goldshell CK-Box II CKB Miner 2.1Th/s | BT-MINERS  /  / Used / ",
@@ -3597,11 +3597,11 @@
     },
     {
         "input": "Goldshell AL Box III Alephium Miner In Stock",
-        "output": "Goldshell AL BOX III - 1.25Th/s"
+        "output": "Goldshell AL BOX III"
     },
     {
         "input": "Bitmain Z15 Pro Zcash Miner 840KSol | BT-MINERS  / 820K / Instock / ",
-        "output": "Bitmain Antminer Z15 Pro - 820KSol/s"
+        "output": "Bitmain Antminer Z15 Pro - 840KSol/s"
     },
     {
         "input": "Goldshell AL Box II Pro Alephium Miner 950GH/s | BT-MINERS  / 950G / In Stock / Excluding",
@@ -3609,7 +3609,7 @@
     },
     {
         "input": "Bitmain Antminer L3+ Litecoin Dogecoin Miner Bitmain Antminer L3+ Litecoin Dogecoin Miner",
-        "output": "Bitmain Antminer V9 - 4Th/s"
+        "output": "Bitmain Antminer L3+"
     },
     {
         "input": "Bitmain Z15 Pro Zcash Miner 840KSol | BT-MINERS  / 800K / Instock / ",
@@ -3617,7 +3617,7 @@
     },
     {
         "input": "Bitmain Antminer E9 Pro Ethereum Classic Miner (3680-3780 Mh/s) Bitmain Antminer E9 Pro Ethereum Classic Miner (3680-3780 Mh/s)",
-        "output": "Bitmain Antminer E9 Pro - 3.58Gh/s"
+        "output": "Bitmain Antminer E9 Pro - 3.68Gh/s"
     },
     {
         "input": "Goldshell AL BOX II Plus Alephium Miner (1 Th/s) Goldshell AL BOX II Plus Alephium Miner (1 Th/s)",
@@ -3625,7 +3625,7 @@
     },
     {
         "input": "Goldshell HS Box 2 – Siacoin & Handshake Miner In Stock",
-        "output": "Goldshell HS BOX - 1.2Th/s"
+        "output": "Goldshell HS BOX II"
     },
     {
         "input": "Goldshell KA BOX Pro 1.6T Goldshell KA BOX Pro 1.6T",
@@ -3649,7 +3649,7 @@
     },
     {
         "input": "Goldshell HS-Box II Handshake Miner 1.2Th/s | BT-MINERS  /  / New / ",
-        "output": "Goldshell CK Box II - 2.1Th/s"
+        "output": "Goldshell HS BOX II - 1.2Th/s"
     },
     {
         "input": "BITMAIN Antminer Z15 Pro Zcash Miner (800-860 KSol/s) BITMAIN Antminer Z15 Pro Zcash Miner (800-860 KSol/s)",
@@ -3665,11 +3665,11 @@
     },
     {
         "input": "Goldshell KA Box Pro Kaspa Miner In Stock",
-        "output": "Goldshell KA Box Pro - 1.6Th/s"
+        "output": "Goldshell KA Box Pro"
     },
     {
         "input": "Bitmain Antminer S19 Pro+ HYD BTC Miner (191Th) 198TH/s - In Stock",
-        "output": "Bitmain Antminer S19 Pro Hyd - 198Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 198Th/s"
     },
     {
         "input": "MicroBT Whatsminer M50 (114Th) 124TH/s - In Stock",
@@ -3697,7 +3697,7 @@
     },
     {
         "input": "Bitmain Antminer S19 Pro+ Hydro 198th / new",
-        "output": "Bitmain Antminer S19 Pro Hyd - 198Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 198Th/s"
     },
     {
         "input": "Antminer S19j Pro 104th/s, Antminer S19j Pro For Sale 100th-s",
@@ -3709,11 +3709,11 @@
     },
     {
         "input": "Bitmain Antminer S19 Pro+ Hydro 191th / new",
-        "output": "Bitmain Antminer S19 Pro Hyd - 191Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 191Th/s"
     },
     {
         "input": "Bitmain Antminer S19 Pro+ Hydro 184th / new",
-        "output": "Bitmain Antminer S19 Pro Hyd - 184Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 184Th/s"
     },
     {
         "input": "Bitmain Antminer S19j Pro+ Bitcoin Miner 117~120TH/S | BT-MINERS  / 117T / In stock / ",
@@ -3725,7 +3725,7 @@
     },
     {
         "input": "Bitmain Antminer S19j Pro+ Bitcoin Miner 117~120TH/S | BT-MINERS  / 120T / In stock / ",
-        "output": "Bitmain Antminer S19j Pro - 120Th/s"
+        "output": "Bitmain Antminer S19j Pro+ - 120Th/s"
     },
     {
         "input": "Bitmain Antminer S19j Pro | S19 Pro-A 104Th 3068W BTC BCH Miner Free Shipping 104Th 3068W | In Stock",
@@ -3745,7 +3745,7 @@
     },
     {
         "input": "Bitmain Antminer S19 Pro+ Hyd.177T 184T 191T 198T 5445W  Bitcoin Miner Hydro Cooling 184T",
-        "output": "Bitmain Antminer S19 Pro Hyd - 184Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 184Th/s"
     },
     {
         "input": "New Bitmain Antminer Z15 Pro 840KSol/s (ZEC/ZEN) Miner spot-in-stock",
@@ -3757,7 +3757,7 @@
     },
     {
         "input": "Bitmain Antminer S19j Pro | S19 Pro-A 104Th 3068W BTC BCH Miner Free Shipping 92Th 2714W | In Stock",
-        "output": "Bitmain Antminer S19 Pro - 92Th/s"
+        "output": "Bitmain Antminer S19j Pro - 92Th/s"
     },
     {
         "input": "Whatsminer M50 114TH",
@@ -3765,7 +3765,7 @@
     },
     {
         "input": "Goldshell AL-BOX III ALPH Miner 1.25T  / Spot (with PSU)",
-        "output": "Goldshell E-DG1M - 3.4Gh/s"
+        "output": "Goldshell AL BOX III"
     },
     {
         "input": "BITMAIN Antminer S19 Pro 96/100/104/110T 84T (with PSU)",
@@ -3781,7 +3781,7 @@
     },
     {
         "input": "BITMAIN Antminer S19 Pro+ Hyd 191T / 198T BTC Miners s19-pro-hyd-191t",
-        "output": "Bitmain Antminer S19 Pro Hyd - 191Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 191Th/s"
     },
     {
         "input": "Bitmain Antminer S19j Pro | S19 Pro-A 104Th 3068W BTC BCH Miner Free Shipping 100Th 2950W | In Stock",
@@ -3821,7 +3821,7 @@
     },
     {
         "input": "BITMAIN Antminer S19 Pro+ Hyd 191T / 198T BTC Miners s19prohyd-198t-10-days-pre-order",
-        "output": "Bitmain Antminer S19 Pro Hyd - 191Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 198Th/s"
     },
     {
         "input": "Bitmain Antminer E9 Pro 3.86GH/s | BT-MINERS  / 3680MH/S /  / ",
@@ -3849,11 +3849,11 @@
     },
     {
         "input": "Goldshell SC5 PRO Siacoin Miner (11 TH/s) Goldshell SC5 PRO Siacoin Miner (11 TH/s)",
-        "output": "Goldshell SC5 Pro - 8Th/s"
+        "output": "Goldshell SC5 Pro - 11Th/s"
     },
     {
         "input": "Antminer S19 Pro+ Hyd. (198 TH/s) Antminer S19 Pro+ Hyd. (198 TH/s)",
-        "output": "Bitmain Antminer S19 Pro - 92Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 198Th/s"
     },
     {
         "input": "Whatsminer M50 128TH",
@@ -3861,7 +3861,7 @@
     },
     {
         "input": "Canaan Avalon Made A1346N Bitcoin Miner 104~113TH/s | BT-MINERS  /  / 104T / ",
-        "output": "Canaan Avalon Miner A1466 - 159Th/s"
+        "output": "Canaan Avalon Miner A1346 - 104Th/s"
     },
     {
         "input": "BITMAIN Antminer S19 Pro 96/100/104/110T 96T (with PSU)",
@@ -3869,7 +3869,7 @@
     },
     {
         "input": "Antminer S19 Pro+ Hyd. (198 TH/s) Antminer S19 Pro+ Hyd. (198 TH/s) + Hydro kit",
-        "output": "Bitmain Antminer S19 Pro Hyd - 184Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 198Th/s"
     },
     {
         "input": "Whatsminer M50 132TH",
@@ -3881,7 +3881,7 @@
     },
     {
         "input": "Canaan Avalon Made A1346N Bitcoin Miner 104~113TH/s | BT-MINERS  /  / 107T / ",
-        "output": "Canaan Avalon Miner A1047 - 37Th/s"
+        "output": "Canaan Avalon Miner A1346 - 107Th/s"
     },
     {
         "input": "BITMAIN Antminer S19 Pro 96/100/104/110T 100T (with PSU)",
@@ -3893,19 +3893,19 @@
     },
     {
         "input": "Canaan Avalon Made A1346N Bitcoin Miner 104~113TH/s | BT-MINERS  /  / 110T / ",
-        "output": "Canaan Avalon Miner A1326 - 115Th/s"
+        "output": "Canaan Avalon Miner A1346 - 110Th/s"
     },
     {
         "input": "Canaan Avalon Made A1346N Bitcoin Miner 104~113TH/s | BT-MINERS  /  / 113T / ",
-        "output": "Canaan Avalon Miner A1326 - 115Th/s"
+        "output": "Canaan Avalon Miner A1346 - 113Th/s"
     },
     {
         "input": "BITMAIN Antminer S19 Pro+ Hydro Bitcoin Miner (170-198 Th/s) 177Th/S",
-        "output": "Bitmain Antminer S19 Pro Hyd - 177Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 177Th/s"
     },
     {
         "input": "Canaan Avalon Made A1346N Bitcoin Miner 104~113TH/s | BT-MINERS  /  / 120T / ",
-        "output": "Canaan Avalon Miner Made - 150Th/s"
+        "output": "Canaan Avalon Miner A1346 - 120Th/s"
     },
     {
         "input": "MicroBT Whatsminer M50 110-122T 28W 124T Dubai (with PSU)",
@@ -3929,7 +3929,7 @@
     },
     {
         "input": "BITMAIN Antminer E9PRO 3380M / 3580M / 3680M / 3780M ETC Miner e9pro-3680m-spot",
-        "output": "Bitmain Antminer V9 - 4Th/s"
+        "output": "Bitmain Antminer E9 Pro - 3.68Gh/s"
     },
     {
         "input": "MicroBT Whatsminer M50 110-122T 29W 122T (with PSU)",
@@ -3937,15 +3937,15 @@
     },
     {
         "input": "Canaan Avalon A1346 Bitcoin Miner (107-126Th/s) 107TH/S",
-        "output": "Canaan Avalon Miner A1446 - 135Th/s"
+        "output": "Canaan Avalon Miner A1346 - 107Th/s"
     },
     {
         "input": "BITMAIN Antminer E9PRO 3380M / 3580M / 3680M / 3780M ETC Miner e9pro-3780m-spot",
-        "output": "Bitmain Antminer V9 - 4Th/s"
+        "output": "Bitmain Antminer E9 Pro - 3.78Gh/s"
     },
     {
         "input": "MicroBT Whatsminer M56 Immersion Bitcoin Miner (172-180 Th/s) 172 TH/S",
-        "output": "MicroBT WhatsMiner M56 - 172Th/s"
+        "output": "MicroBT Whatsminer M56 Immersion - 172Th/s"
     },
     {
         "input": "Bitmain Antminer S19j Pro Bitcoin Miner 100TH/S | BT-MINERS  /  / New / ",
@@ -3957,7 +3957,7 @@
     },
     {
         "input": "BITMAIN Antminer E9PRO 3380M / 3580M / 3680M / 3780M ETC Miner e9pro-3580m-spot",
-        "output": "Bitmain Antminer V9 - 4Th/s"
+        "output": "Bitmain Antminer E9 Pro - 3.58Gh/s"
     },
     {
         "input": "MicroBT Whatsminer M50 110-122T 26W 130T (with PSU)",
@@ -3969,7 +3969,7 @@
     },
     {
         "input": "Goldshell E-AL1M ALPH Miner 4.4T Spot (without PSU)",
-        "output": "Goldshell SC Lite - 4.4Th/s"
+        "output": "Goldshell E-AL1M - 4.4Th/s"
     },
     {
         "input": "MicroBT Whatsminer M50 110-122T 26W 132T (with PSU)",
@@ -3989,11 +3989,11 @@
     },
     {
         "input": "Goldshell E-AL1M 4.4Th/s 1800W Alephium Miner feb-order",
-        "output": "Goldshell SC Lite - 4.4Th/s"
+        "output": "Goldshell E-AL1M - 4.4Th/s"
     },
     {
         "input": "Goldshell AL-BOX III 1.25T/S 600w Alephium ALPH Miner without psu Goldshell AL-BOX III 1.25T/S 600w Alephium ALPH Miner without psu",
-        "output": "Goldshell E-DG1M - 3.4Gh/s"
+        "output": "Goldshell AL BOX III - 1.25Th/s"
     },
     {
         "input": "MicroBT Whatsminer M50 110-122T 28W 126T (with PSU)",
@@ -4009,7 +4009,7 @@
     },
     {
         "input": "Latest Bitmain Antminer E9 Pro For Sale, Bitmain E9 Pro 3.68Gh/s 2200W ETC Miner Blockchain Top Profit 3780m",
-        "output": "Bitmain Antminer E9 Pro - 3.68Gh/s"
+        "output": "Bitmain Antminer E9 Pro - 3.78Gh/s"
     },
     {
         "input": "MicroBT Whatsminer M50 110-122T 27W 124T (with PSU)",
@@ -4033,15 +4033,15 @@
     },
     {
         "input": "GoldShell Miner E-KA1M 5.5Th / s Kaspa Mining KAS Miner GoldShell Miner E-KA1M 5.5Th / s Kaspa Mining KAS Miner",
-        "output": "Goldshell LT5 - 2.05Gh/s"
+        "output": "Goldshell E-KA1M - 5.5Th/s"
     },
     {
         "input": "Iceriver KS5L 12T / 11T / 10T / 9T 3400W Kaspa KAS Miner ks5l-9t-spot",
-        "output": "Iceriver KS3 - 8Th/s"
+        "output": "Iceriver KS5L - 9Th/s"
     },
     {
         "input": "Goldshell E-AL1M Alephium Miner 4.4Th/s 1800W SPOT",
-        "output": "Goldshell SC Lite - 4.4Th/s"
+        "output": "Goldshell E-AL1M - 4.4Th/s"
     },
     {
         "input": "MicroBT Whatsminer M50 110-122T 27W 128T (with PSU)",
@@ -4049,7 +4049,7 @@
     },
     {
         "input": "Iceriver KS5L 12T / 11T / 10T / 9T 3400W Kaspa KAS Miner ks5l-10t-spot",
-        "output": "Iceriver KS5L - 12Th/s"
+        "output": "Iceriver KS5L - 10Th/s"
     },
     {
         "input": "MicroBT Whatsminer M50 110-122T 114T (with PSU)",
@@ -4069,7 +4069,7 @@
     },
     {
         "input": "Iceriver KS5L 12T / 11T / 10T / 9T 3400W Kaspa KAS Miner ks5l-11t-spot",
-        "output": "Iceriver KS5L - 12Th/s"
+        "output": "Iceriver KS5L - 11Th/s"
     },
     {
         "input": "Iceriver KS5L 12T / 11T / 10T / 9T 3400W Kaspa KAS Miner ks5l-12t-spot",
@@ -4121,11 +4121,11 @@
     },
     {
         "input": "Goldshell E-KA1M Kaspa Miner (5.5 TH/s) Goldshell E-KA1M Kaspa Miner (5.5 TH/s)",
-        "output": "Goldshell E-AL1M - 4.4Th/s"
+        "output": "Goldshell E-KA1M - 5.5Th/s"
     },
     {
         "input": "MicroBT Whatsminer M30S++ Bitcoin Miner (100-104 TH/s) MicroBT Whatsminer M30S++ Bitcoin Miner (100-104 TH/s)",
-        "output": "MicroBT Whatsminer M30S+ - 90Th/s"
+        "output": "MicroBT Whatsminer M30S++ - 100Th/s"
     },
     {
         "input": "DragonBall A40 ALPH Miner 3.3T | BT-MINERS  /  / Jan Batch / ",
@@ -4149,11 +4149,11 @@
     },
     {
         "input": "BITMAIN Antminer S19 Pro Hydro Bitcoin Miner (177 Th/s) BITMAIN Antminer S19 Pro Hydro Bitcoin Miner (177 Th/s)",
-        "output": "Bitmain Antminer S19 Pro Hyd - 184Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 177Th/s"
     },
     {
         "input": "Goldshell E-KA1M Kaspa Miner 5.5TH/s | BT-MINERS  / 5.5T / Instock / Including",
-        "output": "Goldshell LT5 - 2.05Gh/s"
+        "output": "Goldshell E-KA1M - 5.5Th/s"
     },
     {
         "input": "Bitmain Antminer S19 Bitcoin Miner 95TH/S | BT-MINERS  / 86T / In Stock / ",
@@ -4165,11 +4165,11 @@
     },
     {
         "input": "Goldshell Miner E-AL1M 4.4T 1800W ALPH Miner Goldshell Miner E-AL1M 4.4T 1800W ALPH Miner",
-        "output": "Goldshell SC Lite - 4.4Th/s"
+        "output": "Goldshell E-AL1M - 4.4Th/s"
     },
     {
         "input": "Home mute Goldshell E-KA1M 5.5T 1800W with PSU Home mute Goldshell E-KA1M 5.5T 1800W with PSU",
-        "output": "Goldshell HS5 - 5.4Th/s"
+        "output": "Goldshell E-KA1M - 5.5Th/s"
     },
     {
         "input": "Goldshell CK Lite CKB Miner 6.3 TH/S | BT-MINERS  /  / New / ",
@@ -4181,7 +4181,7 @@
     },
     {
         "input": "New/Used Asic S19 For Sale, Asics S19 82 86 90 95T Profitable Asic Miner BTC Sell Online In Stock 86th-s",
-        "output": "Goldshell CK6 - 19.3Th/s"
+        "output": "Bitmain Antminer S19 - 86Th/s"
     },
     {
         "input": "Dragonball Miner A40 3.3Th/s 1600W With PSU Alephium Miner ALPH Mining ALPH Coin Stock",
@@ -4189,15 +4189,15 @@
     },
     {
         "input": "BITMAIN Antminer S19 Bitcoin Miner (90 TH/s) BITMAIN Antminer S19 Bitcoin Miner (90 TH/s)",
-        "output": "Bitmain Antminer S19 Pro - 96Th/s"
+        "output": "Bitmain Antminer S19 - 90Th/s"
     },
     {
         "input": "New/Used Asic S19 For Sale, Asics S19 82 86 90 95T Profitable Asic Miner BTC Sell Online In Stock 90th-s",
-        "output": "Goldshell CK6 - 19.3Th/s"
+        "output": "Bitmain Antminer S19 - 90Th/s"
     },
     {
         "input": "Whatsminer M30s+ Bitcoin Miner 96T～102T | BT-MINERS  / 102T / Used / ",
-        "output": "MicroBT Whatsminer M30S++ - 110Th/s"
+        "output": "MicroBT Whatsminer M30S+ - 102Th/s"
     },
     {
         "input": "Iceriver KS5L Kaspa Miner (12Th) 5-7 Days Delivery",
@@ -4209,15 +4209,15 @@
     },
     {
         "input": "Goldshell E-KA1M Kaspa Miner In Stock",
-        "output": "Goldshell E-AL1M - 4.4Th/s"
+        "output": "Goldshell E-KA1M"
     },
     {
         "input": "Bitmain Antminer HS3 Handshake Miner In Stock",
-        "output": "Bitmain Antminer HS3 - 8.55Th/s"
+        "output": "Bitmain Antminer HS3"
     },
     {
         "input": "Antminer S19 (95 th/s) Antminer S19 (95 th/s)",
-        "output": "Bitmain Antminer S19 - 90Th/s"
+        "output": "Bitmain Antminer S19 - 95Th/s"
     },
     {
         "input": "Cooldragon Goldshell E-AL1M 4.4T 1800W Blake3 ALPH Miner e-al1m-stock",
@@ -4225,7 +4225,7 @@
     },
     {
         "input": "Antminer S19 (95 th/s) Antminer S19 (86 th/s)",
-        "output": "Bitmain Antminer S19 - 90Th/s"
+        "output": "Bitmain Antminer S19 - 86Th/s"
     },
     {
         "input": "Bitmain Antminer S19j (90Th) 90 TH/s - In Stock",
@@ -4233,15 +4233,15 @@
     },
     {
         "input": "DragonBall Miner A40 Alephium Miner In Stock",
-        "output": "Dragonball Miner A40 - 3.3Th/s"
+        "output": "Dragonball Miner A40"
     },
     {
         "input": "Antminer S19 (95 th/s) Antminer S19 (82 th/s)",
-        "output": "Bitmain Antminer S19 - 90Th/s"
+        "output": "Bitmain Antminer S19 - 82Th/s"
     },
     {
         "input": "Bitmain Antminer S9 Bitmain Antminer S9",
-        "output": "Bitmain Antminer S9 - 11.5Th/s"
+        "output": "Bitmain Antminer S9"
     },
     {
         "input": "Goldshell E-AL1M Alephium Miner (4.4 Gh/s) Goldshell E-AL1M Alephium Miner (4.4 Gh/s)",
@@ -4265,15 +4265,15 @@
     },
     {
         "input": "ICERIVER KS5L Kaspa Miner (12 TH/s) ICERIVER KS5L Kaspa Miner (12 TH/s)",
-        "output": "Iceriver KS3M - 6Th/s"
+        "output": "Iceriver KS5L - 12Th/s"
     },
     {
         "input": "Whatsminer M30s+ Bitcoin Miner 96T～102T | BT-MINERS  / 102T / New / ",
-        "output": "MicroBT Whatsminer M30S++ - 110Th/s"
+        "output": "MicroBT Whatsminer M30S+ - 102Th/s"
     },
     {
         "input": "Goldshell E-AL1M ALPH Miner 4.4T  / Spot (with PSU)",
-        "output": "Goldshell SC Lite - 4.4Th/s"
+        "output": "Goldshell E-AL1M - 4.4Th/s"
     },
     {
         "input": "DragonBall Miner A40 ALPH Miner 3.3T Spot (with PSU)",
@@ -4281,7 +4281,7 @@
     },
     {
         "input": "Goldshell E-AL1M Alephium Miner 4.4TH/s | BT-MINERS  / 4.4T / In Stock / ",
-        "output": "Goldshell SC Lite - 4.4Th/s"
+        "output": "Goldshell E-AL1M - 4.4Th/s"
     },
     {
         "input": "BITMAIN Antminer HS3 8.55T / 9T HNS Miner hs3-8-55t",
@@ -4329,11 +4329,11 @@
     },
     {
         "input": "Ibelink KS MAX 10.5T KAS Miner in-stock",
-        "output": "iBeLink BM-KS Max - 10.5Th/s"
+        "output": "iBeLink KS Max - 10.5Th/s"
     },
     {
         "input": "Goldshell E-AL1M 4.4 TH/s January",
-        "output": "Goldshell HS6 - 4.3Th/s"
+        "output": "Goldshell E-AL1M - 4.4Th/s"
     },
     {
         "input": "IceRiver KS5L 12T IceRiver KS5L 12T",
@@ -4349,7 +4349,7 @@
     },
     {
         "input": "Goldshell E-AL1M 4.4 TH/s Ready Stock",
-        "output": "Goldshell HS6 - 4.3Th/s"
+        "output": "Goldshell E-AL1M - 4.4Th/s"
     },
     {
         "input": "Goldshell AL MAX 8.3Th/s 3350W Alephium Miner ALPH Mining al-max-in-stock",
@@ -4365,7 +4365,7 @@
     },
     {
         "input": "Ibelink KS MAX 10.5T KAS Miner aug-pre-order",
-        "output": "iBeLink BM-KS Max - 10.5Th/s"
+        "output": "iBeLink KS Max - 10.5Th/s"
     },
     {
         "input": "ALPH miner Home mute Goldshell E-AL1M 4.4T 1800W with PSU STOCKS",
@@ -4377,7 +4377,7 @@
     },
     {
         "input": "Ibelink KS MAX 10.5T KAS Miner pre-order",
-        "output": "iBeLink BM-KS Max - 10.5Th/s"
+        "output": "iBeLink KS Max - 10.5Th/s"
     },
     {
         "input": "DragonBall Miner KS6 PRO 10.5T / KS6 Pro+11T Kaspa Miner ks6-pro-10-5t-spot",
@@ -4425,7 +4425,7 @@
     },
     {
         "input": "iPollo V1 ETHW & ETC Miner 3.6Gh/s | BT-MINERS  /  / Used in stock / ",
-        "output": "iPollo V1 Mini - 300Mh/s"
+        "output": "iPollo V1 - 3.6Gh/s"
     },
     {
         "input": "Bitmain Antminer KS3 Kaspa Miner 9.4Th/s | BT-MINERS  / 8.2T Used / In stock / ",
@@ -4433,7 +4433,7 @@
     },
     {
         "input": "iPollo V1 ETHW & ETC Miner 3.6Gh/s | BT-MINERS  /  / In stock / New / ",
-        "output": "iPollo V1 Mini - 300Mh/s"
+        "output": "iPollo V1 - 3.6Gh/s"
     },
     {
         "input": "Bitmain Antminer D9 Dash Miner (1.77Th) In Stock",
@@ -4521,7 +4521,7 @@
     },
     {
         "input": "Goldshell HS5 SiaCoin + Handshake Miner (5.4 TH/s) Goldshell HS5 SiaCoin + Handshake Miner (5.4 TH/s)",
-        "output": "Goldshell HS5 - 2.7Th/s"
+        "output": "Goldshell HS5 - 5.4Th/s"
     },
     {
         "input": "Bitmain Antminer DR7 SCP Miner 127TH/S | BT-MINERS  / 127T / Early Jan Batch / ",
@@ -4545,7 +4545,7 @@
     },
     {
         "input": "DragonBall A11 Radiant Miner (3.2 TH/S) DragonBall A11 Radiant Miner (3.2 TH/S)",
-        "output": "Dragonball Miner A11 - 3Th/s"
+        "output": "Dragonball Miner A11 - 3.2Th/s"
     },
     {
         "input": "DragonBall Miner A11 RXD ALPH Miner 3.2T Spot (with PSU)",
@@ -4557,27 +4557,27 @@
     },
     {
         "input": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30.4Gh/s | BT-MINERS 170-300V / 30G / Feb Batch / ",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hyd - 30Gh/s"
     },
     {
         "input": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30.4Gh/s | BT-MINERS 170-300V / 30G / April Batch / ",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hyd - 30Gh/s"
     },
     {
         "input": "Bitmain Antminer S21+ Hydro 319T 4785W Bitcoin Miner Hydro Cooling feb-batch",
-        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ Hydro 319T 4785W Bitcoin Miner Hydro Cooling march-batch",
-        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216T 3564W Bitcoin Miner BTC Mining Bitmain Antminer S21+ 216T 3564W Bitcoin Miner BTC Mining",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "IPollo G1 Grin Series Miner 36 GH/S IPollo G1 Grin Series Miner 36 GH/S",
-        "output": "iPollo G1 Mini - 1.2Gh/s"
+        "output": "iPollo G1 - 36Gh/s"
     },
     {
         "input": "BITMAIN Antminer S19 XP Hydro Bitcoin Miner (257 TH/s) BITMAIN Antminer S19 XP Hydro Bitcoin Miner (257 TH/s)",
@@ -4585,7 +4585,7 @@
     },
     {
         "input": "IPollo V2H Ethereum Classic Miner (3400 MH/s) IPollo V2H Ethereum Classic Miner (3400 MH/s)",
-        "output": "iPollo V2X - 1.2Gh/s"
+        "output": "iPollo V2H - 3.4Gh/s"
     },
     {
         "input": "Elphapex DG Home 1 2100M 630W Litecoin Dogecoin Bells Miner may-batch",
@@ -4593,7 +4593,7 @@
     },
     {
         "input": "IBeLink BM-S3 Siacoin Miner (19TH/s) IBeLink BM-S3 Siacoin Miner (19TH/s)",
-        "output": "iBeLink BM-S1 Max - 12Th/s"
+        "output": "iBeLink BM-S3 - 19Th/s"
     },
     {
         "input": "Bitmain Antminer T21 190Th 3610W BTC BCH Miner Free Shipping 190Th 3610W | In Stock",
@@ -4625,11 +4625,11 @@
     },
     {
         "input": "BITMAIN Antminer S19J XP Bitcoin Miner (151 TH/s) BITMAIN Antminer S19J XP Bitcoin Miner (151 TH/s)",
-        "output": "Bitmain Antminer S19 XP - 140Th/s"
+        "output": "Bitmain Antminer S19 XP - 151Th/s"
     },
     {
         "input": "Goldshell E-DG1M Dogecoin and Litecoin Miner (3.4 Gh/s) Goldshell E-DG1M Dogecoin and Litecoin Miner (3.4 Gh/s)",
-        "output": "Goldshell E-AL1M - 4.4Th/s"
+        "output": "Goldshell E-DG1M - 3.4Gh/s"
     },
     {
         "input": "ElphaPex DG Home 1 2100Mh 630W LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Free Shipping 2100Mh 630W | In Stock",
@@ -4645,7 +4645,7 @@
     },
     {
         "input": "Goldshell MINI-DOGE III Plus Litecoin + Dogecoin Miner (810 MH/s) Goldshell MINI-DOGE III Plus Litecoin + Dogecoin Miner (810 MH/s)",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III Plus - 810Mh/s"
     },
     {
         "input": "BITMAIN Antminer AL1 PRO Alephium Miner (16.6 Th/s) BITMAIN Antminer AL1 PRO Alephium Miner (16.6 Th/s)",
@@ -4661,7 +4661,7 @@
     },
     {
         "input": "JASMINER X16-Q Ethereum Classic Miner (1950MH/s) JASMINER X16-Q Ethereum Classic Miner (1950MH/s)",
-        "output": "Jasminer X16-Q - 1.95Gh/s"
+        "output": "Jasminer X16-QE - 1.95Gh/s"
     },
     {
         "input": "【NEW】Canaan Avalon Mini 3 37.5T 800W 【NEW】Canaan Avalon Mini 3 37.5T 800W",
@@ -4669,11 +4669,11 @@
     },
     {
         "input": "GOLDSHELL – MINI DOGE III PLUS GOLDSHELL – MINI DOGE III PLUS",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III Plus"
     },
     {
         "input": "Canaan Avalon Mini3 37.5T（SHA256 | BTC）-ASICARK Canaan Avalon Mini3 37.5T（SHA256 | BTC）-ASICARK",
-        "output": "Canaan Avalon Miner A1047 - 37Th/s"
+        "output": "Canaan Avalon Miner Mini 3 - 37.5Th/s"
     },
     {
         "input": "Canaan Avalon Mini 3 37.5Th/s 800W Bitcoin Miner For Sale Canaan Avalon Mini 3 37.5Th/s 800W Bitcoin Miner For Sale",
@@ -4709,11 +4709,11 @@
     },
     {
         "input": "Bitaxe Gamma 601 Bitaxe Gamma 601",
-        "output": "Bitaxe Gamma BM1370"
+        "output": "Bitaxe Gamma"
     },
     {
         "input": "ICERIVER AL3 Alephium Miner (15 TH/s) ICERIVER AL3 Alephium Miner (15 TH/s)",
-        "output": "Iceriver AL2 Lite - 2Th/s"
+        "output": "Iceriver AL3 - 15Th/s"
     },
     {
         "input": "Iceriver AL0 400G ALPH Alephium Miner Iceriver AL0 400G ALPH Alephium Miner",
@@ -4745,7 +4745,7 @@
     },
     {
         "input": "GOLDSHELL – SC LITE GOLDSHELL – SC LITE",
-        "output": "Goldshell SC Lite - 4Th/s"
+        "output": "Goldshell SC Lite"
     },
     {
         "input": "【NEW】Canaan Avalon Nano 3S (6TH) 【NEW】Canaan Avalon Nano 3S (6TH)",
@@ -4765,7 +4765,7 @@
     },
     {
         "input": "Blockchain Smart Home Avalon Nano 3 Portable Small Heater Bitcoin Maker Crypto Hardware BTC Mining Noiseless Wind Blockchain Smart Home Avalon Nano 3 Portable Small Heater Bitcoin Maker Crypto Hardware BTC Mining Noiseless Wind",
-        "output": "Canaan Avalon Miner Nano 3S - 6Th/s"
+        "output": "Canaan Avalon Miner Nano 3"
     },
     {
         "input": "Iceriver KS2 Lite Kaspa Miner 2Th/s 500W Suitable for home miner Iceriver KS2 Lite Kaspa Miner 2Th/s 500W Suitable for home miner",
@@ -4777,7 +4777,7 @@
     },
     {
         "input": "MicroBT Whatsminer M50S Bitcoin Miner (122-134 TH/s) MicroBT Whatsminer M50S Bitcoin Miner (122-134 TH/s)",
-        "output": "MicroBT Whatsminer M50 - 128Th/s"
+        "output": "MicroBT Whatsminer M50S - 128Th/s"
     },
     {
         "input": "IceRiver AL2 Lite 2TH/s Home Mining Bundle IceRiver AL2 Lite 2TH/s Home Mining Bundle",
@@ -4793,7 +4793,7 @@
     },
     {
         "input": "MicroBT Whatsminer M56S++ Immersion Bitcoin Miner  (254-262 Th/s) MicroBT Whatsminer M56S++ Immersion Bitcoin Miner  (254-262 Th/s)",
-        "output": "MicroBT WhatsMiner M56 - 172Th/s"
+        "output": "MicroBT Whatsminer M56S++ - 262Th/s"
     },
     {
         "input": "ICERIVER KS2 LITE Kaspa Miner (2 TH/s) ICERIVER KS2 LITE Kaspa Miner (2 TH/s)",
@@ -4805,7 +4805,7 @@
     },
     {
         "input": "Goldshell LB-BOX LBRY Home Miner (175 GH/s) Goldshell LB-BOX LBRY Home Miner (175 GH/s)",
-        "output": "Goldshell LB1 - 87Gh/s"
+        "output": "Goldshell LB-BOX - 175Gh/s"
     },
     {
         "input": "Iceriver AL0 400 GH/s – December Batch Iceriver AL0 400 GH/s – December Batch",
@@ -4813,7 +4813,7 @@
     },
     {
         "input": "GOLDSHELL – AL BOX II PLUS GOLDSHELL – AL BOX II PLUS",
-        "output": "Goldshell AL Box II Plus - 1Th/s"
+        "output": "Goldshell AL Box II Plus"
     },
     {
         "input": "ICERIVER AL0 Alephium Miner (400 GH/s) ICERIVER AL0 Alephium Miner (400 GH/s)",
@@ -4825,15 +4825,15 @@
     },
     {
         "input": "GOLDSHELL – KA BOX PRO GOLDSHELL – KA BOX PRO",
-        "output": "Goldshell KA Box Pro - 1.6Th/s"
+        "output": "Goldshell KA Box Pro"
     },
     {
         "input": "ICERIVER KS5M Kaspa Miner (15 TH/s) ICERIVER KS5M Kaspa Miner (15 TH/s)",
-        "output": "Iceriver KS3M - 6Th/s"
+        "output": "Iceriver KS5M - 15Th/s"
     },
     {
         "input": "Goldshell KD BOX Ⅱ(Without Wi-Fi) Goldshell KD BOX Ⅱ(Without Wi-Fi)",
-        "output": "Goldshell KD Box - 1.6Th/s"
+        "output": "Goldshell KD Box II"
     },
     {
         "input": "Goldshell AL BOX II Plus Alephium Miner (1 Th/s) Goldshell AL BOX II Plus Alephium Miner (1 Th/s)",
@@ -4865,7 +4865,7 @@
     },
     {
         "input": "GOLDSHELL – AL BOX III GOLDSHELL – AL BOX III",
-        "output": "Goldshell AL BOX III - 1.25Th/s"
+        "output": "Goldshell AL BOX III"
     },
     {
         "input": "New Bitmain Antminer S19 Pro 110T Bitcoin Asic For Sale, Asic S19 Pro Mining Machines Price In Stock New Bitmain Antminer S19 Pro 110T Bitcoin Asic For Sale, Asic S19 Pro Mining Machines Price In Stock",
@@ -4877,11 +4877,11 @@
     },
     {
         "input": "Canaan Avalon A1346 Bitcoin Miner (107-126Th/s) 116TH/S",
-        "output": "Canaan Avalon Miner A1346 - 120Th/s"
+        "output": "Canaan Avalon Miner A1346 - 116Th/s"
     },
     {
         "input": "Goldshell SC5 PRO Siacoin Miner (11 TH/s) Goldshell SC5 PRO Siacoin Miner (11 TH/s)",
-        "output": "Goldshell SC5 Pro - 8Th/s"
+        "output": "Goldshell SC5 Pro - 11Th/s"
     },
     {
         "input": "MicroBT Whatsminer M56 Immersion Bitcoin Miner (172-180 Th/s) 180 TH/S",
@@ -4893,11 +4893,11 @@
     },
     {
         "input": "BITMAIN Antminer S19 Pro+ Hydro Bitcoin Miner (170-198 Th/s) 191Th/S",
-        "output": "Bitmain Antminer S19 Pro Hyd - 191Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 191Th/s"
     },
     {
         "input": "MicroBT Whatsminer M30S++ Bitcoin Miner (100-104 TH/s) MicroBT Whatsminer M30S++ Bitcoin Miner (100-104 TH/s)",
-        "output": "MicroBT Whatsminer M30S+ - 90Th/s"
+        "output": "MicroBT Whatsminer M30S++ - 104Th/s"
     },
     {
         "input": "MicroBT Whatsminer M30S+ 100Th/s 3400W SHA-256 BTC Miner MicroBT Whatsminer M30S+ 100Th/s 3400W SHA-256 BTC Miner",
@@ -4909,15 +4909,15 @@
     },
     {
         "input": "Goldshell E-KA1M Kaspa Miner (5.5 TH/s) Goldshell E-KA1M Kaspa Miner (5.5 TH/s)",
-        "output": "Goldshell E-AL1M - 4.4Th/s"
+        "output": "Goldshell E-KA1M - 5.5Th/s"
     },
     {
         "input": "ICERIVER KS5L Kaspa Miner (12 TH/s) ICERIVER KS5L Kaspa Miner (12 TH/s)",
-        "output": "Iceriver KS3M - 6Th/s"
+        "output": "Iceriver KS5L - 12Th/s"
     },
     {
         "input": "Goldshell AL-BOX III 1.25T/S 600w Alephium ALPH Miner without psu Goldshell AL-BOX III 1.25T/S 600w Alephium ALPH Miner without psu",
-        "output": "Goldshell E-DG1M - 3.4Gh/s"
+        "output": "Goldshell AL BOX III - 1.25Th/s"
     },
     {
         "input": "Goldshell AL-BOX III Alephium Miner (1.25Th/s) Goldshell AL-BOX III Alephium Miner (1.25Th/s)",
@@ -4937,7 +4937,7 @@
     },
     {
         "input": "Goldshell HS5 SiaCoin + Handshake Miner (5.4 TH/s) Goldshell HS5 SiaCoin + Handshake Miner (5.4 TH/s)",
-        "output": "Goldshell HS5 - 2.7Th/s"
+        "output": "Goldshell HS5 - 5.4Th/s"
     },
     {
         "input": "IceRiver AL2 Lite 2Th/s 500W Alephium Miner ALPH Mining IceRiver AL2 Lite 2Th/s 500W Alephium Miner ALPH Mining",
@@ -4945,7 +4945,7 @@
     },
     {
         "input": "Blockchain Smart Home Avalon Nano 3 Portable Small Heater Bitcoin Maker Crypto Hardware BTC Mining Noiseless Wind Blockchain Smart Home Avalon Nano 3 Portable Small Heater Bitcoin Maker Crypto Hardware BTC Mining Noiseless Wind",
-        "output": "Canaan Avalon Miner Nano 3S - 6Th/s"
+        "output": "Canaan Avalon Miner Nano 3"
     },
     {
         "input": "IPollo V1 Mini WiFi Ethereum Classic Miner (260MH/s) - USA STOCK IPollo V1 Mini WiFi Ethereum Classic Miner (260MH/s) - USA STOCK",
@@ -4957,7 +4957,7 @@
     },
     {
         "input": "Goldshell E-KA1M Kaspa Miner (5.5 TH/s) Goldshell E-KA1M Kaspa Miner (5.5 TH/s)",
-        "output": "Goldshell E-AL1M - 4.4Th/s"
+        "output": "Goldshell E-KA1M - 5.5Th/s"
     },
     {
         "input": "BITMAIN Antminer Z15 Pro Zcash Miner (800-860 KSol/s) BITMAIN Antminer Z15 Pro Zcash Miner (800-860 KSol/s)",
@@ -4973,7 +4973,7 @@
     },
     {
         "input": "Canaan Avalon Mini3 37.5T（SHA256 | BTC）-ASICARK Canaan Avalon Mini3 37.5T（SHA256 | BTC）-ASICARK",
-        "output": "Canaan Avalon Miner A1047 - 37Th/s"
+        "output": "Canaan Avalon Miner Mini 3 - 37.5Th/s"
     },
     {
         "input": "【NEW】Canaan Avalon Nano 3S (6TH) 【NEW】Canaan Avalon Nano 3S (6TH)",
@@ -4989,7 +4989,7 @@
     },
     {
         "input": "Goldshell SC5 PRO Siacoin Miner (11 TH/s) Goldshell SC5 PRO Siacoin Miner (11 TH/s)",
-        "output": "Goldshell SC5 Pro - 8Th/s"
+        "output": "Goldshell SC5 Pro - 11Th/s"
     },
     {
         "input": "IceRiver ALPH AL0 400GH/S 100W Alephium Miner ALPH Mining IceRiver ALPH AL0 400GH/S 100W Alephium Miner ALPH Mining",
@@ -5001,7 +5001,7 @@
     },
     {
         "input": "Goldshell MINI-DOGE III Plus Litecoin + Dogecoin Miner (810 MH/s) Goldshell MINI-DOGE III Plus Litecoin + Dogecoin Miner (810 MH/s)",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III Plus - 810Mh/s"
     },
     {
         "input": "ElphaPex DG Hydro 1 Dogecoin + Litecoin Miner (20 GH/S) ElphaPex DG Hydro 1 Dogecoin + Litecoin Miner (20 GH/S)",
@@ -5009,7 +5009,7 @@
     },
     {
         "input": "ICERIVER AL3 Alephium Miner (15 TH/s) ICERIVER AL3 Alephium Miner (15 TH/s)",
-        "output": "Iceriver AL2 Lite - 2Th/s"
+        "output": "Iceriver AL3 - 15Th/s"
     },
     {
         "input": "【NEW】Canaan Avalon Mini 3 37.5T 800W 【NEW】Canaan Avalon Mini 3 37.5T 800W",
@@ -5025,7 +5025,7 @@
     },
     {
         "input": "ICERIVER KS5L Kaspa Miner (12 TH/s) ICERIVER KS5L Kaspa Miner (12 TH/s)",
-        "output": "Iceriver KS3M - 6Th/s"
+        "output": "Iceriver KS5L - 12Th/s"
     },
     {
         "input": "ICERIVER AL2 LITE Alephium Miner (2 TH/s) ICERIVER AL2 LITE Alephium Miner (2 TH/s)",
@@ -5037,7 +5037,7 @@
     },
     {
         "input": "GOLDSHELL – AL BOX III GOLDSHELL – AL BOX III",
-        "output": "Goldshell AL BOX III - 1.25Th/s"
+        "output": "Goldshell AL BOX III"
     },
     {
         "input": "IBeLink BM-KS MAX Kaspa Miner (10.5TH/s) IBeLink BM-KS MAX Kaspa Miner (10.5TH/s)",
@@ -5053,11 +5053,11 @@
     },
     {
         "input": "VolcMiner D1 Litecoin + Dogecoin Miner 15.15 Gh/s VolcMiner D1 Litecoin + Dogecoin Miner 15.15 Gh/s",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Mini - 15.15Gh/s"
     },
     {
         "input": "ICERIVER KS5M Kaspa Miner (15 TH/s) ICERIVER KS5M Kaspa Miner (15 TH/s)",
-        "output": "Iceriver KS3M - 6Th/s"
+        "output": "Iceriver KS5M - 15Th/s"
     },
     {
         "input": "Goldshell KA BOX PRO Kaspa Miner (1.6 TH/s) Goldshell KA BOX PRO Kaspa Miner (1.6 TH/s)",
@@ -5065,19 +5065,19 @@
     },
     {
         "input": "Goldshell E-AL1M Alephium Miner (4.4 Gh/s) Goldshell E-AL1M Alephium Miner (4.4 Gh/s)",
-        "output": "Goldshell E-AL1M - 4.4Th/s"
+        "output": "Goldshell E-KA1M - 4.4Th/s"
     },
     {
         "input": "GOLDSHELL – SC LITE GOLDSHELL – SC LITE",
-        "output": "Goldshell SC Lite - 4Th/s"
+        "output": "Goldshell SC Lite"
     },
     {
         "input": "Goldshell AL BOX II Plus Alephium Miner 1TH/s 480W Goldshell AL BOX II Plus Alephium Miner 1TH/s 480W",
-        "output": "Goldshell AL Box II Plus - 1Th/s"
+        "output": "Goldshell AL Box II Plus"
     },
     {
         "input": "Goldshell HS5 SiaCoin + Handshake Miner (5.4 TH/s) Goldshell HS5 SiaCoin + Handshake Miner (5.4 TH/s)",
-        "output": "Goldshell HS5 - 2.7Th/s"
+        "output": "Goldshell HS5 - 5.4Th/s"
     },
     {
         "input": "IceRiver KS0 Ultra 400 GH/s with PSU IceRiver KS0 Ultra 400 GH/s with PSU",
@@ -5089,7 +5089,7 @@
     },
     {
         "input": "Goldshell LB-BOX LBRY Home Miner (175 GH/s) Goldshell LB-BOX LBRY Home Miner (175 GH/s)",
-        "output": "Goldshell LB1 - 87Gh/s"
+        "output": "Goldshell LB-BOX - 175Gh/s"
     },
     {
         "input": "JASMINER X16-Q Ethereum Classic Miner (1950MH/s) JASMINER X16-Q Ethereum Classic Miner (1950MH/s)",
@@ -5101,15 +5101,15 @@
     },
     {
         "input": "Canaan Avalon A1346 Bitcoin Miner (107-126Th/s) 126TH/S",
-        "output": "Canaan Avalon Miner A1446 - 135Th/s"
+        "output": "Canaan Avalon Miner A1346 - 126Th/s"
     },
     {
         "input": "BITMAIN Antminer L9 Litecoin + Dogecoin Miner (15 - 17 Gh/s) 16 GH/S",
-        "output": "Bitmain Antminer L9 - 17Gh/s"
+        "output": "Bitmain Antminer L9 - 16Gh/s"
     },
     {
         "input": "Goldshell AE-BOX ALEO Miner (37 MH/s) Goldshell AE-BOX ALEO Miner (37 MH/s)",
-        "output": "GMO miner B3 - 33Th/s"
+        "output": "Goldshell AE BOX - 37Mh/s"
     },
     {
         "input": "ICERIVER ALEO AE0 Miner (50 Mh/s) ICERIVER ALEO AE0 Miner (50 Mh/s)",
@@ -5117,7 +5117,7 @@
     },
     {
         "input": "Goldshell KD BOX Ⅱ(Without Wi-Fi) Goldshell KD BOX Ⅱ(Without Wi-Fi)",
-        "output": "Goldshell KD Box - 1.6Th/s"
+        "output": "Goldshell KD Box II"
     },
     {
         "input": "IBeLink BM-N3 MAX Nervos CKB Miner (30TH/s) IBeLink BM-N3 MAX Nervos CKB Miner (30TH/s)",
@@ -5129,15 +5129,15 @@
     },
     {
         "input": "GOLDSHELL – MINI DOGE III PLUS GOLDSHELL – MINI DOGE III PLUS",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III Plus"
     },
     {
         "input": "GOLDSHELL – AL BOX II PLUS GOLDSHELL – AL BOX II PLUS",
-        "output": "Goldshell AL Box II Plus - 1Th/s"
+        "output": "Goldshell AL Box II Plus"
     },
     {
         "input": "BITMAIN Antminer S19 Pro+ Hydro Bitcoin Miner (170-198 Th/s) 198Th/S",
-        "output": "Bitmain Antminer S19 Pro Hyd - 198Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 198Th/s"
     },
     {
         "input": "ElphaPex DG1 Dogecoin + Litecoin Miner (9.5-11 GH/s) ElphaPex DG1 Dogecoin + Litecoin Miner (9.5-11 GH/s)",
@@ -5153,7 +5153,7 @@
     },
     {
         "input": "MicroBT Whatsminer M50 Bitcoin Miner (118-122Th/s) MicroBT Whatsminer M50 Bitcoin Miner (118-122Th/s)",
-        "output": "MicroBT Whatsminer M50 - 122Th/s"
+        "output": "MicroBT Whatsminer M50 - 120Th/s"
     },
     {
         "input": "IceRiver AL2 Lite 2TH/s Home Mining Bundle IceRiver AL2 Lite 2TH/s Home Mining Bundle",
@@ -5173,11 +5173,11 @@
     },
     {
         "input": "MicroBT Whatsminer M30S++ Bitcoin Miner (100-104 TH/s) MicroBT Whatsminer M30S++ Bitcoin Miner (100-104 TH/s)",
-        "output": "MicroBT Whatsminer M30S+ - 90Th/s"
+        "output": "MicroBT Whatsminer M30S++ - 104Th/s"
     },
     {
         "input": "GOLDSHELL – MINI DOGE III GOLDSHELL – MINI DOGE III",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III"
     },
     {
         "input": "Canaan Avalon Nano 3S Bitcoin Home Miner 6Th/s 140W Canaan Avalon Nano 3S Bitcoin Home Miner 6Th/s 140W",
@@ -5185,15 +5185,15 @@
     },
     {
         "input": "ICERIVER KS0 ULTRA Kaspa Miner (400 GH/s) ICERIVER KS0 ULTRA Kaspa Miner (400 GH/s)",
-        "output": "Iceriver KS0 - 100Gh/s"
+        "output": "Iceriver KS0 Ultra - 400Gh/s"
     },
     {
         "input": "Goldshell MINI-DOGE III Litecoin + Dogecoin Miner (650 MH/s) (CMC VERSION - WI-FI) Goldshell MINI-DOGE III Litecoin + Dogecoin Miner (650 MH/s) (CMC VERSION - WI-FI)",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III - 650Mh/s"
     },
     {
         "input": "MicroBT Whatsminer M50S Bitcoin Miner (122-134 TH/s) MicroBT Whatsminer M50S Bitcoin Miner (122-134 TH/s)",
-        "output": "MicroBT Whatsminer M50 - 128Th/s"
+        "output": "MicroBT Whatsminer M50S - 128Th/s"
     },
     {
         "input": "Goldshell AL-BOX III Alephium Miner (1.25Th/s) Goldshell AL-BOX III Alephium Miner (1.25Th/s)",
@@ -5205,7 +5205,7 @@
     },
     {
         "input": "Goldshell AL-BOX III 1.25T/S 600w Alephium ALPH Miner without psu Goldshell AL-BOX III 1.25T/S 600w Alephium ALPH Miner without psu",
-        "output": "Goldshell E-DG1M - 3.4Gh/s"
+        "output": "Goldshell AL BOX III - 1.25Th/s"
     },
     {
         "input": "Iceriver AL0 400 GH/s – December Batch Iceriver AL0 400 GH/s – December Batch",
@@ -5229,11 +5229,11 @@
     },
     {
         "input": "MicroBT Whatsminer M56S++ Immersion Bitcoin Miner  (254-262 Th/s) MicroBT Whatsminer M56S++ Immersion Bitcoin Miner  (254-262 Th/s)",
-        "output": "MicroBT WhatsMiner M56 - 172Th/s"
+        "output": "MicroBT Whatsminer M56S++ - 262Th/s"
     },
     {
         "input": "GOLDSHELL – KA BOX PRO GOLDSHELL – KA BOX PRO",
-        "output": "Goldshell KA Box Pro - 1.6Th/s"
+        "output": "Goldshell KA Box Pro"
     },
     {
         "input": "Iceriver ALPH AL0 (400GH/100W) Iceriver ALPH AL0 (400GH/100W)",
@@ -5265,11 +5265,11 @@
     },
     {
         "input": "VolcMiner D1 Litecoin + Dogecoin Miner 15.15 Gh/s VolcMiner D1 Litecoin + Dogecoin Miner 15.15 Gh/s",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
     },
     {
         "input": "Goldshell AE Box Aleo Miner Goldshell AE Box Aleo Miner",
-        "output": "Goldshell AE BOX - 37Mh/s"
+        "output": "Goldshell AE BOX"
     },
     {
         "input": "BITMAIN Antminer L9 Litecoin + Dogecoin Miner (15 - 17 Gh/s) BITMAIN Antminer L9 Litecoin + Dogecoin Miner (15 - 17 Gh/s)",
@@ -5277,7 +5277,7 @@
     },
     {
         "input": "BITMAIN Antminer L7 Litecoin + Dogecoin Miner (8550 - 9500 Mh/s) BITMAIN Antminer L7 Litecoin + Dogecoin Miner (8550 - 9500 Mh/s)",
-        "output": "Bitmain Antminer L7 - 9.16Gh/s"
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
     },
     {
         "input": "Bitmain Antminer Dogecoin L7 (9.5Gh) Spot (5-7 Days)Th",
@@ -5297,7 +5297,7 @@
     },
     {
         "input": "BITMAIN Antminer L7 Litecoin + Dogecoin Miner (8550 - 9500 Mh/s) BITMAIN Antminer L7 Litecoin + Dogecoin Miner (8550 - 9500 Mh/s)",
-        "output": "Bitmain Antminer L7 - 9.16Gh/s"
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
     },
     {
         "input": "Bitdeer Sealminer A2 Hydro Bitcoin Miner 446 TH/S Bitdeer Sealminer A2 Hydro Bitcoin Miner 446 TH/S",
@@ -5305,11 +5305,11 @@
     },
     {
         "input": "Bitmain Antminer S21 Hyd(335Th) Spot\\uff087-10 Days\\uff09Th",
-        "output": "Bitmain Antminer S9 - 11.5Th/s"
+        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
     },
     {
         "input": "Bombax Miner EZ100 Pro ETC Miner In Stock",
-        "output": "Bombax Miner EZ100 Pro - 15500MH/s"
+        "output": "Bombax Miner EZ100 Pro"
     },
     {
         "input": "BITMAIN Antminer S21 Hyd 335T BTC Miner 335T Spot (with PSU)",
@@ -5321,11 +5321,11 @@
     },
     {
         "input": "BITMAIN Antminer S21 XP Immersion Miner (300 Th/s) BITMAIN Antminer S21 XP Immersion Miner (300 Th/s)",
-        "output": "Bitmain Antminer S21 XP Immersion - 215Th/s"
+        "output": "Bitmain Antminer S21 XP Immersion - 300Th/s"
     },
     {
         "input": "BITMAIN Antminer S21 Hydro Bitcoin Miner (302-335 Th/s) BITMAIN Antminer S21 Hydro Bitcoin Miner (302-335 Th/s)",
-        "output": "Bitmain Antminer S21 Hyd - 302Th/s"
+        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
     },
     {
         "input": "Fluminer L1 5.3Gh 1200W LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Free Shipping 5.3Gh 1200W | Apr. Batch",
@@ -5341,11 +5341,11 @@
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro Bitcoin Miner 319TH BITMAIN Antminer S21+ Hydro Bitcoin Miner 319TH",
-        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
     },
     {
         "input": "MicroBT Whatsminer M66S+ Immersion Bitcoin Miner (318Th/s) MicroBT Whatsminer M66S+ Immersion Bitcoin Miner (318Th/s)",
-        "output": "MicroBT WhatsMiner M66S - 298Th/s"
+        "output": "MicroBT WhatsMiner M66S+ - 318Th/s"
     },
     {
         "input": "Bitmain Antminer KA3 KDA Kadena Miner Delivery | Hosting Free Shipping 166Th 3154W | Delivery | In Stock",
@@ -5357,7 +5357,7 @@
     },
     {
         "input": "Bitmain Antminer S21+ Hydro BTC BCH BSV Miner Free Shipping 319Th 4785W | Mar. Batch",
-        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
     },
     {
         "input": "Bitmain Antminer KA3 KDA Kadena Miner Delivery | Hosting Free Shipping 176Th 3344W | Delivery | In Stock",
@@ -5365,7 +5365,7 @@
     },
     {
         "input": "BITMAIN Antminer S21 XP Bitcoin Miner (270 Th/s) BITMAIN Antminer S21 XP Bitcoin Miner (270 Th/s)",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21 XP - 270Th/s"
     },
     {
         "input": "Goldshell Dogecoin Miner DG Max  (6.5Gh) Nov. BatchTh",
@@ -5401,7 +5401,7 @@
     },
     {
         "input": "MicroBT Whatsminer M60S+ Bitcoin Miner (188 - 200Th/s) MicroBT Whatsminer M60S+ Bitcoin Miner (188 - 200Th/s)",
-        "output": "MicroBT WhatsMiner M60S - 192Th/s"
+        "output": "MicroBT WhatsMiner M60S+ - 200Th/s"
     },
     {
         "input": "Bitmain Antminer S21 Pro (220/234Th) 220ThTh",
@@ -5413,11 +5413,11 @@
     },
     {
         "input": "BITMAIN Antminer E11 Ethereum Classic Miner (9 Gh/s) BITMAIN Antminer E11 Ethereum Classic Miner (9 Gh/s)",
-        "output": "Bitmain Antminer E11 - 9.5Gh/s"
+        "output": "Bitmain Antminer E11 - 9Gh/s"
     },
     {
         "input": "Bitmain Antminer E11 9000Mh 2340W ETC ETHW ETHF Miner Free Shipping 9000Mh 2340W | In Stock",
-        "output": "Bitmain Antminer E11 - 9.5Gh/s"
+        "output": "Bitmain Antminer E11 - 9Gh/s"
     },
     {
         "input": "Goldshell E-DG1M 3.4Gh 1800W DOGE Dogecoin LTC Litecoin Bellscoin BEL Miner Free Shipping 3.4Gh 1800W | In Stock",
@@ -5429,7 +5429,7 @@
     },
     {
         "input": "Canaan Avalon A15XP-206 Bitcoin Miner (206 Th/s) Canaan Avalon A15XP-206 Bitcoin Miner (206 Th/s)",
-        "output": "Canaan Avalon Miner A1246 - 93Th/s"
+        "output": "Canaan Avalon Miner A15 - 206Th/s"
     },
     {
         "input": "Bitmain Antminer KS5 Pro 21Th 3150W KASPA Miner Delivery | Hosting Free Shipping 21Th 3150W | Delivery | In Stock",
@@ -5441,11 +5441,11 @@
     },
     {
         "input": "BITMAIN Antminer S21+ Bitcoin Miner 216 TH/S BITMAIN Antminer S21+ Bitcoin Miner 216 TH/S",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 216Th 3564W Mixed | Feb. 2025 Batch",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Volcminer D1 Mini 2.2Gh 500W LTC Litecoin DOGE Dogecoin Bellscoin BEL Miner Free Shipping 2.2Gh 500W | Feb. Batch",
@@ -5457,7 +5457,7 @@
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping Hosted by Metered Mining | $0.08/kWh | Deployment Time: Feb.-Mar. 2025 Batch",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer S21  Pro 234Th 3531W BTC BCH Miner Hosting Free Shipping 234Th | Feb. Batch",
@@ -5481,7 +5481,7 @@
     },
     {
         "input": "MicroBT Whatsminer M60 Bitcoin Miner (168-178 Th/s) MicroBT Whatsminer M60 Bitcoin Miner (168-178 Th/s)",
-        "output": "MicroBT WhatsMiner M60 - 160Th/s"
+        "output": "MicroBT WhatsMiner M60 - 178Th/s"
     },
     {
         "input": "Bitmain Antminer S21  Pro 234Th 3531W BTC BCH Miner Hosting Free Shipping 220Th | In Stock",
@@ -5525,11 +5525,11 @@
     },
     {
         "input": "iPollo V2H 3400Mh 475W ETC ETHW ETHF QKC CLO POM ZIL Miner Free Shipping 3200Mh 475W | In Stock",
-        "output": "iPollo V2H - 3.4Gh/s"
+        "output": "iPollo V2H - 3.2Gh/s"
     },
     {
         "input": "iPollo V2H 3400Mh 475W ETC ETHW ETHF QKC CLO POM ZIL Miner Free Shipping 3300Mh 475W | In Stock",
-        "output": "iPollo V2H - 3.4Gh/s"
+        "output": "iPollo V2H - 3.3Gh/s"
     },
     {
         "input": "BITMAIN Antminer KS5 Pro (21 Th/s) BITMAIN Antminer KS5 Pro (21 Th/s)",
@@ -5541,7 +5541,7 @@
     },
     {
         "input": "Canaan Avalon A1346 Bitcoin Miner (107-126Th/s) Canaan Avalon A1346 Bitcoin Miner (107-126Th/s)",
-        "output": "Canaan Avalon Miner A1446 - 135Th/s"
+        "output": "Canaan Avalon Miner A1346 - 126Th/s"
     },
     {
         "input": "Bitmain Antminer S19 Pro+ Hyd.177T 184T 191T 198T 5445W  Bitcoin Miner Hydro Cooling Bitmain Antminer S19 Pro+ Hyd.177T 184T 191T 198T 5445W  Bitcoin Miner Hydro Cooling",
@@ -5549,11 +5549,11 @@
     },
     {
         "input": "MicroBT Whatsminer M56 Immersion Bitcoin Miner (172-180 Th/s) MicroBT Whatsminer M56 Immersion Bitcoin Miner (172-180 Th/s)",
-        "output": "MicroBT WhatsMiner M56 - 172Th/s"
+        "output": "MicroBT WhatsMiner M56 - 180Th/s"
     },
     {
         "input": "BITMAIN Antminer S19 Pro+ Hydro Bitcoin Miner (170-198 Th/s) BITMAIN Antminer S19 Pro+ Hydro Bitcoin Miner (170-198 Th/s)",
-        "output": "Bitmain Antminer S19 Pro Hyd - 184Th/s"
+        "output": "Bitmain Antminer S19 Pro Hyd - 198Th/s"
     },
     {
         "input": "Bitmain Antminer KS3 Kaspa Miner 9.4Th/s | BT-MINERS / 9.4T Used / In stock /",
@@ -5573,7 +5573,7 @@
     },
     {
         "input": "Canaan Avalon Nano 3S March",
-        "output": "Canaan Avalon Miner Nano 3S - 6Th/s"
+        "output": "Canaan Avalon Miner Nano 3S"
     },
     {
         "input": "Bitmain Antminer KS3 Kaspa Miner 9.4Th/s | BT-MINERS / 8.2T Used / In stock /",
@@ -5585,7 +5585,7 @@
     },
     {
         "input": "Jasminer X44-P - El mejor ASIC para minar ETC+ZIL Jasminer X44-P - El mejor ASIC para minar ETC+ZIL",
-        "output": "Jasminer X44-P 23.4Gh/s"
+        "output": "Jasminer X44-P"
     },
     {
         "input": "Antminer L9 (15G-16G-17G) Antminer L9 (15G)",
@@ -5597,7 +5597,7 @@
     },
     {
         "input": "VolcMiner D1 15,5GH - Máximo rendimiento para minar DOGE+LTC VolcMiner D1 15,5GH - Máximo rendimiento para minar DOGE+LTC",
-        "output": "Dayun Zig Z1 - 6.8Gh/s"
+        "output": "Volc Miner D1 - 15.5Gh/s"
     },
     {
         "input": "ELPHAPEX DG1+14 GH/s Minero DOGE+LTC ELPHAPEX DG1+14 GH/s Minero DOGE+LTC",
@@ -5605,7 +5605,7 @@
     },
     {
         "input": "Bitmain Antminer L7 : Potente Minero para LTC+DOGECOIN Bitmain Antminer L7 : Potente Minero para LTC+DOGECOIN",
-        "output": "Bitmain Antminer L7 - 9.16Gh/s"
+        "output": "Bitmain Antminer L7"
     },
     {
         "input": "Bitmain Antminer L7 (8.8Gh) Bitmain Antminer L7 (8.8Gh)",
@@ -5613,7 +5613,7 @@
     },
     {
         "input": "Antminer L7 (9500 MH/s) Antminer L7 (8550 MH/s)",
-        "output": "Bitmain Antminer L7 - 8.05Gh/s"
+        "output": "Bitmain Antminer L7 - 8.55Gh/s"
     },
     {
         "input": "Antminer S21 XP IMMERSION 300TH Antminer S21 XP IMMERSION 300TH",
@@ -5633,7 +5633,7 @@
     },
     {
         "input": "Antminer S21 XP Hyd 335Th Antminer S21 XP Hyd 335Th",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21 XP Hyd - 335Th/s"
     },
     {
         "input": "Antminer S21 XP 270TH Antminer S21 XP 270TH",
@@ -5649,11 +5649,11 @@
     },
     {
         "input": "Antminer S21+  216 TH (January Batch) Antminer S21+  216 TH (January Batch)",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Antminer KA3 (173 Th) Antminer KA3 (173 Th)",
-        "output": "Bitmain Antminer KA3 - 166Th/s"
+        "output": "Bitmain Antminer KA3 - 173Th/s"
     },
     {
         "input": "JASMINER X16-P 5.8GH JASMINER X16-P 5.8GH",
@@ -5669,7 +5669,7 @@
     },
     {
         "input": "Nuevo Bitmain Antminer T21 186 - 190TH Nuevo Bitmain Antminer T21 186 - 190TH",
-        "output": "Bitmain Antminer T21 - 186Th/s"
+        "output": "Bitmain Antminer T21 - 190Th/s"
     },
     {
         "input": "ASIC Bitmain Antminer X5 – 212 KH/s ASIC Bitmain Antminer X5 – 212 KH/s",
@@ -5677,11 +5677,11 @@
     },
     {
         "input": "Elphapex DG Home 1 Elphapex DG Home 1",
-        "output": "Elphapex DG Home 1 - 2Gh/s"
+        "output": "Elphapex DG Home 1"
     },
     {
         "input": "GOLDSHELL E-DG1M 3.4GH GOLDSHELL E-DG1M 3.4GH",
-        "output": "Goldshell LT6 - 3.35Gh/s"
+        "output": "Goldshell E-DG1M - 3.4Gh/s"
     },
     {
         "input": "JASMINER X16-Q 1.95GH JASMINER X16-Q 1.95GH",
@@ -5693,7 +5693,7 @@
     },
     {
         "input": "Antminer S19K  PRO 110-120 TH/S Antminer S19K  PRO 110-120 TH/S",
-        "output": "Bitmain Antminer S19 Pro Hyd - 191Th/s"
+        "output": "Bitmain Antminer S19K Pro - 120Th/s"
     },
     {
         "input": "Iceriver KS0 400 Gh Ultra Iceriver KS0 400 Gh Ultra",
@@ -5701,7 +5701,7 @@
     },
     {
         "input": "Canaan Avalon Miner Nano3 Home Miner (4Th/s) Canaan Avalon Miner Nano3 Home Miner (4Th/s)",
-        "output": "Canaan Avalon Miner A1446 - 135Th/s"
+        "output": "Canaan Avalon Miner Nano 3 Home - 4Th/s"
     },
     {
         "input": "ASIC ICERIVER ALPH AL2 LITE (ALEPHIUM) – 2 TH/s ASIC ICERIVER ALPH AL2 LITE (ALEPHIUM) – 2 TH/s",
@@ -5713,7 +5713,7 @@
     },
     {
         "input": "Goldshell LT6 Goldshell LT6",
-        "output": "Goldshell LT6 - 3.35Gh/s"
+        "output": "Goldshell LT6"
     },
     {
         "input": "Antminer E9 PRO 3.680Gh Antminer E9 PRO 3.680Gh",
@@ -5721,7 +5721,7 @@
     },
     {
         "input": "Goldshell KA Box-Pro Kaspa Miner 1.6 Th, 600W y  35 Db Goldshell KA Box-Pro Kaspa Miner 1.6 Th, 600W y  35 Db",
-        "output": "Goldshell CK6 - 19.3Th/s"
+        "output": "Goldshell KA Box-Pro - 1.6Th/s"
     },
     {
         "input": "IBELINK BM-L3 3.2GH IBELINK BM-L3 3.2GH",
@@ -5737,15 +5737,15 @@
     },
     {
         "input": "Goldshell AL-BOX III Goldshell AL-BOX III",
-        "output": "Goldshell HS3 - 2Th/s"
+        "output": "Goldshell AL-BOX III"
     },
     {
         "input": "Antminer S19 XP Hyd 170Th -198TH Antminer S19 XP Hyd 170Th -198TH",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S19 XP Hyd - 198Th/s"
     },
     {
         "input": "GOLDSHELL E-KA1M 5.5TH GOLDSHELL E-KA1M 5.5TH",
-        "output": "Goldshell HS5 - 5.4Th/s"
+        "output": "Goldshell E-KA1M - 5.5Th/s"
     },
     {
         "input": "ANTMINER S19 78T - 95 TH ANTMINER S19 78T - 95 TH",
@@ -5753,7 +5753,7 @@
     },
     {
         "input": "Goldshell E-AL1M Goldshell E-AL1M",
-        "output": "Goldshell E-AL1M - 4.4Th/s"
+        "output": "Goldshell E-AL1M"
     },
     {
         "input": "Antminer HS3 9Th Antminer HS3 9Th",
@@ -5761,23 +5761,23 @@
     },
     {
         "input": "IceRiver KS5L: Minero ASIC de Alto Rendimiento para Criptomonedas IceRiver KS5L: Minero ASIC de Alto Rendimiento para Criptomonedas",
-        "output": "Iceriver AL3 - 15Th/s"
+        "output": "Iceriver KS5L"
     },
     {
         "input": "Dragonball Miner A11 Dragonball Miner A11",
-        "output": "Dragonball Miner A11 - 3Th/s"
+        "output": "Dragonball Miner A11"
     },
     {
         "input": "Goldshell AE Box Aleo Miner March Delivery",
-        "output": "Goldshell AE BOX - 37Mh/s"
+        "output": "Goldshell AE BOX"
     },
     {
         "input": "Goldshell AE Box Aleo Miner February Delivery",
-        "output": "Goldshell AE BOX - 37Mh/s"
+        "output": "Goldshell AE BOX"
     },
     {
         "input": "VolcMiner D1 Lite Dogecoin Miner February Delivery 2025",
-        "output": "Volc Miner D1 Lite - 14Gh/s"
+        "output": "Volc Miner D1 Lite"
     },
     {
         "input": "Antminer L9 15 GHReady Stock",
@@ -5785,7 +5785,7 @@
     },
     {
         "input": "Antminer L9 16 GHReady Stock",
-        "output": "Bitmain Antminer L9 - 17Gh/s"
+        "output": "Bitmain Antminer L9 - 16Gh/s"
     },
     {
         "input": "Antminer L9 17 GHReady Stock",
@@ -5801,7 +5801,7 @@
     },
     {
         "input": "ElphaPex DG Home 1 Dogecoin Miner February Delivery",
-        "output": "Elphapex DG Home 1 - 2.1Gh/s"
+        "output": "Elphapex DG Home 1"
     },
     {
         "input": "Volcminer D1 Hydro 30.4Gh/s 7600W Litecoin Dogecoin Bells Miner july-batch",
@@ -5813,7 +5813,7 @@
     },
     {
         "input": "Antminer U3S21EXPH Antminer U3S21EXPH",
-        "output": "Bitmain Antminer S21e XP Hyd 3U - 860Th/s"
+        "output": "Bitmain Antminer S21e XP Hyd"
     },
     {
         "input": "BITMAIN Antminer L9 Litecoin + Dogecoin Miner (15 - 17 Gh/s) BITMAIN Antminer L9 Litecoin + Dogecoin Miner (15 - 17 Gh/s)",
@@ -5821,27 +5821,27 @@
     },
     {
         "input": "Antminer S21 Hydro (319-395 th/s) Antminer S21+ Hydro (395 th/s)",
-        "output": "Bitmain Antminer S21 Hyd - 302Th/s"
+        "output": "Bitmain Antminer S21 Hyd - 395Th/s"
     },
     {
         "input": "Antminer S21 Hydro (319-395 th/s) Antminer S21+ Hydro (395 th/s) + Hydro kit",
-        "output": "Bitmain Antminer S21 Hyd - 302Th/s"
+        "output": "Bitmain Antminer S21 Hyd - 395Th/s"
     },
     {
         "input": "Antminer S21 Hydro (319-395 th/s) Antminer S21 Hydro (335 th/s)",
-        "output": "Bitmain Antminer S21 Hyd - 302Th/s"
+        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
     },
     {
         "input": "Antminer S21 Hydro (319-395 th/s) Antminer S21 Hydro (335 th/s) + Hydro kit (ships out in February)",
-        "output": "Bitmain Antminer S21 Hyd - 302Th/s"
+        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
     },
     {
         "input": "Antminer S21 Hydro (319-395 th/s) Antminer S21 Hydro (319 th/s)",
-        "output": "Bitmain Antminer S21 Hyd - 302Th/s"
+        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
     },
     {
         "input": "Antminer S21 Hydro (319-395 th/s) Antminer S21 Hydro (319 th/s) + Hydro kit",
-        "output": "Bitmain Antminer S21 Hyd - 302Th/s"
+        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
     },
     {
         "input": "Antminer S21 200TH USED-LIKE NEW",
@@ -5865,23 +5865,23 @@
     },
     {
         "input": "Antminer S19 Pro+ Hydro 177TH",
-        "output": "Bitmain Antminer S19 Pro Hyd - 177Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 177Th/s"
     },
     {
         "input": "Antminer S19 Pro+ Hydro 184TH",
-        "output": "Bitmain Antminer S19 Pro Hyd - 184Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 184Th/s"
     },
     {
         "input": "Antminer S19 Pro+ Hydro 191TH",
-        "output": "Bitmain Antminer S19 Pro Hyd - 191Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 191Th/s"
     },
     {
         "input": "Antminer S19 Pro+ Hydro 198TH",
-        "output": "Bitmain Antminer S19 Pro Hyd - 198Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 198Th/s"
     },
     {
         "input": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30.4Gh/s | BT-MINERS 170-300V / 30G / Late Feb Batch /",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hyd - 30Gh/s"
     },
     {
         "input": "Bitmain Antminer S21e XP Hyd 3U Bitcoin Miner 860TH/S | BT-MINERS / 860T / Late February Batch /",
@@ -5889,7 +5889,7 @@
     },
     {
         "input": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30.4Gh/s | BT-MINERS 170-300V / 30G / Late April Batch /",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hyd - 30Gh/s"
     },
     {
         "input": "VOLCMINER D1 15G / 17G 3900W LTC + DOGE + BEL Miner d1-17g",
@@ -5897,11 +5897,11 @@
     },
     {
         "input": "VolcMiner D1 Litecoin & Dogecoin Miner 15.15Gh/s | BT-MINERS / 15.15Gh / Late April Batch /",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
     },
     {
         "input": "VolcMiner D1 Litecoin & Dogecoin Miner 15.15Gh/s | BT-MINERS / 15.15Gh / Late Feb Batch /",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
     },
     {
         "input": "Bitmain Antminer L9 Litecoin & Dogecoin Miner | BT-MINERS / 16Gh / Feb 2025 /",
@@ -5921,15 +5921,15 @@
     },
     {
         "input": "Bitmain Antminer S21 XP Hydro Bitcoin Miner In Stock",
-        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+        "output": "Bitmain Antminer S21 XP Hyd"
     },
     {
         "input": "FLUMINER-L1 Litecoin & Dogecoin Miner 5.3GH/s | BT-MINERS / 5.3G / Late April Batch /",
-        "output": "Dragonball Miner A21 - 3.4Gh/s"
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
     },
     {
         "input": "FLUMINER-L1 Litecoin & Dogecoin Miner 5.3GH/s | BT-MINERS / 5.3G / Late Feb Batch /",
-        "output": "Dragonball Miner A21 - 3.4Gh/s"
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
     },
     {
         "input": "Bitmain Antminer S21 XP Imm Bitcoin Miner 300TH/S | BT-MINERS 380~415V / 300T / Late Feb Batch /",
@@ -5937,7 +5937,7 @@
     },
     {
         "input": "Goldshell DG Max Dogecoin Miner In Stock",
-        "output": "Goldshell DG Max - 6.5Gh/s"
+        "output": "Goldshell DG Max"
     },
     {
         "input": "VolcMiner D1 Mini Litecoin & Dogecoin Miner 2.2Gh/s | BT-MINERS / 2.2Gh / Late Feb Batch /",
@@ -5961,7 +5961,7 @@
     },
     {
         "input": "Bitmain Antminer T21 BTC Miner In Stock",
-        "output": "Bitmain Antminer T21 - 190Th/s"
+        "output": "Bitmain Antminer T21"
     },
     {
         "input": "Bitmain Antminer AL1 Alephium Miner 15.6TH/s | BT-MINERS / 15.6T / In Stock /",
@@ -5993,7 +5993,7 @@
     },
     {
         "input": "ICERIVER KS5M Kaspa Miner 15TH/s | BT-MINERS /  / In Stock /",
-        "output": "Iceriver AL3 - 15Th/s"
+        "output": "Iceriver KS5M - 15Th/s"
     },
     {
         "input": "Antminer K7 CKB Miner 63.5Th/s | BT-MINERS / 63.5T / Feb Batch /",
@@ -6021,43 +6021,43 @@
     },
     {
         "input": "VolcMiner D1 Mini Pre Dogecoin Miner February Delivery",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Mini"
     },
     {
         "input": "VolcMiner D1 Mini Pre Dogecoin Miner April Delivery",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Mini"
     },
     {
         "input": "BITMAIN Antminer S21 XP+ Hydro Bitcoin Miner (500 Th/s) BITMAIN Antminer S21 XP+ Hydro Bitcoin Miner (500 Th/s)",
-        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+        "output": "Bitmain Antminer S21 XP+ Hyd - 500Th/s"
     },
     {
         "input": "Bitmain Antminer S21 XP+ Hydro Bitcoin Miner Q3 Delivery 2025",
-        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+        "output": "Bitmain Antminer S21 XP+ Hyd"
     },
     {
         "input": "BITMAIN Antminer S19 XP+ Hydro Bitcoin Miner (279 TH/s) BITMAIN Antminer S19 XP+ Hydro Bitcoin Miner (279 TH/s)",
-        "output": "Bitmain Antminer S19 XP Hyd - 257Th/s"
+        "output": "Bitmain Antminer S19 XP+ Hyd - 279Th/s"
     },
     {
         "input": "VolcMiner D1 Mini Pre Dogecoin Miner February Delivery",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Mini"
     },
     {
         "input": "VolcMiner D1 Mini Pre Dogecoin Miner April Delivery",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Mini"
     },
     {
         "input": "Canaan Avalon A1566 Bitcoin Miner October Delivery 2024",
-        "output": "Canaan Avalon Miner A1466 - 156Th/s"
+        "output": "Canaan Avalon Miner A1566"
     },
     {
         "input": "BITMAIN Antminer S21+ 216T 3564W BTC Miner s21-216t-%ef%bc%88spot%ef%bc%89",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "ElphaPex DG Home 1 Dogecoin Miner May Delivery",
-        "output": "Elphapex DG Home 1 - 2.1Gh/s"
+        "output": "Elphapex DG Home 1"
     },
     {
         "input": "ElphaPex DG Home 1 2100Mh 630W LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Free Shipping 2100Mh 630W | Feb. Batch",
@@ -6065,31 +6065,31 @@
     },
     {
         "input": "Antminer S19k Pro (120 th/s) Antminer S19k Pro (110 th/s)",
-        "output": "Bitmain Antminer S19 Pro Hyd - 170Th/s"
+        "output": "Bitmain Antminer S19k Pro - 110Th/s"
     },
     {
         "input": "Antminer S21 XP+ Hydro (500 th/s) Antminer S21 XP+ Hydro (500 th/s)",
-        "output": "Bitmain Antminer S21e XP Hyd - 430Th/s"
+        "output": "Bitmain Antminer S21 XP+ Hyd - 500Th/s"
     },
     {
         "input": "Antminer S21 XP+ Hydro (500 th/s) Antminer S21 XP+ Hydro (500 th/s) + Hydro kit",
-        "output": "Bitmain Antminer S21e XP Hyd - 430Th/s"
+        "output": "Bitmain Antminer S21 XP+ Hyd - 500Th/s"
     },
     {
         "input": "Goldshell AE Box Aleo Miner 5-7 Days Delivery",
-        "output": "Goldshell AE BOX - 37Mh/s"
+        "output": "Goldshell AE BOX"
     },
     {
         "input": "Bitmain Antminer S19 XP+ Hydro Bitcoin Miner March Delivery",
-        "output": "Bitmain Antminer S19 XP Hyd - 257Th/s"
+        "output": "Bitmain Antminer S19 XP+ Hyd"
     },
     {
         "input": "Bitdeer SealMiner A2 March",
-        "output": "Bitdeer SealMiner A2 - 226Th/s"
+        "output": "Bitdeer SealMiner A2"
     },
     {
         "input": "BITMAIN Antminer L7 9050M / 9300M / 9500M LTC Miner l7-9050m-mix-june-pre-order",
-        "output": "Bitmain Antminer L7 - 9.16Gh/s"
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
     },
     {
         "input": "Bitmain Antminer E11 9.5Gh/s | BT-MINERS / 9.5G / Feb Batch /",
@@ -6105,7 +6105,7 @@
     },
     {
         "input": "Bitmain Antminer L7 8050 8300 8550 8800 9050 9300 9500M Litecoin Dogecoin Miner SPOTBitmain Antminer L7 8550Mh/s",
-        "output": "Bitmain Antminer L7 - 8.05Gh/s"
+        "output": "Bitmain Antminer L7 - 8.55Gh/s"
     },
     {
         "input": "Elphapex DG Home 1 Litcoin Dogecoin Bells Miner 2000M 620W Feb. Batch",
@@ -6121,11 +6121,11 @@
     },
     {
         "input": "Cooldragon Antminer L7 8050M 8300M 8550M 8800M 9050M 9300M 9500M Scrypt Litecoin LTC Miner 9050m-june-batch",
-        "output": "Bitmain Antminer L7 - 9.3Gh/s"
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
     },
     {
         "input": "VolcMiner D1 Litecoin & Dogecoin Miner 15.15Gh/s | BT-MINERS / 15.15Gh / In Stock /",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
     },
     {
         "input": "BITMAIN Antminer S21 XP 270T BTC Miner / 270T After 7 Days.(with PSU)",
@@ -6133,11 +6133,11 @@
     },
     {
         "input": "Bitmain Antminer S21+ Hydro 319T 4785W Bitcoin Miner Hydro Cooling mix-319t-feb-batch",
-        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ Hydro 319T 4785W Bitcoin Miner Hydro Cooling mix-319t-mar-batch",
-        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
     },
     {
         "input": "Bitmain Antminer L9 Litecoin & Dogecoin Miner | BT-MINERS / 17Gh / April 2025 /",
@@ -6161,7 +6161,7 @@
     },
     {
         "input": "Iceriver ALEO AE0 Aleo Miner March",
-        "output": "IceRiver ALEO AE0 - 50Mh/s"
+        "output": "IceRiver ALEO AE0"
     },
     {
         "input": "Bitmain Antminer S21 Pro 234T 3531W Bitcoin Miner BTC BCH Mining factory-spot",
@@ -6169,11 +6169,11 @@
     },
     {
         "input": "BITMAIN Antminer S21 Imm. 215T BTC Miner 215T 10Days (with PSU)",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21 Immersion - 215Th/s"
     },
     {
         "input": "Goldshell Mini Doge III Litecoin Dogecoin Miner In Stock",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III"
     },
     {
         "input": "BITMAIN Antminer S21 Pro 234T BTC Miner 245T Feb (with PSU)",
@@ -6193,7 +6193,7 @@
     },
     {
         "input": "Elphapex DG 1+ Litcoin Dogecoin Bells Miner 14.4G 3950W SPOTElphapex DG1 9.5Gh",
-        "output": "Elphapex DG1 - 9.5Gh/s"
+        "output": "Elphapex DG1+ - 9.5Gh/s"
     },
     {
         "input": "Elphapex DG 1+ Litcoin Dogecoin Bells Miner 14.4G 3950W SPOTElphapex DG1 Plus 13Gh",
@@ -6221,7 +6221,7 @@
     },
     {
         "input": "Cooldragon Elphapex DG1+ 13.6G 13.8G 14G 14.4G 3950W LTC+DOGE Scrypt Miner dg1-13-5g-stock",
-        "output": "Elphapex DG1 - 10Gh/s"
+        "output": "Elphapex DG1+ - 13.5Gh/s"
     },
     {
         "input": "Bitmain Antminer S21 XP 270Th 3645W BTC BCH Miner Delivery  | Hosting Free Shipping 270Th 3645W | Delivery | In Stock",
@@ -6265,11 +6265,11 @@
     },
     {
         "input": "Goldshell AE-BOX ALEO Miner 37M / 37M After 10 Days(with PSU)",
-        "output": "Canaan Avalon Miner A1126 Pro - 68Th/s"
+        "output": "Goldshell AE BOX - 37Mh/s"
     },
     {
         "input": "Goldshell AE-BOX Pro (44 Mh/s) Goldshell AE-BOX Pro (44 Mh/s)",
-        "output": "Goldshell SC5 Pro - 11Th/s"
+        "output": "Goldshell AE BOX Pro - 44Mh/s"
     },
     {
         "input": "MicroBT Whatsminer M60 164th / new",
@@ -6277,31 +6277,31 @@
     },
     {
         "input": "ElphaPex DG Home 1 Dogecoin Miner In Stock",
-        "output": "Elphapex DG Home 1 - 2.1Gh/s"
+        "output": "Elphapex DG Home 1"
     },
     {
         "input": "Cooldragon VolcMiner D1 Hydro 30.4G 7600W Scrypt LTC DOGE Miner 30-4g-apr-batch",
-        "output": "Dragonball Miner A21 - 3.4Gh/s"
+        "output": "Volc Miner D1 Hydro - 30.4Gh/s"
     },
     {
         "input": "Cooldragon VolcMiner D1 Hydro 30.4G 7600W Scrypt LTC DOGE Miner 30-4g-jul-batch",
-        "output": "Dragonball Miner A21 - 3.4Gh/s"
+        "output": "Volc Miner D1 Hydro - 30.4Gh/s"
     },
     {
         "input": "Bitmain Antminer L7 8050 8300 8550 8800 9050 9300 9500M Litecoin Dogecoin Miner Jun BatchBitmain Antminer L7 9500Mh/s",
-        "output": "Bitmain Antminer L7 - 9.3Gh/s"
+        "output": "Bitmain Antminer L7 - 9.5Gh/s"
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner / 358T Spot.（with PSU）",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 358Th/s"
     },
     {
         "input": "VOLCMINER D1  15.15Gh/s 17Gh/s 3900W Litecoin Dogecoin Bells Miner 15-15g-in-stock",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
     },
     {
         "input": "VOLCMINER D1  15.15Gh/s 17Gh/s 3900W Litecoin Dogecoin Bells Miner 15-15g-april-batch",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
     },
     {
         "input": "BITMAIN Antminer S21 XP 270T BTC Miner 270T 6Days (with PSU)",
@@ -6309,7 +6309,7 @@
     },
     {
         "input": "Goldshell AE Box | AE Box Pro Aleo ALEO Miner Free Shipping 44Mh 460W | In Stock",
-        "output": "Goldshell AE BOX - 37Mh/s"
+        "output": "Goldshell AE BOX Pro - 44Mh/s"
     },
     {
         "input": "Antminer Bitmain L9 17G 3570W Litecoin Dogecoin Bells Miner pre-order",
@@ -6329,35 +6329,35 @@
     },
     {
         "input": "Volcminer D1 LTC Litecoin DOGE Dogecoin Bellscoin BEL Miner Free Shipping 16Gh 3664W | Delivery | Feb. Btach",
-        "output": "Volc Miner D1 - 17Gh/s"
+        "output": "Volc Miner D1 Lite - 17Gh/s"
     },
     {
         "input": "Volcminer D1 LTC Litecoin DOGE Dogecoin Bellscoin BEL Miner Free Shipping 16Gh 3664W | Hosted in USA | $0.074-$0.08/kWh | Deployment Time: Feb.-Mar. Batch",
-        "output": "Volc Miner D1 - 17Gh/s"
+        "output": "Volc Miner D1 Lite - 16Gh/s"
     },
     {
         "input": "Volcminer D1 LTC Litecoin DOGE Dogecoin Bellscoin BEL Miner Free Shipping 18.5Gh 4236.5W | Delivery | Feb. Btach",
-        "output": "Volc Miner D1 - 15.15Gh/s"
+        "output": "Volc Miner D1 Lite - 18.5Gh/s"
     },
     {
         "input": "Volcminer D1 LTC Litecoin DOGE Dogecoin Bellscoin BEL Miner Free Shipping 18.5Gh 4236.5W | Hosted in USA | $0.074-$0.08/kWh | Deployment Time: Feb.-Mar. Batch",
-        "output": "Volc Miner D1 - 15.15Gh/s"
+        "output": "Volc Miner D1 Lite - 18.5Gh/s"
     },
     {
         "input": "Volcminer D1 LTC Litecoin DOGE Dogecoin Bellscoin BEL Miner Free Shipping 15.15Gh 3469W | Delivery | In Stock",
-        "output": "Volc Miner D1 - 15.15Gh/s"
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
     },
     {
         "input": "Bitmain Antminer S21+ Bitcoin Miner 235TH/s - February Delivery",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ Bitcoin Miner 216TH/s - February Delivery",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ Bitcoin Miner 225TH/s - February Delivery",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "BITMAIN Antminer S21 XP 270T BTC Miner / 270T After 5 Days.(with PSU)",
@@ -6389,7 +6389,7 @@
     },
     {
         "input": "Bitmain Antminer E11 ETC Miner In Stock",
-        "output": "Bitmain Antminer E11 - 9.5Gh/s"
+        "output": "Bitmain Antminer E11"
     },
     {
         "input": "Jasminer X16-QE ETC Miner 8GB 1750MH/s - In Stock",
@@ -6397,7 +6397,7 @@
     },
     {
         "input": "Goldshell AE-BOX Pro (44 Mh/s) Goldshell AE-BOX Pro with PSU (44 Mh/s)",
-        "output": "Goldshell SC5 Pro - 11Th/s"
+        "output": "Goldshell AE BOX Pro - 44Mh/s"
     },
     {
         "input": "ElphaPex DG1+ Litecoin & Dogecoin Miner 14.4GH/s | BT-MINERS / 14G / June Batch /",
@@ -6413,7 +6413,7 @@
     },
     {
         "input": "ElphaPex DG Home 1 Dogecoin Miner End February Delivery",
-        "output": "Elphapex DG Home 1 - 2.1Gh/s"
+        "output": "Elphapex DG Home 1"
     },
     {
         "input": "Bitmain Antminer S21 XP 270Th 3645W BTC BCH Miner Delivery  | Hosting Free Shipping 270Th 3645W | Delivery | In Stock (Ship in 5 days)",
@@ -6421,39 +6421,39 @@
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 216Th 3564W | Feb. 2025 Batch",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer L9 LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Delivery | Hosting Free Shipping 16.5Gh | Delivery | In Stock",
-        "output": "Bitmain Antminer L9 - 16Gh/s"
+        "output": "Bitmain Antminer L9 - 16.5Gh/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 216Th 3564W | Hosted in USA | $0.074-$0.08/kWh | Deployment Time: Feb.-Mar. 2025",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer L9 LTC Litecoin DOGE Dogecoin BEL Bellscoin Miner Delivery | Hosting Free Shipping 16.5Gh | Hosted in USA | $0.074-$0.08/kWh",
-        "output": "Bitmain Antminer L9 - 16Gh/s"
+        "output": "Bitmain Antminer L9 - 16.5Gh/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 225Th 3712.5W | Feb. 2025 Batch",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 225Th 3712.5W | Hosted in USA | $0.074-$0.08/kWh | Deployment Time: Feb.-Mar. 2025",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 235Th 3877.5W | Feb. 2025 Batch",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 235Th 3877.5W | Hosted in USA | $0.074-$0.08/kWh | Deployment Time: Feb.-Mar. 2025",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Antminer L7 (9050 MH/s) Second hand Antminer L7 (9050 MH/s)",
-        "output": "Bitmain Antminer L7 - 8.05Gh/s"
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
     },
     {
         "input": "BITMAIN Antminer S21 XP 270T BTC Miner / 270T After 3 Days.(with PSU)",
@@ -6465,7 +6465,7 @@
     },
     {
         "input": "BITMAIN Antminer L9 15/16G Litecoin Dogecoin Miner / 16.5G Spot. (with PSU)",
-        "output": "Bitmain Antminer L9 - 16Gh/s"
+        "output": "Bitmain Antminer L9 - 16.5Gh/s"
     },
     {
         "input": "VolcMiner D1 Mini Pre 2.2G Litecoin Dogecoin Miner April",
@@ -6485,15 +6485,15 @@
     },
     {
         "input": "BITMAIN Antminer L9 16G Litecoin Dogecoin Miner 16.5G Spot (with PSU)",
-        "output": "Bitmain Antminer L9 - 16Gh/s"
+        "output": "Bitmain Antminer L9 - 16.5Gh/s"
     },
     {
         "input": "Bitmain Antminer L7 LTC Litecoin DOGE Dogecoin Miner 9016",
-        "output": "Bitmain Antminer L7 - 9.16Gh/s"
+        "output": "Bitmain Antminer L7 - 9.016Gh/s"
     },
     {
         "input": "BITMAIN Antminer T21 190T BTC Miner 180T Thailand Moq 50pcs",
-        "output": "Bitmain Antminer T21 - 190Th/s"
+        "output": "Bitmain Antminer T21 - 180Th/s"
     },
     {
         "input": "BITMAIN Antminer T21 190T BTC Miner 190T Indonesia Moq 50pcs",
@@ -6513,43 +6513,43 @@
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 216Th 3564W | In Stock",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 216Th 3564W | Hosted in USA | $0.074-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 225Th 3712.5W | In Stock",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 225Th 3712.5W | Hosted in USA | $0.074-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 235Th 3877.5W | In Stock",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 3564W BTC BCH Miner Delivery | Hosting Free Shipping 235Th 3877.5W | Hosted in USA | $0.074-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ Bitcoin Miner (216-235 TH/S) BITMAIN Antminer S21+ Bitcoin Miner (216-235 TH/S)",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro Bitcoin Miner (319 - 395TH/s) BITMAIN Antminer S21+ Hydro Bitcoin Miner (319 - 395TH/s)",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ - 335Th/s"
     },
     {
         "input": "BITMAIN Antminer S21 Pro Bitcoin Miner (234 Th/s) BITMAIN Antminer S21 Pro Bitcoin Miner (234 Th/s)",
-        "output": "Bitmain Antminer S21 Pro - 245Th/s"
+        "output": "Bitmain Antminer S21 Pro - 234Th/s"
     },
     {
         "input": "MicroBT Whatsminer M50S Bitcoin Miner (128-134 TH/s) MicroBT Whatsminer M50S Bitcoin Miner (128-134 TH/s)",
-        "output": "MicroBT Whatsminer M50 - 128Th/s"
+        "output": "MicroBT Whatsminer M50S - 128Th/s"
     },
     {
         "input": "BITMAIN Antminer S21 XP 270T BTC Miner / 270T Malaysia(with PSU)",
@@ -6561,11 +6561,11 @@
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner 395T 7Days (with PSU)",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 395Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner 358T 7Days (with PSU)",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 358Th/s"
     },
     {
         "input": "Cooldragon Goldshell AE-BOX 37Mh/s 360 zkSNARK ALEO Miner ae-box-20-of-feb-batch",
@@ -6573,11 +6573,11 @@
     },
     {
         "input": "BITMAIN Antminer S21+ 216T 3564W BTC Miner s21-225t",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ 216T 3564W BTC Miner s21-235t",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Goldshell AE-BOX ALEO Miner 37M / 37M Feb(with PSU)",
@@ -6589,7 +6589,7 @@
     },
     {
         "input": "BITMAIN Antminer S21 Pro 234T BTC Miner 234T (Thailand Moq 50pcs)",
-        "output": "Bitmain Antminer S21 Pro - 245Th/s"
+        "output": "Bitmain Antminer S21 Pro - 234Th/s"
     },
     {
         "input": "Bitmain Antminer S21 Pro Bitcoin Miner 234T / 234T Thailand. (with PSU)",
@@ -6613,19 +6613,19 @@
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner / 395T Feb.（with PSU）",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 395Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner / 358T Feb.（with PSU）",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 358Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner / 395T Spot.（with PSU）",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 395Th/s"
     },
     {
         "input": "BITMAIN Antminer S21 XP 270T BTC Miner 270T (Malaysia moq 50pcs)",
-        "output": "Bitmain Antminer S21 Pro - 245Th/s"
+        "output": "Bitmain Antminer S21 XP - 270Th/s"
     },
     {
         "input": "BITMAIN Antminer S21 XP 270T BTC Miner 270T 3Days (with PSU)",
@@ -6637,7 +6637,7 @@
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th BTC BCH Miner Delivery | Hosting Free Shipping 216Th 3564W | In Stock",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "iPollo V2H 3400Mh 475W ETC ETHW ETHF QKC CLO POM ZIL Miner Free Shipping 3500Mh 475W | In Stock",
@@ -6645,7 +6645,7 @@
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th BTC BCH Miner Delivery | Hosting Free Shipping 216Th 3564W | Hosted in USA | $0.074-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "iPollo V2H 3400Mh 475W ETC ETHW ETHF QKC CLO POM ZIL Miner Free Shipping 3600Mh 475W | In Stock",
@@ -6653,19 +6653,19 @@
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th BTC BCH Miner Delivery | Hosting Free Shipping 225Th 3712.5W | In Stock",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th BTC BCH Miner Delivery | Hosting Free Shipping 225Th 3712.5W | Hosted in USA | $0.074-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th BTC BCH Miner Delivery | Hosting Free Shipping 235Th 3877.5W | In Stock",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th BTC BCH Miner Delivery | Hosting Free Shipping 235Th 3877.5W | Hosted in USA | $0.074-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Bitmain Antminer S21  Pro 234Th 3510W BTC BCH Miner Hosting Free Shipping 234Th 3510W | In Stock (Ship in 7 Days)",
@@ -6685,7 +6685,7 @@
     },
     {
         "input": "Elphapex DG Home1 2.1G Litcoin & Dogecoin Miner / 2.1G Spot. (with PSU.)",
-        "output": "Elphapex DG1 - 11.8Gh/s"
+        "output": "Elphapex DG Home 1 - 2.1Gh/s"
     },
     {
         "input": "BITMAIN Antminer S21 XP 270T BTC Miner / 270T After 1 Days.(with PSU)",
@@ -6693,7 +6693,7 @@
     },
     {
         "input": "VolcMiner D1 Hydro Dogecoin Miner July Delivery 2025",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hyd"
     },
     {
         "input": "April batch Bitmain Antminer L9 17G 3570W LTC Miner Dogecoin Mining Machine L9 april batch mix",
@@ -6705,7 +6705,7 @@
     },
     {
         "input": "BITMAIN Antminer S21+ 216T BTC Miner 216T Mix 5Days (with PSU)",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "BITMAIN Antminer S19K Pro 110T-120T 115T Spot (with PSU)",
@@ -6713,7 +6713,7 @@
     },
     {
         "input": "BITMAIN Antminer S19K Pro 110T-120T 110T Spot (with PSU)",
-        "output": "Bitmain Antminer S19 Pro - 110Th/s"
+        "output": "Bitmain Antminer S19K Pro - 110Th/s"
     },
     {
         "input": "Cooldragon Goldshell AE-BOX 37Mh/s 360 zkSNARK ALEO Miner ae-box-mar-batch",
@@ -6721,7 +6721,7 @@
     },
     {
         "input": "BITMAIN Antminer S21 Pro 220T / 234T BTC Bitcoin Miner s21pro-234t%ef%bc%88this-week",
-        "output": "Bitmain Antminer S21 Pro - 245Th/s"
+        "output": "Bitmain Antminer S21 Pro - 234Th/s"
     },
     {
         "input": "VolcMiner D1 Hydro 30.4Gh 7600W Scrypt algorithm DOGE and LTC July batch",
@@ -6733,15 +6733,15 @@
     },
     {
         "input": "Goldshell AE-BOX ALEO Miner 37M / 37M After 1 Day(with PSU)",
-        "output": "Goldshell E-AL1M - 4.4Th/s"
+        "output": "Goldshell AE BOX - 37Mh/s"
     },
     {
         "input": "Goldshell AE-BOX Pro (44 Mh/s) Goldshell AE-BOX Pro PSU included (44 Mh/s)",
-        "output": "Goldshell SC5 Pro - 11Th/s"
+        "output": "Goldshell AE BOX - 44Mh/s"
     },
     {
         "input": "Goldshell AE-BOX Pro (44 Mh/s) Goldshell AE-BOX PSU included (37 Mh/s)",
-        "output": "Goldshell SC5 Pro - 11Th/s"
+        "output": "Goldshell AE BOX - 37Mh/s"
     },
     {
         "input": "Bitmain Antminer L9 Litecoin Dogecoin Miner 16G Mix April 2025",
@@ -6753,7 +6753,7 @@
     },
     {
         "input": "VOLCMINER D1 17Gh/s 3900W Litecoin Dogecoin Bells Miner 15.15g april batch",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
     },
     {
         "input": "Volcminer D1 Mini 2.2Gh 500W Litecoin LTC Dogecoin DOGE Miner Free Shipping 2.2Gh 500W | Feb. Batch",
@@ -6773,7 +6773,7 @@
     },
     {
         "input": "iPollo V2H 3400Mh 475W Ethereum Classic ETC ETHW ETHF QKC CLO POM ZIL Miner Free Shipping 3200Mh 475W | In Stock",
-        "output": "iPollo V2H - 3.4Gh/s"
+        "output": "iPollo V2H - 3.2Gh/s"
     },
     {
         "input": "Bitmain Antminer T21 190Th 3610W Bitcoin BTC Bitcoin Cash BCH Miner Free Shipping 180Th 3420W | In Stock",
@@ -6785,19 +6785,19 @@
     },
     {
         "input": "ElphaPex DG1 Plus 14.4Gh 3950W Litecoin LTC Dogecoin DOGE Miner Hosting  | Delivery Free Shipping 14Gh | Delivery | In Stock",
-        "output": "Elphapex DG1+ - 13Gh/s"
+        "output": "Elphapex DG1 - 14Gh/s"
     },
     {
         "input": "Goldshell AE Box Aleo Miner In Stock",
-        "output": "Goldshell AE BOX - 37Mh/s"
+        "output": "Goldshell AE BOX"
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 16Gh 3664W | Delivery | Feb. Btach",
-        "output": "Volc Miner D1 - 17Gh/s"
+        "output": "Volc Miner D1 Lite - 16Gh/s"
     },
     {
         "input": "ElphaPex DG1 Plus 14.4Gh 3950W Litecoin LTC Dogecoin DOGE Miner Hosting  | Delivery Free Shipping 14Gh | Hosted in USA | $0.074-$0.08/kWh",
-        "output": "Elphapex DG1+ - 13Gh/s"
+        "output": "Elphapex DG1 - 14Gh/s"
     },
     {
         "input": "Bitmain Antminer S19j Pro | S19 Pro-A 104Th 3068W Bitcoin BTC Bitcoin Cash BCH Miner Free Shipping 96Th 2832W | In Stock",
@@ -6817,15 +6817,15 @@
     },
     {
         "input": "Bitmain Antminer KA3 Kadena KDA Miner Delivery | Hosting Free Shipping 176Th 3344W | Delivery | In Stock",
-        "output": "Bitmain Antminer KA3 - 173Th/s"
+        "output": "Bitmain Antminer KA3 - 176Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ Hydro 319T 4785W Bitcoin Miner Hydro Cooling 358t-next-week",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 358Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ Hydro 319T 4785W Bitcoin Miner Hydro Cooling 395t-next-week",
-        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 395Th/s"
     },
     {
         "input": "BITMAIN Antminer S19 Pro Hyd 170/177/184T 184T 10Days (with PSU)",
@@ -6833,19 +6833,19 @@
     },
     {
         "input": "BITMAIN Antminer S19 Pro Hyd 170/177/184T 184T (Malaysia Moq 30pcs）",
-        "output": "Bitmain Antminer S19 Pro Hyd - 198Th/s"
+        "output": "Bitmain Antminer S19 Pro Hyd - 184Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner 395T Feb (with PSU)",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 395Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner 358T Feb (with PSU)",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 358Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ 216T BTC Miner 216T Mix Feb (with PSU)",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer S21 Pro 234T 3531W Bitcoin Miner BTC BCH Mining next-week",
@@ -6857,7 +6857,7 @@
     },
     {
         "input": "VolcMiner Mini 2.2Gh/s 500W Litecoin Dogecoin Bells Miner may-batch",
-        "output": "Baikal Quadruple Mini Miner - 600Mh/s"
+        "output": "Volc Miner D1 Mini - 2.2Gh/s"
     },
     {
         "input": "BITMAIN Antminer S21 Pro 234T BTC Miner 234T 6Days (with PSU)",
@@ -6869,7 +6869,7 @@
     },
     {
         "input": "BITMAIN Antminer S21 Pro 234T BTC Miner 234T (Thailand Moq 30pcs)",
-        "output": "Bitmain Antminer S21 Pro - 245Th/s"
+        "output": "Bitmain Antminer S21 Pro - 234Th/s"
     },
     {
         "input": "BITMAIN Antminer S21 Pro 234T BTC Miner 245T (Thailand Moq 30pcs)",
@@ -6885,7 +6885,7 @@
     },
     {
         "input": "BITMAIN Antminer S21 XP 270T BTC Miner 270T (Malaysia moq 30pcs)",
-        "output": "Bitmain Antminer S21 Pro - 245Th/s"
+        "output": "Bitmain Antminer S21 XP - 270Th/s"
     },
     {
         "input": "Bitmain Antminer T21 190Th 3610W Bitcoin BTC Bitcoin Cash BCH Miner Free Shipping 190Th 3610W | Hosted in USA | $0.074-$0.08/kWh",
@@ -6913,15 +6913,15 @@
     },
     {
         "input": "Antminer L7 (9050 MH/s) Antminer L7 (9050 MH/s)",
-        "output": "Bitmain Antminer L7 - 8.05Gh/s"
+        "output": "Bitmain Antminer L7 - 9.05Gh/s"
     },
     {
         "input": "Volcminer D1 Hydro 30.4Gh/s 7600W Litecoin Dogecoin Bells Miner february-batch",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hyd 30.4Gh/s"
     },
     {
         "input": "Cooldragon Antminer L9 17.6G 16.2G Scrypt LTC Miner 16-5g-stock",
-        "output": "Bitmain Antminer L7 - 9.5Gh/s"
+        "output": "Bitmain Antminer L9 - 16.5Gh/s"
     },
     {
         "input": "Bitmain Antminer L9 Miner 16G 3260W 0.21J/M For Sale （Litecoin Dogecoin Bells） pre-order",
@@ -6937,7 +6937,7 @@
     },
     {
         "input": "VOLCMINER D1 17Gh 3900W Litecoin Dogecoin Miner 15gh-s-april-batch",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 15Gh/s"
     },
     {
         "input": "BITMAIN Antminer S19 Pro Hyd 170/177/184T 184T 15Days (with PSU)",
@@ -6945,15 +6945,15 @@
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner 358T Mix 5Days (with PSU)",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 358Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ Hydro 319T BTC Miner 395T Spot (with PSU)",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 395Th/s"
     },
     {
         "input": "IceRiver KS5M 15 Th/s USA",
-        "output": "Iceriver AL3 - 15Th/s"
+        "output": "Iceriver KS5L - 15Th/s"
     },
     {
         "input": "Bitmain Antminer S19J Pro 96th / used",
@@ -6965,7 +6965,7 @@
     },
     {
         "input": "BITMAIN Antminer S21+ 216T BTC Miner 235T USA 10Days (with PSU)",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Bitmain Antminer S19 95th / used",
@@ -6977,15 +6977,15 @@
     },
     {
         "input": "Iceriver AL2 Lite ALPH Alephium Miner May 2025",
-        "output": "Iceriver AL2 Lite - 2Th/s"
+        "output": "Iceriver AL2 Lite"
     },
     {
         "input": "Iceriver ALEO AE0 Aleo Miner March Batch",
-        "output": "IceRiver ALEO AE0 - 50Mh/s"
+        "output": "IceRiver ALEO AE0"
     },
     {
         "input": "Iceriver ALEO AE0 Aleo Miner April Batch",
-        "output": "IceRiver ALEO AE0 - 50Mh/s"
+        "output": "IceRiver ALEO AE0"
     },
     {
         "input": "Bitmain Antminer S21 Pro 234T 3531W Bitcoin Miner BTC BCH Mining Bitmain Antminer S21 Pro 234T 3531W Bitcoin Miner BTC BCH Mining",
@@ -6993,15 +6993,15 @@
     },
     {
         "input": "Volcminer D1 18 GHFebruary",
-        "output": "Dayun Zig D1 - 48Gh/s"
+        "output": "Volc Miner D1 - 18Gh/s"
     },
     {
         "input": "Goldshell Mini Doge III+ Goldshell Mini Doge III+",
-        "output": "Goldshell Mini Doge III - 500Mh/s"
+        "output": "Goldshell Mini Doge III+"
     },
     {
         "input": "Volcminer D1 18 GHApril",
-        "output": "Dayun Zig D1 - 48Gh/s"
+        "output": "Volc Miner D1 - 18Gh/s"
     },
     {
         "input": "Volcminer D1 15.15 GHReady Stock",
@@ -7021,11 +7021,11 @@
     },
     {
         "input": "Antminer S21 Hydro (319-395 th/s) Antminer S21 Hydro (358 th/s)",
-        "output": "Bitmain Antminer S21 Hyd - 302Th/s"
+        "output": "Bitmain Antminer S21 Hyd - 358Th/s"
     },
     {
         "input": "Antminer S21 Hydro (319-395 th/s) Antminer S21 Hydro (358 th/s) + Hydro kit (ships out in 7-10 days)",
-        "output": "Bitmain Antminer S21 Hyd - 302Th/s"
+        "output": "Bitmain Antminer S21 Hyd - 358Th/s"
     },
     {
         "input": "BITMAIN Antminer S21 Pro 234T BTC Miner 234T USA 10Days (with PSU)",
@@ -7049,7 +7049,7 @@
     },
     {
         "input": "BITMAIN Antminer S21 Pro 234T BTC Miner 245T Spot (with PSU)",
-        "output": "Bitmain Antminer S21 Pro - 245Th/s"
+        "output": "Bitmain Antminer S21 Pro - 234Th/s"
     },
     {
         "input": "BITMAIN Antminer S21 Pro 234T BTC Miner 245T (Thailand Moq 50pcs)",
@@ -7057,7 +7057,7 @@
     },
     {
         "input": "Bitmain Antminer S21+ Hyd Bitcoin Miner 319TH/s | BT-MINERS / 319T / In Stock /",
-        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
     },
     {
         "input": "Bitmain Antminer S21 Pro Bitcoin Miner 234T / 245T Spot. (with PSU)",
@@ -7069,27 +7069,27 @@
     },
     {
         "input": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30.4Gh/s | BT-MINERS 170-300V / 30G / Mar Batch /",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hyd - 30Gh/s"
     },
     {
         "input": "VolcMiner D1 Hydro Litecoin & Dogecoin Miner 30.4Gh/s | BT-MINERS 170-300V / 30G / July Batch /",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hyd - 30Gh/s"
     },
     {
         "input": "VOLCMINER D1  15.15Gh/s 16Gh/s 3900W Litecoin Dogecoin Bells Miner 16g-in-stock",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 16Gh/s"
     },
     {
         "input": "VOLCMINER D1  15.15Gh/s 16Gh/s 3900W Litecoin Dogecoin Bells Miner 18-5g-feb-batch",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 18.5Gh/s"
     },
     {
         "input": "VOLCMINER D1  15.15Gh/s 16Gh/s 3900W Litecoin Dogecoin Bells Miner 18-5g-april-batch",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 18.5Gh/s"
     },
     {
         "input": "IceRiver AE0 ALEO Miner 50Mh/s | BT-MINERS / 50Mh/s / April Batch /",
-        "output": "Iceriver AE0 - 50Mh/s"
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
     },
     {
         "input": "BITMAIN Antminer S21 XP 270T BTC Miner 270T USA 10Days (with PSU)",
@@ -7105,7 +7105,7 @@
     },
     {
         "input": "Antminer S19K Pro 115 to 120 TH/s 115 TH",
-        "output": "Bitmain Antminer S19k Pro - 120Th/s"
+        "output": "Bitmain Antminer S19k Pro - 115Th/s"
     },
     {
         "input": "BITMAIN Antminer T21 190T BTC Miner 190T Malaysia Moq 200pcs",
@@ -7113,15 +7113,15 @@
     },
     {
         "input": "Volcminer D1 Lite April",
-        "output": "Volc Miner D1 Lite - 14Gh/s"
+        "output": "Volc Miner D1 Lite"
     },
     {
         "input": "Volcminer D1 Lite February",
-        "output": "Volc Miner D1 Lite - 14Gh/s"
+        "output": "Volc Miner D1 Lite"
     },
     {
         "input": "VolcMiner Mini February",
-        "output": "iBeLink K3 mini - 5Th/s"
+        "output": "Volc Miner D1 Mini"
     },
     {
         "input": "Bitmain Antminer KS5 20Th 3000W Kaspa KAS Miner Delivery | Hosting Free Shipping 20Th 3000W | Hosted in USA | $0.071-$0.08/kWh",
@@ -7133,7 +7133,7 @@
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 216Th 3564W | Hosted in USA | $0.071-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer L9 LTC Litecoin LTC Dogecoin DOGE Miner Delivery | Hosting Free Shipping 16Gh | Hosted in USA | $0.071-$0.08/kWh",
@@ -7141,15 +7141,15 @@
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 225Th 3712.5W | Hosted in USA | $0.071-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "Bitmain Antminer L9 LTC Litecoin LTC Dogecoin DOGE Miner Delivery | Hosting Free Shipping 16.5Gh | Hosted in USA | $0.071-$0.08/kWh",
-        "output": "Bitmain Antminer L9 - 16Gh/s"
+        "output": "Bitmain Antminer L9 - 16.5Gh/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 235Th 3877.5W | Hosted in USA | $0.071-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Bitmain Antminer L9 LTC Litecoin LTC Dogecoin DOGE Miner Delivery | Hosting Free Shipping 17Gh | Hosted in USA | $0.071-$0.08/kWh",
@@ -7165,19 +7165,19 @@
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 16Gh 3664W | Hosted in USA | $0.071-$0.08/kWh | Deployment Time: Feb.-Mar. Batch",
-        "output": "Volc Miner D1 - 17Gh/s"
+        "output": "Volc Miner D1 Lite - 16Gh/s"
     },
     {
         "input": "ElphaPex DG1 Plus 14.4Gh 3950W Litecoin LTC Dogecoin DOGE Miner Hosting  | Delivery Free Shipping 14Gh | Hosted in USA | $0.071-$0.08/kWh",
-        "output": "Elphapex DG1+ - 13Gh/s"
+        "output": "Elphapex DG1 - 14Gh/s"
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 18.5Gh 4236.5W | Hosted in USA | $0.071-$0.08/kWh | Deployment Time: Feb.-Mar. Batch",
-        "output": "Volc Miner D1 - 15.15Gh/s"
+        "output": "Volc Miner D1 Lite - 18.5Gh/s"
     },
     {
         "input": "ElphaPex DG1 Plus 14.4Gh 3950W Litecoin LTC Dogecoin DOGE Miner Hosting  | Delivery Free Shipping 14.4Gh | Hosted in USA | $0.071-$0.08/kWh",
-        "output": "Elphapex DG1+ - 14.4Gh/s"
+        "output": "Elphapex DG1 - 14.4Gh/s"
     },
     {
         "input": "Goldshell AE Box | AE Box Pro Aleo ALEO Miner Free Shipping 37Mh 360W | Apr. Batch",
@@ -7189,7 +7189,7 @@
     },
     {
         "input": "Goldshell AE Box | AE Box Pro Aleo ALEO Miner Free Shipping 44Mh 460W | Mar. Batch",
-        "output": "Goldshell AE BOX - 37Mh/s"
+        "output": "Goldshell AE BOX - 44Mh/s"
     },
     {
         "input": "Bitmain Antminer KA3 Kadena KDA Miner Delivery | Hosting Free Shipping 166Th 3154W | Hosted in USA | $0.071-$0.08/kWh",
@@ -7229,7 +7229,7 @@
     },
     {
         "input": "ElphaPex DG Home 1 Mining Bundle April",
-        "output": "Elphapex DG Home 1 - 2.1Gh/s"
+        "output": "Elphapex DG Home 1"
     },
     {
         "input": "Bitmain Antminer KS5 20Th 3000W Kaspa KAS Miner Delivery | Hosting Free Shipping 20Th 3000W | Hosted in USA | $0.06-$0.08/kWh",
@@ -7241,7 +7241,7 @@
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 216Th 3564W | Hosted in USA | $0.06-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer T21 190Th 3610W Bitcoin BTC Bitcoin Cash BCH Miner Hosting  | Delivery Free Shipping 190Th 3610W | Hosted in USA | $0.06-$0.08/kWh",
@@ -7253,7 +7253,7 @@
     },
     {
         "input": "Bitmain Antminer S21+ Hydro Bitcoin BTC Bitcoin Cash BCH Miner Free Shipping 358Th 5370W | Mar. Batch",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 358Th/s"
     },
     {
         "input": "Bitmain Antminer L9 LTC Litecoin LTC Dogecoin DOGE Miner Delivery | Hosting Free Shipping 16Gh | Hosted in USA | $0.06-$0.08/kWh",
@@ -7261,31 +7261,31 @@
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 225Th 3712.5W | Hosted in USA | $0.06-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 16Gh 3664W | Hosted in USA | $0.076-$0.08/kWh | Deployment Time: Feb.-Mar. Batch",
-        "output": "Volc Miner D1 - 17Gh/s"
+        "output": "Volc Miner D1 Lite - 16Gh/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 235Th 3877.5W | Hosted in USA | $0.06-$0.08/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Bitmain Antminer L9 LTC Litecoin LTC Dogecoin DOGE Miner Delivery | Hosting Free Shipping 16.5Gh | Hosted in USA | $0.06-$0.08/kWh",
-        "output": "Bitmain Antminer L9 - 16Gh/s"
+        "output": "Bitmain Antminer L9 - 16.5Gh/s"
     },
     {
         "input": "ElphaPex DG1 Plus 14.4Gh 3950W Litecoin LTC Dogecoin DOGE Miner Hosting  | Delivery Free Shipping 14Gh | Hosted in USA | $0.06-$0.08/kWh",
-        "output": "Elphapex DG1+ - 13Gh/s"
+        "output": "Elphapex DG1 - 14Gh/s"
     },
     {
         "input": "Bitmain Antminer S21+ Hydro Bitcoin BTC Bitcoin Cash BCH Miner Free Shipping 395Th 5925W | Mar. Batch",
-        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 395Th/s"
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 18.5Gh 4236.5W | Hosted in USA | $0.076-$0.08/kWh | Deployment Time: Feb.-Mar. Batch",
-        "output": "Volc Miner D1 - 15.15Gh/s"
+        "output": "Volc Miner D1 Lite - 18.5Gh/s"
     },
     {
         "input": "Bitmain Antminer L9 LTC Litecoin LTC Dogecoin DOGE Miner Delivery | Hosting Free Shipping 17Gh | Hosted in USA | $0.06-$0.08/kWh",
@@ -7293,7 +7293,7 @@
     },
     {
         "input": "ElphaPex DG1 Plus 14.4Gh 3950W Litecoin LTC Dogecoin DOGE Miner Hosting  | Delivery Free Shipping 14.4Gh | Hosted in USA | $0.06-$0.08/kWh",
-        "output": "Elphapex DG1+ - 14.4Gh/s"
+        "output": "Elphapex DG1 - 14.4Gh/s"
     },
     {
         "input": "ICERIVER AL3 15Th 3500W Alephium ALPH Miner with PSU Delivery | Hosting Free Shipping 15Th 3500W | Hosted in USA | $0.06-$0.08/kWh",
@@ -7317,11 +7317,11 @@
     },
     {
         "input": "Bitmain Antminer S21+ Hydro 319T 4785W Bitcoin Miner Hydro Cooling 358t",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 358Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ Hydro 319T 4785W Bitcoin Miner Hydro Cooling 395t",
-        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 395Th/s"
     },
     {
         "input": "Bitmain Antminer S21 XP Imm Bitcoin Miner 300TH/S | BT-MINERS 380~415V / 300T / Late March Batch /",
@@ -7353,7 +7353,7 @@
     },
     {
         "input": "FLUMINER-L1 Litecoin & Dogecoin Miner 5.3GH/s | BT-MINERS / 5.3G / Late March Batch /",
-        "output": "Dragonball Miner A21 - 3.4Gh/s"
+        "output": "FluMiner Fluminer L1 - 5.3Gh/s"
     },
     {
         "input": "Bitmain Antminer E9 2.4Gh/s | BT-MINERS /  / Batch /",
@@ -7361,15 +7361,15 @@
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 16Gh 3664W | Delivery | In Stock",
-        "output": "Volc Miner D1 - 17Gh/s"
+        "output": "Volc Miner D1 Lite - 16Gh/s"
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 16Gh 3664W | Hosted in USA | $0.06-$0.08/kWh",
-        "output": "Volc Miner D1 - 17Gh/s"
+        "output": "Volc Miner D1 Lite - 16Gh/s"
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 18.5Gh 4236.5W | Hosted in USA | $0.06-$0.08/kWh | Deployment Time: Feb.-Mar. Batch",
-        "output": "Volc Miner D1 - 15.15Gh/s"
+        "output": "Volc Miner D1 Lite - 18.5Gh/s"
     },
     {
         "input": "ICERIVER ALEO AE0 (50 mh/s) ICERIVER ALEO AE0 PSU included (50 mh/s)",
@@ -7377,15 +7377,15 @@
     },
     {
         "input": "BITMAIN Antminer S21+ 216 / 225 / 235T 3564W BTC Miner s21-216t-%ef%bc%88spot%ef%bc%89",
-        "output": "Bitmain Antminer S21 Pro - 245Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ 216 / 225 / 235T 3564W BTC Miner s21-225t",
-        "output": "Bitmain Antminer S21 Plus - 225Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ 216 / 225 / 235T 3564W BTC Miner s21-235t",
-        "output": "Bitmain Antminer S21 Pro - 245Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "BITMAIN Antminer L9 15G / 16G / 17G LTC DOGE Miner l9-16g-mix%ef%bc%88apr-pre-order%ef%bc%89",
@@ -7397,31 +7397,31 @@
     },
     {
         "input": "Goldshell MINI DOGE Ⅲ Plus 810Mh 500W | 620Mh 300W Litecoin LTC Dogecoin DOGE Miner Free Shipping 810Mh 500W | In Stock",
-        "output": "Goldshell Mini Doge - 185Mh/s"
+        "output": "Goldshell Mini Doge Ⅲ Plus - 810Mh/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 216Th 3564W | In Stock",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 225Th 3712.5W | In Stock",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 235Th 3877.5W | In Stock",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ Hydro Bitcoin BTC Bitcoin Cash BCH Miner Free Shipping 358Th 5370W | In Stock",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 358Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ Hydro Bitcoin BTC Bitcoin Cash BCH Miner Free Shipping 395Th 5925W | In Stock",
-        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 395Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ Hydro Bitcoin BTC Bitcoin Cash BCH Miner Free Shipping 319Th 4785W | In Stock",
-        "output": "Bitmain Antminer S21 Hyd - 319Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 319Th/s"
     },
     {
         "input": "Bitmain Antminer S21  Pro 234Th 3510W Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 220Th 3300W | In Stock",
@@ -7429,7 +7429,7 @@
     },
     {
         "input": "VolcMiner D1 Hydro 30.4Gh 7600W Litecoin Dogecoin Miner aug-order",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hydro - 30.4Gh/s"
     },
     {
         "input": "Canaan Avalon A1246 Bitcoin Miner (85-93Th/s) - USA STOCK Canaan Avalon A1246 Bitcoin Miner (85-93Th/s) - USA STOCK",
@@ -7461,19 +7461,19 @@
     },
     {
         "input": "VolcMiner D1 Mini Pre 2.2Gh/s 500W Litecoin Dogecoin Bells Miner d1-mini-pre-2-2gh-this-week",
-        "output": "Baikal Quadruple Mini Miner - 600Mh/s"
+        "output": "Volc Miner D1 Mini - 2.2Gh/s"
     },
     {
         "input": "VolcMiner D1 Hydro 30Gh 7600W Scrypt algorithm DOGE and LTC August Batch 30G",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hyd - 30Gh/s"
     },
     {
         "input": "VolcMiner D1 Hydro 30Gh 7600W Scrypt algorithm DOGE and LTC April batch 30G",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hyd - 30Gh/s"
     },
     {
         "input": "VolcMiner D1 Hydro 30Gh 7600W Scrypt algorithm DOGE and LTC July batch 30G",
-        "output": "Volc Miner D1 Hyd - 30.4Gh/s"
+        "output": "Volc Miner D1 Hyd - 30Gh/s"
     },
     {
         "input": "Goldshell AE-BOX  37M/H 360W/H zkSNARK algorithm ALEO miner April Batch",
@@ -7489,7 +7489,7 @@
     },
     {
         "input": "VOLCMINER D1  15.15Gh/s 16Gh/s 3900W Litecoin Dogecoin Bells Miner 16-2g-in-stock",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 16.2Gh/s"
     },
     {
         "input": "Goldshell AE BOX ALEO Miner 37Mh/s | BT-MINERS / 37Mh/s / May Batch /",
@@ -7497,23 +7497,23 @@
     },
     {
         "input": "IceRiver AE0 ALEO Miner 50Mh/s | BT-MINERS / 50Mh/s / May Batch /",
-        "output": "Iceriver AE0 - 50Mh/s"
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
     },
     {
         "input": "IceRiver AE0 ALEO Miner 50Mh/s | BT-MINERS / 50Mh/s / Late March Batch /",
-        "output": "Iceriver AE0 - 50Mh/s"
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 16.2Gh 3709.8W | Delivery | In Stock",
-        "output": "Volc Miner D1 - 15.15Gh/s"
+        "output": "Volc Miner D1 Lite - 16.2Gh/s"
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 16.2Gh 3709.8W | Hosted in USA | $0.06-$0.08/kWh",
-        "output": "Volc Miner D1 - 15.15Gh/s"
+        "output": "Volc Miner D1 Lite - 16.2Gh/s"
     },
     {
         "input": "VolcMiner D1 Litecoin & Dogecoin Miner | BT-MINERS / 15.15Gh / Late April Batch /",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
     },
     {
         "input": "BITMAIN Antminer S19 Pro Hyd 170/177/184T 184T 4Days (with PSU)",
@@ -7525,15 +7525,15 @@
     },
     {
         "input": "BITMAIN Antminer S21+ 216T BTC Miner 235T USA Spot (with PSU)",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "BITMAIN Antminer S21+ 216T BTC Miner 216T Mix Mar (with PSU)",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Iceriver ALEO AE0 Aleo Miner May Batch",
-        "output": "IceRiver ALEO AE0 - 50Mh/s"
+        "output": "IceRiver ALEO AE0"
     },
     {
         "input": "BITMAIN Antminer S21 Pro 234T BTC Miner 234T USA 5Days (with PSU)",
@@ -7553,7 +7553,7 @@
     },
     {
         "input": "Cooldragon VolcMiner D1 Hydro 30.4G 7600W Scrypt LTC DOGE Miner 30-4g-aug-batch",
-        "output": "Dragonball Miner A21 - 3.4Gh/s"
+        "output": "Volc Miner D1 Hyd - 30Gh/s"
     },
     {
         "input": "Canaan Avalon A15 194T 3647W Bitcoin Miner april-batch",
@@ -7565,23 +7565,23 @@
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 216Th 3564W | Hosted by BitCap | $0.071/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 225Th 3712.5W | Hosted by BitCap | $0.071/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 225Th/s"
     },
     {
         "input": "Bitmain Antminer S21+ 216Th 225Th 235Th Bitcoin BTC Bitcoin Cash BCH Miner Delivery | Hosting Free Shipping 235Th 3877.5W | Hosted by BitCap | $0.071/kWh",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 18.5Gh 4236.5W | Delivery | Mar. Btach",
-        "output": "Volc Miner D1 - 15.15Gh/s"
+        "output": "Volc Miner D1 Lite - 18.5Gh/s"
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 18.5Gh 4236.5W | Hosted in USA | $0.06-$0.08/kWh | Deployment Time: Mar.-Apr.",
-        "output": "Volc Miner D1 - 15.15Gh/s"
+        "output": "Volc Miner D1 Lite - 18.5Gh/s"
     },
     {
         "input": "Goldshell AE Box | AE Box Pro Aleo ALEO Miner Free Shipping AE Box 37Mh 360W | In Stock",
@@ -7589,11 +7589,11 @@
     },
     {
         "input": "Goldshell AE Box | AE Box Pro Aleo ALEO Miner Free Shipping AE Box Pro 44Mh 460W | In Stock",
-        "output": "Goldshell AE BOX - 37Mh/s"
+        "output": "Goldshell AE BOX - 44Mh/s"
     },
     {
         "input": "Goldshell AE Box | AE Box Pro Aleo ALEO Miner Free Shipping AE Box Pro 44Mh 460W | Mar. Batch",
-        "output": "Goldshell AE BOX - 37Mh/s"
+        "output": "Goldshell AE BOX - 44Mh/s"
     },
     {
         "input": "Goldshell AE Box | AE Box Pro Aleo ALEO Miner Free Shipping AE Box 37Mh 360W | Apr. Batch",
@@ -7601,19 +7601,19 @@
     },
     {
         "input": "VolcMiner D1 Litecoin & Dogecoin Miner | BT-MINERS / 18.5G / In Stock /",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 18.5Gh/s"
     },
     {
         "input": "VolcMiner D1 Litecoin & Dogecoin Miner | BT-MINERS / 16.2G / In Stock /",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 16.2Gh/s"
     },
     {
         "input": "VolcMiner D1 Litecoin & Dogecoin Miner | BT-MINERS / 15.15G / In Stock /",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 15.15Gh/s"
     },
     {
         "input": "VolcMiner D1 Litecoin & Dogecoin Miner | BT-MINERS / 18.5G / Mar Batch /",
-        "output": "Volc Miner D1 Mini - 2.2Gh/s"
+        "output": "Volc Miner D1 Lite - 18.5Gh/s"
     },
     {
         "input": "BITMAIN Antminer S19 Pro Hyd 170/177/184T 184T Spot (with PSU)",
@@ -7657,7 +7657,7 @@
     },
     {
         "input": "Bitmain Antminer S21+ Hyd Bitcoin Miner 319TH/s | BT-MINERS / 358T / In Stock /",
-        "output": "Bitmain Antminer S21 Hyd - 335Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 358Th/s"
     },
     {
         "input": "Fluminer L1 5.3G 1200W DOGE / LTC / BEL Coin Home Miner Fluminer L1 (Spot)",
@@ -7665,19 +7665,19 @@
     },
     {
         "input": "Bitmain Antminer S21+ Hyd Bitcoin Miner 319TH/s | BT-MINERS / 395T / In Stock /",
-        "output": "Bitmain Antminer S21 XP Hyd - 473Th/s"
+        "output": "Bitmain Antminer S21+ Hyd - 395Th/s"
     },
     {
         "input": "BITMAIN Antminer S19J XP 151T 130T Spot (with PSU)",
-        "output": "Bitmain Antminer S19 XP - 140Th/s"
+        "output": "Bitmain Antminer S19 XP - 130Th/s"
     },
     {
         "input": "BITMAIN Antminer S19J XP 151T 136T Spot (with PSU)",
-        "output": "Bitmain Antminer S19 XP - 134Th/s"
+        "output": "Bitmain Antminer S19 XP - 136Th/s"
     },
     {
         "input": "Volcminer D1 Litecoin LTC Dogecoin DOGE Miner Free Shipping 16.2Gh 3709.8W | Delivery | Mar. Batch",
-        "output": "Volc Miner D1 - 15.15Gh/s"
+        "output": "Volc Miner D1 Lite - 16.2Gh/s"
     },
     {
         "input": "ElphaPex DG Home 1 2100Mh 630W Litecoin LTC Dogecoin DOGE Miner Free Shipping 2100Mh 630W | May Batch",
@@ -7693,11 +7693,11 @@
     },
     {
         "input": "ICERIVER AE0 50Mh 100W Aleo ALEO Miner with PSU Free Shipping 50Mh 100W | Apr. 15th-30th Batch",
-        "output": "Iceriver AE0 - 50Mh/s"
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
     },
     {
         "input": "Goldshell AE Box | AE Box Pro Aleo ALEO Miner Free Shipping AE Box Pro 44Mh 460W | Apr. Batch",
-        "output": "Goldshell AE BOX - 37Mh/s"
+        "output": "Goldshell AE BOX - 44Mh/s"
     },
     {
         "input": "IceRiver ALEO AE0 50MH/s 100W Aleo Miner AE0（4.15-4.30 Pre-order）",
@@ -7709,7 +7709,7 @@
     },
     {
         "input": "BITMAIN Antminer S21+ 216T BTC Miner 235T USA 3Days (with PSU)",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 235Th/s"
     },
     {
         "input": "New Antminer l7 9500mh/s Best Price, Bitmain Antminer l7 For Sale Mine LTC Mining Dogecoin Litecoin New Antminer l7 9500mh/s Best Price, Bitmain Antminer l7 For Sale Mine LTC Mining Dogecoin Litecoin",
@@ -7725,11 +7725,11 @@
     },
     {
         "input": "Antminer K7 (66 th/s) Antminer K7 (66 th/s)",
-        "output": "Bitmain Antminer K7 - 60.5Th/s"
+        "output": "Bitmain Antminer K7 - 66Th/s"
     },
     {
         "input": "Antminer K7 (66 th/s) Antminer K7 (58 th/s)",
-        "output": "Bitmain Antminer K7 - 60.5Th/s"
+        "output": "Bitmain Antminer K7 - 58Th/s"
     },
     {
         "input": "Cooldragon IceRiver ALEO AE0 50Mh/s 100W zkSNARK ALEO Miner aleo-ae0-apr-batchwith-power-supply",
@@ -7737,7 +7737,7 @@
     },
     {
         "input": "BITMAIN Antminer S21+ 216T BTC Miner / 216T mix Mar（with PSU）",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "BITMAIN Antminer S21 XP 270T BTC Miner 270T USA 3Days (with PSU)",
@@ -7757,7 +7757,7 @@
     },
     {
         "input": "Bitmain Antminer S21+ Bitcoin Miner 216TH/S | BT-MINERS / 216T / In Stock /",
-        "output": "Bitmain Antminer S21 - 200Th/s"
+        "output": "Bitmain Antminer S21+ - 216Th/s"
     },
     {
         "input": "IceRiver ALEO AE0 ALEO Miner 50Mh/s 100W May Batch",
@@ -7765,11 +7765,11 @@
     },
     {
         "input": "IceRiver AE0 ALEO Miner 50Mh/s | BT-MINERS /  / April Batch /",
-        "output": "Iceriver AE0 - 50Mh/s"
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
     },
     {
         "input": "IceRiver AE0 ALEO Miner 50Mh/s | BT-MINERS /  / Late March Batch /",
-        "output": "Iceriver AE0 - 50Mh/s"
+        "output": "IceRiver ALEO AE0 - 50Mh/s"
     },
     {
         "input": "MicroBT Whatsminer M60 176th / new",
@@ -7801,7 +7801,7 @@
     },
     {
         "input": "Cooldragon VolcMiner D1 17G 3900W Batch Scrypt LTC DOGE Miner d1-18-5g-stock",
-        "output": "Dragonball Miner A21 - 3.4Gh/s"
+        "output": "Volc Miner D1 - 18.5Gh/s"
     },
     {
         "input": "IceRiver ALEO AE0 ALEO Miner 50Mh/s 100W 4.15-4.30 Futures",

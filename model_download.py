@@ -1,10 +1,14 @@
-from transformers import DistilBertTokenizer, DistilBertModel
+from transformers import BartTokenizer, BartForConditionalGeneration
 
-# 加载 DistilBERT 的 tokenizer
-tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased', cache_dir='./dataset/model/distilbert-base-uncased')
+# 指定模型的名称
+model_name = 'facebook/bart-large'
+dir = './dataset/model/bart-large'  
 
-# 加载 DistilBERT 模型
-model = DistilBertModel.from_pretrained('distilbert-base-uncased', cache_dir='./dataset/model/distilbert-base-uncased')
+# 加载 BART 的 tokenizer
+tokenizer = BartTokenizer.from_pretrained(model_name, cache_dir=dir)
+
+# 加载 BART 模型
+model = BartForConditionalGeneration.from_pretrained(model_name, cache_dir=dir)
 
 # 查看模型和 tokenizer
 print(model)

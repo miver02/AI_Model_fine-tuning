@@ -1,133 +1,131 @@
-# AI_Model_fine-tuning
+# 文本摘要生成项目
 
-基于 DistilBERT 的文本相似度匹配模型，用于在预定义的答案集中找到最匹配的结果。
+这是一个基于 BART 模型的文本摘要生成项目，使用 PyTorch 和 Transformers 库实现。该项目包含模型训练和测试两个主要部分。
 
 ## 项目结构
 
-```
-AI_Model_fine-tuning/
+.
 ├── dataset/
-│   ├── train_data/
-│   │   ├── train.json      # 训练数据
-│   │   └── model_info.json # 预定义答案集
-│   ├── model/              # 预训练模型缓存目录
-│   └── save_model/         # 训练后的模型保存目录
-├── results/                # 训练过程中的检查点
-├── logs/                   # 训练日志
-├── train.py               # 模型训练脚本
-└── predict.py             # 模型预测脚本
+│ ├── train_data/
+│ │ └── train.json
+│ └── save_model/
+│ └── model/
+├── train.py
+├── main.py
+└── README.md
+
+
+## 环境要求
+
+- Python 3.6+
+- PyTorch
+- Transformers
+- NLTK
+- JSON
+
+安装依赖：
+```bash
+pip install torch transformers nltk
 ```
-
-## 功能说明
-
-- 基于 DistilBERT 预训练模型
-- 使用文本相似度匹配方法
-- 在预定义的答案集（model_info）中找到最匹配的结果
-- 支持模型训练和预测功能
 
 ## 数据格式
 
-### train.json
+训练和测试数据应为 JSON 格式，结构如下：
 ```json
 [
     {
-        "input": "输入文本",
-        "output": "期望输出"
-    }
-]
-```
-
-### model_info.json
-```json
-[
-    "可能的输出值1",
-    "可能的输出值2",
+        "input": "原文内容",
+        "output": "摘要内容"
+    },
     ...
 ]
 ```
 
-## 使用方法
+## 使用说明
 
-### 1. 环境配置
-```bash
-# 安装依赖
-pip install transformers torch scikit-learn
+### 1. 训练模型
 
-# 如果需要上传到 GitHub，安装 Git LFS
-# Windows
-curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
-git lfs install
+运行 `train.py` 来训练模型：
 
-# Linux
-sudo apt-get install git-lfs
-git lfs install
-```
-
-### 2. Git LFS 配置
-由于模型文件较大，需要使用 Git LFS 进行版本控制：
-
-```bash
-# 在项目根目录创建 .gitattributes 文件
-git lfs track "dataset/model/**/*"
-git lfs track "dataset/save_model/**/*"
-git add .gitattributes
-```
-
-### 3. 训练模型
 ```bash
 python train.py
 ```
 
-### 4. 预测
+训练过程包括：
+- 加载 BART 预训练模型和分词器
+- 处理训练数据
+- 训练模型（默认 5 个 epochs）
+- 保存模型到指定路径
+
+主要参数：
+- `max_len`：输入文本最大长度（默认 512）
+- `summary_len`：摘要最大长度（默认 128）
+- `batch_size`：批次大小（默认 4）
+- `learning_rate`：学习率（默认 2e-5）
+
+### 2. 测试模型
+
+运行 `main.py` 来测试模型：
+
 ```bash
-python predict.py
+python main.py
 ```
 
-## .gitignore 建议
+测试过程包括：
+- 加载训练好的模型
+- 处理测试数据
+- 生成摘要
+- 计算 BLEU 分数
+- 输出评估结果
 
-建议创建 .gitignore 文件，内容如下：
-```
-# 缓存文件
-__pycache__/
-*.py[cod]
+测试输出包含：
+- 原文内容
+- 生成的摘要
+- 参考摘要
+- BLEU 分数
+- 总体评估结果
 
-# 日志和结果
-logs/
-results/
+## 主要功能
 
-# 如果不使用 Git LFS，也要忽略模型文件
-# dataset/model/
-# dataset/save_model/
-```
+### train.py
+- `SummaryDataset` 类：处理训练数据
+- `train_model` 函数：执行模型训练
+- 支持日志记录
+- 自动保存模型和分词器
 
-## 训练参数
-
-- 训练轮数：3 轮
-- 批次大小：16
-- 模型：distilbert-base-uncased
-- 验证集比例：20%
-
-## 模型说明
-
-模型使用 DistilBERT 提取文本特征，通过计算相似度找到最匹配的预定义答案。主要特点：
-- 轻量级 BERT 变体，运行更快
-- 支持文本相似度匹配
-- 可以处理不在训练集中的新输入
+### main.py
+- `load_test_data` 函数：加载测试数据
+- `evaluate_model` 函数：评估模型性能
+- 支持 GPU 加速（如果可用）
+- 详细的评估输出
 
 ## 注意事项
 
-1. 确保 dataset 目录结构正确
-2. 训练数据需符合指定格式
-3. 预测结果将从 model_info 中选择最相似的答案
-4. 模型文件较大，请使用 Git LFS 进行版本控制
-5. 首次运行会下载预训练模型，需要稳定的网络连接
+1. 确保数据集格式正确
+2. 检查模型保存路径是否正确
+3. 根据实际需求调整模型参数
+4. GPU 内存不足时可调整 batch size
+5. 可以通过修改 `test_limit` 参数控制测试样本数量
 
-## 性能优化建议
+## 性能评估
 
-- 增加训练轮数以提高准确率
-- 调整批次大小以适应内存
-- 增加训练数据量以提升模型表现
+使用 BLEU 分数评估模型性能，输出包括：
+- 每个样本的单独评分
+- 整体平均分数
+- 测试样本总数
 
-## 维护者
+## 可能的改进方向
 
-[Miver]
+1. 添加更多评估指标（如 ROUGE）
+2. 实现交叉验证
+3. 支持更多模型选项
+4. 添加早停机制
+5. 支持配置文件
+
+## 许可证
+
+[添加许可证信息]
+
+## 联系方式
+
+[qq:201900465]

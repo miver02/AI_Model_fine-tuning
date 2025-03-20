@@ -51,9 +51,9 @@ class SummaryDataset(Dataset):
             'labels': labels.flatten()
         }
 
-def train_model(train_data_path, save_path, epochs=5):
-    tokenizer = BartTokenizer.from_pretrained('facebook/bart-large')
-    model = BartForConditionalGeneration.from_pretrained('facebook/bart-large')
+def train_model(train_data_path, init_model_path, save_path, epochs=5):
+    tokenizer = BartTokenizer.from_pretrained(init_model_path)
+    model = BartForConditionalGeneration.from_pretrained(init_model_path)
     dataset = SummaryDataset(tokenizer, train_data_path)
     train_loader = DataLoader(dataset, batch_size=4, shuffle=True)
     optimizer = AdamW(model.parameters(), lr=2e-5)
@@ -83,6 +83,8 @@ def train_model(train_data_path, save_path, epochs=5):
 def main():
     train_model(
         train_data_path='./dataset/train_data/train.json',
+        # init_model_path='./dataset/model/bart-large',
+        init_model_path='./dataset/save_model/bart_summary_model',
         save_path='./dataset/save_model'
     )
 

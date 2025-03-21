@@ -10,7 +10,7 @@ model_path = './dataset/save_model/bart_summary_model'
 tokenizer = BartTokenizer.from_pretrained(model_path)
 model = BartForConditionalGeneration.from_pretrained(model_path)
 
-def load_test_data(test_data_path, tokenizer, max_len=512, test_limit=100):
+def load_test_data(test_data_path, tokenizer, max_len=512, test_limit=1000):
     with open(test_data_path, 'r', encoding='utf-8') as f:
         test_data = json.load(f)
     test_encodings = [tokenizer(article['input'], return_tensors="pt", max_length=max_len, truncation=True, padding="max_length") for article in test_data[:test_limit]]
@@ -39,7 +39,7 @@ def evaluate_model(model, tokenizer, test_data, test_encodings, device):
         print(f"样本 {i+1}:")
         print(f"原文: {article['input']}")
         print(f"摘要: {generated_summary}")
-        print(f"参考摘要: {reference}")
+        print(f"参考: {reference}")
         print(f"BLEU分数: {score:.4f}")
         print("\n" + "-"*80 + "\n")  # 分隔线
     

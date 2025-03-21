@@ -84,7 +84,7 @@ def main():
     train_model(
         train_data_path='./dataset/train_data/train.json',
         # init_model_path='./dataset/model/bart-large',
-        init_model_path='./dataset/save_model/bart_summary_model',
+        init_model_path='./dataset/save_model/bart_summary_model_v1',
         save_path='./dataset/save_model'
     )
 

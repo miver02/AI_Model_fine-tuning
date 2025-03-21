@@ -3517,7 +3517,7 @@
     },
     {
         "input": "Goldshell LB-BOX LBRY Home Miner (175 GH/s) Goldshell LB-BOX LBRY Home Miner (175 GH/s)",
-        "output": "Goldshell LB1 - 87Gh/s"
+        "output": "Goldshell LB BOX - 175Gh/s"
     },
     {
         "input": "Antminer Z15 Pro 840 kSOL/s 840 KH",
@@ -3526,6 +3526,18 @@
     {
         "input": "Goldshell KA Box Pro Kaspa Miner 1.6TH/s | BT-MINERS  / 1.6T / Instock / Excluding",
         "output": "Goldshell KA Box Pro - 1.6Th/s"
+    },
+    {
+        "input": "ICERIVER AL0 Alephium Miner (400 GH/s) ICERIVER AL0 Alephium Miner (400 GH/s)",
+        "output": "Iceriver AL0 - 400Gh/s"
+    },
+    {
+        "input": "ICERIVER AL0 Alephium Miner (400 GH/s) ICERIVER AL0 Alephium Miner (400 GH/s)",
+        "output": "Iceriver AL0 - 400Gh/s"
+    },
+    {
+        "input": "ICERIVER AL0 Alephium Miner (400 GH/s) ICERIVER AL0 Alephium Miner (400 GH/s)",
+        "output": "Iceriver AL0 - 400Gh/s"
     },
     {
         "input": "ICERIVER AL0 Alephium Miner (400 GH/s) ICERIVER AL0 Alephium Miner (400 GH/s)",
@@ -3553,7 +3565,7 @@
     },
     {
         "input": "MicroBT Whatsminer M56S++ Immersion Bitcoin Miner  (254-262 Th/s) MicroBT Whatsminer M56S++ Immersion Bitcoin Miner  (254-262 Th/s)",
-        "output": "MicroBT WhatsMiner M56S+ - 212Th/s"
+        "output": "MicroBT WhatsMiner M56S++ - 212Th/s"
     },
     {
         "input": "Goldshell KA BOX PRO Kaspa Miner (1.6 TH/s) Goldshell KA BOX PRO Kaspa Miner (1.6 TH/s)",
@@ -3577,7 +3589,7 @@
     },
     {
         "input": "GOLDSHELL – AL BOX II PLUS GOLDSHELL – AL BOX II PLUS",
-        "output": "Goldshell AL Box II Plus - 1Th/s"
+        "output": "Goldshell AL Box II Plus"
     },
     {
         "input": "Goldshell AL Box II Alephium Miner 720GH/s | BT-MINERS  / 720G / In stock / Excluding",
@@ -3673,7 +3685,7 @@
     },
     {
         "input": "Bitmain Z15 Pro Zcash Miner 840KSol | BT-MINERS  / 820K / Instock / ",
-        "output": "Bitmain Antminer Z15 Pro - 840KSol/s"
+        "output": "Bitmain Antminer Z15 Pro - 820KSol/s"
     },
     {
         "input": "Goldshell AL Box II Pro Alephium Miner 950GH/s | BT-MINERS  / 950G / In Stock / Excluding",
@@ -3837,7 +3849,11 @@
     },
     {
         "input": "Goldshell AL-BOX III ALPH Miner 1.25T  / Spot (with PSU)",
-        "output": "Goldshell AL BOX III"
+        "output": "Goldshell AL BOX III - 1.25Th/s"
+    },
+    {
+        "input": "Goldshell AL-BOX III ALPH Miner 1.25T  / Spot (with PSU)",
+        "output": "Goldshell AL BOX III - 1.25Th/s"
     },
     {
         "input": "BITMAIN Antminer S19 Pro 96/100/104/110T 84T (with PSU)",
@@ -3864,8 +3880,24 @@
         "output": "Bitmain Antminer E9 Pro - 3.48Gh/s"
     },
     {
+        "input": "Bitmain Antminer E9 Pro 3.86GH/s | BT-MINERS  / 3480MH/S /  / ",
+        "output": "Bitmain Antminer E9 Pro - 3.48Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer E9 Pro 3.86GH/s | BT-MINERS  / 3480MH/S /  / ",
+        "output": "Bitmain Antminer E9 Pro - 3.48Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer E9 Pro 3.86GH/s | BT-MINERS  / 3480MH/S /  / ",
+        "output": "Bitmain Antminer E9 Pro - 3.48Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer E9 Pro 3.86GH/s | BT-MINERS  / 3480MH/S /  / ",
+        "output": "Bitmain Antminer E9 Pro - 3.48Gh/s"
+    },
+    {
         "input": "BITMAIN Antminer S19 Pro+ Hyd 191T / 198T BTC Miners s19-pro-hyd-198t",
-        "output": "Bitmain Antminer S19 Pro Hyd - 198Th/s"
+        "output": "Bitmain Antminer S19 Pro+ Hyd - 198Th/s"
     },
     {
         "input": "Goldshell AL Box III Alephium Miner 1.25T 1.25T Spot (with PSU)",
@@ -3906,6 +3938,26 @@
     {
         "input": "BITMAIN Antminer S19 Pro 96/100/104/110T 92T (with PSU)",
         "output": "Bitmain Antminer S19 Pro - 92Th/s"
+    },
+    {
+        "input": "Bitmain Antminer E9 Pro 3.86GH/s | BT-MINERS  / 3780MH/S /  / ",
+        "output": "Bitmain Antminer E9 Pro - 3.78Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer E9 Pro 3.86GH/s | BT-MINERS  / 3780MH/S /  / ",
+        "output": "Bitmain Antminer E9 Pro - 3.78Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer E9 Pro 3.86GH/s | BT-MINERS  / 3780MH/S /  / ",
+        "output": "Bitmain Antminer E9 Pro - 3.78Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer E9 Pro 3.86GH/s | BT-MINERS  / 3780MH/S /  / ",
+        "output": "Bitmain Antminer E9 Pro - 3.78Gh/s"
+    },
+    {
+        "input": "Bitmain Antminer E9 Pro 3.86GH/s | BT-MINERS  / 3780MH/S /  / ",
+        "output": "Bitmain Antminer E9 Pro - 3.78Gh/s"
     },
     {
         "input": "Bitmain Antminer E9 Pro 3.86GH/s | BT-MINERS  / 3780MH/S /  / ",
@@ -3958,6 +4010,26 @@
     {
         "input": "BITMAIN Antminer S19 Pro 96/100/104/110T 100T (with PSU)",
         "output": "Bitmain Antminer S19 Pro - 100Th/s"
+    },
+    {
+        "input": "Goldshell AL-BOX III 1.25Th/s (ALPH) Miner spot-in-stock",
+        "output": "Goldshell AL BOX III - 1.25Th/s"
+    },
+    {
+        "input": "Goldshell AL-BOX III 1.25Th/s (ALPH) Miner spot-in-stock",
+        "output": "Goldshell AL BOX III - 1.25Th/s"
+    },
+    {
+        "input": "Goldshell AL-BOX III 1.25Th/s (ALPH) Miner spot-in-stock",
+        "output": "Goldshell AL BOX III - 1.25Th/s"
+    },
+    {
+        "input": "Goldshell AL-BOX III 1.25Th/s (ALPH) Miner spot-in-stock",
+        "output": "Goldshell AL BOX III - 1.25Th/s"
+    },
+    {
+        "input": "Goldshell AL-BOX III 1.25Th/s (ALPH) Miner spot-in-stock",
+        "output": "Goldshell AL BOX III - 1.25Th/s"
     },
     {
         "input": "Goldshell AL-BOX III 1.25Th/s (ALPH) Miner spot-in-stock",
@@ -4866,6 +4938,18 @@
     {
         "input": "MicroBT Whatsminer M56S++ Immersion Bitcoin Miner  (254-262 Th/s) MicroBT Whatsminer M56S++ Immersion Bitcoin Miner  (254-262 Th/s)",
         "output": "MicroBT Whatsminer M56S++ - 262Th/s"
+    },
+    {
+        "input": "ICERIVER KS2 LITE Kaspa Miner (2 TH/s) ICERIVER KS2 LITE Kaspa Miner (2 TH/s)",
+        "output": "Iceriver KS2 Lite - 2Th/s"
+    },
+    {
+        "input": "ICERIVER KS2 LITE Kaspa Miner (2 TH/s) ICERIVER KS2 LITE Kaspa Miner (2 TH/s)",
+        "output": "Iceriver KS2 Lite - 2Th/s"
+    },
+    {
+        "input": "ICERIVER KS2 LITE Kaspa Miner (2 TH/s) ICERIVER KS2 LITE Kaspa Miner (2 TH/s)",
+        "output": "Iceriver KS2 Lite - 2Th/s"
     },
     {
         "input": "ICERIVER KS2 LITE Kaspa Miner (2 TH/s) ICERIVER KS2 LITE Kaspa Miner (2 TH/s)",
